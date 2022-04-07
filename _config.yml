@@ -18,9 +18,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
+twitter: "romrawinjp"
+linkedin: "romrawin-chumpu"
+github: "romrawinjp"
 researchgate: "#"
 orcid: "#"
 
