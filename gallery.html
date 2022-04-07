@@ -4,38 +4,14 @@ permalink: /gallery/
 title: Gallery
 ---
 
-<div class="GalleryContainer">
-
-	<div class="gallery">
-
-  {% for gallery in site.galleries %}
-
-  <div class="galleryTile">
-          <a href="{{ gallery.redirect }}" target="_blank">
-          <span>
-              <h2>{{ gallery.title }}</h2>
-              <br/>
-              <p>{{ gallery.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% else %}
-
-  <div class="galleryTile">
-          <a href="{{ gallery.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ gallery.title }}</h2>
-              <br/>
-              <p>{{ gallery.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/images/April62022.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/images/April62022.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>

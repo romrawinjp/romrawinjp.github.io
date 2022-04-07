@@ -46,9 +46,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  galleries:
-    output: true
-    permalink: /galleries/:path/
 
 sass:
   sass_dir: /assets/css/_sass
