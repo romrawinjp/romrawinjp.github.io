@@ -4,17 +4,13 @@ permalink: /gallery/
 title: Gallery
 ---
 
-<<<<<<< HEAD
-<div class="ProjectContainer">
+<div class="GalleryContainer">
 
 	<div class="gallery">
 
-
   {% for project in site.projects %}
 
-  {% if project.redirect %}
   <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
@@ -22,38 +18,9 @@ title: Gallery
           </span>
           </a>
   </div>
-
-  {% else %}
-
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% endif %}
 
   {% endfor %}
 
 	</div>
 
-=======
-<div>
-	{% for post in site.posts %}
-	{% unless post.next %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% else %}
-	{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-	{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-	{% if year != nyear %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% endif %}
-	{% endunless %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-	{% endfor %}
->>>>>>> 34222a663304fb564d42bb237b5183e6b05f7d83
 </div>
