@@ -8,16 +8,31 @@ title: Gallery
 
 	<div class="gallery">
 
-  {% for project in site.projects %}
+  {% for gallery in site.galleries %}
 
-  <div class="projectTile">
+  <div class="galleryTile">
+          <a href="{{ gallery.redirect }}" target="_blank">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ gallery.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ gallery.description }}</p>
           </span>
           </a>
   </div>
+
+  {% else %}
+
+  <div class="galleryTile">
+          <a href="{{ gallery.url | prepend: site.baseurl | prepend: site.url }}">
+          <span>
+              <h2>{{ gallery.title }}</h2>
+              <br/>
+              <p>{{ gallery.description }}</p>
+          </span>
+          </a>
+  </div>
+
+  {% endif %}
 
   {% endfor %}
 
