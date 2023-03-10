@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on Romrawin Chumpu</title>
+    <link>http://romrawinjp.github.io/tags/papermod/</link>
+    <description>Recent content in PaperMod on Romrawin Chumpu</description>
+    <image>
+      <title>Romrawin Chumpu</title>
+      <url>http://romrawinjp.github.io/papermod-cover.png</url>
+      <link>http://romrawinjp.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://romrawinjp.github.io/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation | Update</title>
+      <link>http://romrawinjp.github.io/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://romrawinjp.github.io/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>http://romrawinjp.github.io/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://romrawinjp.github.io/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    
+  </channel>
+</rss>
