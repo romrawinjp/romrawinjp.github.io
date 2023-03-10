@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
@@ -137,7 +137,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Romrawin's Blog"
         Content: >
             Welcome to demo of hugo's theme PaperMod.
 
@@ -149,7 +149,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "https://github.com/romrawinjp"
         - name: KoFi
           url: "https://ko-fi.com/adityatelange"
         - name: Rss
