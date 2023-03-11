@@ -1,6 +1,6 @@
 baseURL: 'http://romrawinjp.github.io/'
 languageCode: 'en-us'
-title: 'Romrawin Chumpu'
+title: 'Romrawin Chumpu 😃'
 theme: "PaperMod"
 
 
@@ -139,24 +139,33 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Romrawin's Blog"
+        Title: "Romrawin's Blog 🫀" 
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Welcome to my blog 📔 
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - 🌳 I love documenting my learning experiences! It's kinda relief to revisit and fully grasp concepts that may have slipped my mind.
+            
+            - 🌟 I'd be very happy that my documents might be able to help you in some way!
 
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - What to know me more > my CV [click here](./cv/)
 
     socialIcons:
         - name: github
           url: "https://github.com/romrawinjp"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
-
+        - name: instagram
+          url: "https://instagram.com/romrawinjp"
+        - name: facebook
+          url: "https://facebook.com/romrawin.chumpu/"
+        - name: twitter
+          url: "https://twitter.com/romrawinjp"        
+        - name: linkedin
+          url: "https://www.linkedin.com/in/romrawin-chumpu/"
+        - name: googlescholar
+          url: "https://scholar.google.co.th/citations?user=d2mMM0AAAAAJ&hl=en"
+        - name: researchgate
+          url: "https://www.researchgate.net/profile/Romrawin-Chumpu"
+        - name: medium
+          url: "https://romrawin.medium.com/"
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
     #     Text: "Suggest Changes" # edit text
