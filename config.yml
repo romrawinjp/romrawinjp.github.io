@@ -1,6 +1,6 @@
 baseURL: 'http://romrawinjp.github.io/'
 languageCode: 'en-us'
-title: 'Romrawin Chumpu 😃'
+title: 'Romrawin Chumpu'
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -38,6 +38,9 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
+                - name: ❤️
+                  url: /chill-blog
+                  weight: 15
                 # - name: WiKi
                 #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 # - name: Discord

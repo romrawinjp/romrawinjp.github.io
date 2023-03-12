@@ -30,7 +30,7 @@ My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am curr
 
 ---
 
-## Work experiences
+## Work Experiences
 
 **Research Assistant** <br><small>April 2022 - Present</small><br>`Project` Image captioning <br> <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Conducting Image Captioning project particularly in Thai language. <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  Experimenting new approach on facial swapping technique. </small> <br> **Graduate co-research** <br><small>March 2021 - February 2022</small> <br> `Project` Face blending <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> ▪️ Face blending from face components composition from criminals collaborated with Royal Thai Police.</small> <br> *Image Processing and Understanding Reserch Team (IPU)*, <br> National Electronics and Computer Technology Center (NECTEC), <br> National Science and Technology Development Agency (NSTDA), Thailand. 
 
@@ -50,3 +50,23 @@ My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am curr
 
 ---
 ## Publication
+
+<style> 
+#rcorners1 {
+  border-radius: 10px;
+  background: #F8F9F9;
+  padding: 20px; 
+  width: 700px;
+  height: 150px;  
+}
+</style> 
+
+<div>
+  <p id = "rcorners1">London olitan area of over 13 million inhabitants. <br> paper 1</p>
+</div>
+
+
+
+## In-Review Publication
+
+## Conference Presentation
