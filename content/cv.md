@@ -62,7 +62,7 @@ My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am curr
 </style> 
 
 <div>
-  <p id = "rcorners1">London olitan area of over 13 million inhabitants. <br> paper 1</p>
+  <p id = "rcorners1">London olitan area of over 13 million inhabitants. <br> paper 1 </p>
 </div>
 
 

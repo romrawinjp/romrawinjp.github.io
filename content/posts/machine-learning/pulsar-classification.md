@@ -1,7 +1,7 @@
 ---
 author: "Romrawin Chumpu"
 title: "Pulsar Classification"
-date: "2019-03-13"
+date: "2023-03-13"
 description: "The note based on the Playground Series 3, EP 10"
 tags: ["machine-learning", "classification"]
 categories: ["machine-learning", "kaggle"]
