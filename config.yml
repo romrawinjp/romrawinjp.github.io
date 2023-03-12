@@ -3,7 +3,6 @@ languageCode: 'en-us'
 title: 'Romrawin Chumpu 😃'
 theme: "PaperMod"
 
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -114,6 +113,7 @@ params:
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
+    ShareButtons: ["linkedin", "twitter"] 
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -122,12 +122,12 @@ params:
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
     ShowToc: true
-    # comments: false
+    comments: true
     images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Romrawin Chumpu
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -182,10 +182,10 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
+        favicon: "favicon.ico"
+        favicon16x16: "favicon-16x16.png"
+        favicon32x32: "favicon-32x32.png"
+        apple_touch_icon: "apple-touch-icon.png"
     #     safari_pinned_tab: "<link / abs url>"
 
     # cover:
