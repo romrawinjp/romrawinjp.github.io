@@ -53,16 +53,17 @@ My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am curr
 
 <style> 
 #rcorners1 {
+  display: flex;
   border-radius: 10px;
   background: #F8F9F9;
   padding: 20px; 
-  width: 700px;
+  max-width: 700px;
   height: 150px;  
 }
 </style> 
 
 <div>
-  <p id = "rcorners1">London olitan area of over 13 million inhabitants. <br> paper 1 </p>
+  <p id = "rcorners1" content="width=device-width, initial-scale=1">London olitan area of over 13 million inhabitants. <br> paper 1 </p>
 </div>
 
 
