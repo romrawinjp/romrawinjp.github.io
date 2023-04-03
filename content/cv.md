@@ -58,12 +58,16 @@ My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am curr
   background: #F8F9F9;
   padding: 20px; 
   max-width: 700px;
-  height: 150px;  
+  max-height: 200px;
 }
 </style> 
 
 <div>
-  <p id = "rcorners1" content="width=device-width, initial-scale=1">London olitan area of over 13 million inhabitants. <br> paper 1 </p>
+  <p id = "rcorners1" content="width=device-width, initial-scale=1">
+  <img src="/images/faceswap.png" alt="faceswap paper" width="210", style="margin: 10px">
+  <small> Chumpu R, Temniranrat P, Marukatat S (2022). Synthetic face generation from in-the-wild face components swapping. Conference Proceeding at the 17th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2022), Chiang Mai, Thailand.
+  </small> 
+  </p>
 </div>
 
 
