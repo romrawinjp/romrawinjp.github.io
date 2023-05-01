@@ -5,10 +5,15 @@ layout: "post"
 tags: ["jinpu", "cv", "work", "publication"]
 env: "production"
 ShowWordCount: true
+tocopen: true
 ShowShareButtons: false
+analytics.google.SiteVerificationTag: "XYZabc"
 ---
 
 <style> 
+body {
+  font-size: 16px;
+}
 #rcorners1 {
   display: flex;
   border-radius: 10px;
@@ -32,7 +37,7 @@ Research Assistant at Image Processing and Understanding Research Team
 
 My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am currently working as a *research assistant* at Image Processing and Understanding Reserch Team at [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/) as a part of [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/). My current work is under the project Image Captioning. I am researching a technique the most neural way of making a caption in Thai. 
 
-I am recently a master graduate from SIIT with the supervision of Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat. Our paper, "Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery", is under reviewing. 
+I am recently a master graduate from SIIT with the supervision of Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is under reviewing.
 
 <!-- <br clear="left"/> -->
 
@@ -43,7 +48,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  <small> <b> May 1, 2023 </b> - I will be attending Stanford Summer Session!
   </small> 
   </p>
 </div>
@@ -52,9 +57,11 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 ## Work Experiences
 
-**Research Assistant** <br><small>April 2022 - Present</small><br>`Project` Image captioning <br> <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Conducting Image Captioning project particularly in Thai language. <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  Experimenting new approach on facial swapping technique. </small> <br> **Graduate co-research** <br><small>March 2021 - February 2022</small> <br> `Project` Face blending <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> ▪️ Face blending from face components composition from criminals collaborated with Royal Thai Police.</small> <br> *Image Processing and Understanding Reserch Team (IPU)*, <br> National Electronics and Computer Technology Center (NECTEC), <br> National Science and Technology Development Agency (NSTDA), Thailand. 
+**Research Assistant** <br><small>April 2022 - Present</small><br>`Project` Image captioning <br> <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Conducting Image Captioning project particularly in Thai language. <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  Experimenting new approach on facial swapping technique. </small> <br> **Graduate Co-Researcher** <br><small>March 2021 - February 2022</small> <br> `Project` Face blending <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> ▪️ Face blending from face components composition from criminals collaborated with Royal Thai Police.</small> <br> *Image Processing and Understanding Reserch Team (IPU)*, <br> National Electronics and Computer Technology Center (NECTEC), <br> National Science and Technology Development Agency (NSTDA), Thailand. 
 
-*Super AI Engineer Development Program*<br> Artificial Intelligence Association of Thailand (AIAT), Thailand. <br> <small> February 2023 - March 2023 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 3 <br> <small> February 2022 - August 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 2 <br> &nbsp;&nbsp;&nbsp;&nbsp; **Project Manager** on Image Processing with Southern Palm company <br> <small> September 2020 - July 2021 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Participant** in Super AI Engineer Development Program Season 1 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Courseworks, hackathons and hands-on experiences from various company in Thailand on NLP, signal processing, image processing, data science, and related field.
+
+
+*Super AI Engineer Development Program*<br> Artificial Intelligence Association of Thailand (AIAT), Thailand. <br> <small> February 2023 - March 2023 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 3 <br> <small> February 2022 - August 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 2 <br> &nbsp;&nbsp;&nbsp;&nbsp; **Project Manager** on Image Processing with Southern Palm company <br> <small> September 2020 - July 2021 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **AI Developer** in Super AI Engineer Development Program Season 1 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Courseworks, hackathons and hands-on experiences from various company in Thailand on NLP, signal processing, image processing, data science, and related field.
 
 **Teaching Assistant and Tutor System Administrator** <br> <small> August 2019 - July 2021 </small> <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
 
@@ -73,8 +80,8 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> <i> Romrawin Chumpu</i>, Pitchayagan Temniranrat, Sanparith Marukatat <br> iSAI-NLP-AIoT 2022 | <a href="https://ieeexplore.ieee.org/document/9960274">Paper</a>
-  </medium> 
+  <small> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> <i> Romrawin Chumpu</i>, Pitchayagan Temniranrat, Sanparith Marukatat <br> iSAI-NLP-AIoT 2022 | <a href="https://ieeexplore.ieee.org/document/9960274">Paper</a>
+  </small> 
   </p>
 </div>
 
@@ -120,28 +127,28 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> Presented online at OAMLS: Online Asian Machine Learning School as a part of 14th Asian Conference on Machine Learning (ACML 2022), Hyderabad, India. </br> OAMLS 2022| <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
+  <small> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> Presented online at OAMLS: Online Asian Machine Learning School as a part of 14th Asian Conference on Machine Learning (ACML 2022), Hyderabad, India. </br> OAMLS 2022 | <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
   </small> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Numerical Simulation of Microneedle Materials </b> <br> Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA 2020), Bangkok, Thailand. </br> IUMRS-ICA 2020 | <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
+  <small> <b> Numerical Simulation of Microneedle Materials </b> <br> Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA 2020), Bangkok, Thailand. </br> IUMRS-ICA 2020, Bangkok, Thailand. | <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
   </small> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Two-Way Coupling Computational Fluid Dynamics with Explicit Dynamics Modeling and Simulation of Microneedle. </b> <br> Presented at the International Conference in Mathematics and Applications (ICMA-MU 2020), Bangkok, Thailand.
+  <small> <b> Two-Way Coupling Computational Fluid Dynamics with Explicit Dynamics Modeling and Simulation of Microneedle. </b> <br> ICMA-MU 2020, 
   </small> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Prediction of dengue incidences in Thailand using a quasi-likelihood generalized linear model </b> <br> Presented at the 10th Anniversary Conference on Nonlinear Analysis and Convex Analysis at Chitose City Cultural Center Hokkaido, Chitose, Japan.
+  <small> <b> Prediction of dengue incidences in Thailand using a quasi-likelihood generalized linear model </b> <br> NACA 2017, Chitose, Japan.
   </small> 
   </p>
 </div>
