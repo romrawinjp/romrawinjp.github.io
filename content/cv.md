@@ -55,7 +55,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer The Reality <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here </a>
+  <small> <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer The Reality <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here. </a>
   </small> 
   </p>
 </div>
@@ -73,8 +73,8 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <small> <b> June 4, 2022 </b> - The 30th SIIT Talk! Thank you for chosing me as one of thirty people who represent SIIT reputation. Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here </a> <br>
-  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/282149538_10162453703594554_2566049933302069073_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGljMlojBRnnAKrrIvFmvC9sO--BswjPk2w774GzCM-TYBouLYdNFu_bNyNoWHyHdGI2hHfSh4cUok9GujsAzEn&_nc_ohc=cLyBECqlFikAX96G7s2&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfDRaxfKcppf38TeIPobBGhLQvUQ-xssyrXHBh0JjTZAeA&oe=64549DD5" alt= "jinpu-siit" width="150" height="150" style="margin: 15px"> 
-  <img align="left" src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/283225986_7720842811274290_157366933971550152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH1-Wuc7TKEJB8qeXwzjL9XSGWvxbo_B81IZa_Fuj8Hzc_S579x2SK87FbuMtdaV50ZMQDi5KsUpGPTVKdui9W1&_nc_ohc=FzHnynAMuPgAX-YRoFQ&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfCNX16HQ8YCb1YuURGltcQyw5pcKYdCrUNIioexUmd3nw&oe=645410CA" alt= "jinpu-siit-" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/282149538_10162453703594554_2566049933302069073_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGljMlojBRnnAKrrIvFmvC9sO--BswjPk2w774GzCM-TYBouLYdNFu_bNyNoWHyHdGI2hHfSh4cUok9GujsAzEn&_nc_ohc=cLyBECqlFikAX96G7s2&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfDRaxfKcppf38TeIPobBGhLQvUQ-xssyrXHBh0JjTZAeA&oe=64549DD5" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/283225986_7720842811274290_157366933971550152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH1-Wuc7TKEJB8qeXwzjL9XSGWvxbo_B81IZa_Fuj8Hzc_S579x2SK87FbuMtdaV50ZMQDi5KsUpGPTVKdui9W1&_nc_ohc=FzHnynAMuPgAX-YRoFQ&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfCNX16HQ8YCb1YuURGltcQyw5pcKYdCrUNIioexUmd3nw&oe=645410CA" alt= "jinpu-siit-2" width="150" height="150" style="margin: 15px"> 
   </small> 
   </p>
 </div>
@@ -88,7 +88,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> January 21, 2022 </b> - It is my great honour to join GYSS and the panel discussion on Ethic AI. This is the most inpiring event for a little researcher like me. Thank you NSTDA for this opportunity <br> Read the report in Thai <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> here. </a> <br>
+  <small> <b> January 21, 2022 </b> - It is my great honour to join GYSS and the panel discussion on Ethic AI. This is the most inpiring event for a little researcher like me. Thank you NSTDA for this opportunity. <br> Read the report in Thai <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> here. </a> <br>
   <img align="left" src="/images/gyss.jpeg" alt= "jinpu-gyss" width="260" height="150" style="margin: 15px"> 
   </small> 
   </p>
@@ -96,9 +96,9 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> November 16, 2021 </b> - Thank you Thammasat University! My honourest moment of the time I have been studied here <br> <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
+  <small> <b> November 16, 2021 </b> - Thank you Thammasat University! My honourest moment of the time I have been studied here. <br> <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
   <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
-  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/260413358_4539415592774602_1845184958251730333_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFvRxwNgdwZUTcVYkojQNTImJDyIYqBiVWYkPIhioGJVZ_NoQpsgWx4oANeb2wCiC21B6fpB55nZaU9OrqGnq1N&_nc_ohc=5Lm1vqcIVWsAX-IswKN&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfCi2ZlYSAJmpDTYWlW2h1vCJCVN3M-_qSBVcF0rTPWs2A&oe=64555B4C" alt= "jinpu-siit-" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/260413358_4539415592774602_1845184958251730333_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFvRxwNgdwZUTcVYkojQNTImJDyIYqBiVWYkPIhioGJVZ_NoQpsgWx4oANeb2wCiC21B6fpB55nZaU9OrqGnq1N&_nc_ohc=5Lm1vqcIVWsAX-IswKN&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfCi2ZlYSAJmpDTYWlW2h1vCJCVN3M-_qSBVcF0rTPWs2A&oe=64555B4C" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
   </small> 
   </p>
 </div>
@@ -106,9 +106,9 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <small> <b> October 1, 2021 </b> - My honour to receive the Silver Medal as the Advanced AI Certificate from Super AI Engineer Development program. <br>
-  <img align="left" src="https://media.licdn.com/dms/image/C5622AQEy6dMB6oeYFA/feedshare-shrink_1280/0/1634281894035?e=1685577600&v=beta&t=HH_txVZQGhJJ9JmRfDbaGGcZ92A_ntEs-QfVnr8ZgdY" alt= "jinpu-silver" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="https://media.licdn.com/dms/image/C5622AQEy6dMB6oeYFA/feedshare-shrink_1280/0/1634281894035?e=1685577600&v=beta&t=HH_txVZQGhJJ9JmRfDbaGGcZ92A_ntEs-QfVnr8ZgdY" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
 
-  <img align="left" src="https://media.licdn.com/dms/image/C5622AQE5llxgs53pAA/feedshare-shrink_2048_1536/0/1634281896976?e=1685577600&v=beta&t=e0MdFjN_pnTcI24124gYvmqgaKcxjM2GU69Dl1Oy688" alt= "jinpu-silver" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="https://media.licdn.com/dms/image/C5622AQE5llxgs53pAA/feedshare-shrink_2048_1536/0/1634281896976?e=1685577600&v=beta&t=e0MdFjN_pnTcI24124gYvmqgaKcxjM2GU69Dl1Oy688" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
   </small> 
   </p>
 </div>
