@@ -17,7 +17,7 @@ body {
 #rcorners1 {
   display: flex;
   border-radius: 10px;
-  background: rgba(230, 232, 236, 0.18);
+  background: rgba(230, 232, 236, 0.15);
   padding: 20px; 
   max-width: 700px;
   height: auto;
