@@ -17,7 +17,7 @@ body {
 #rcorners1 {
   display: flex;
   border-radius: 10px;
-  background: rgba(230, 230, 230, 0.15);
+  background: rgba(230, 232, 236, 0.18);
   padding: 20px; 
   max-width: 700px;
   height: auto;
@@ -108,7 +108,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> October 1, 2021 </b> - My honour to receive the Silver Medal as the Advanced AI Certificate from Super AI Engineer Development program. <br>
+  <medium> <b> October 1, 2021 </b> - My honour to receive the Silver Medal as the Advanced AI Certificate from Super AI Engineer Development program. <br> <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> Poster </a> <br>
   <img align="left" src="https://media.licdn.com/dms/image/C5622AQEy6dMB6oeYFA/feedshare-shrink_1280/0/1634281894035?e=1685577600&v=beta&t=HH_txVZQGhJJ9JmRfDbaGGcZ92A_ntEs-QfVnr8ZgdY" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
 
   <img align="left" src="https://media.licdn.com/dms/image/C5622AQE5llxgs53pAA/feedshare-shrink_2048_1536/0/1634281896976?e=1685577600&v=beta&t=e0MdFjN_pnTcI24124gYvmqgaKcxjM2GU69Dl1Oy688" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
@@ -139,7 +139,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 &nbsp;&nbsp;&nbsp;&nbsp; **Bachelor of Engineering (First-Class Honors), Bio-Chemical Engineering and Technology** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small><br> &nbsp;&nbsp;&nbsp;&nbsp; Sirindhorn International Institute of Technology, Thammasat University, Thailand. <br> &nbsp;&nbsp;&nbsp;&nbsp; **Exchange Student, Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>December 2018 - May 2019</small><br> &nbsp;&nbsp;&nbsp;&nbsp; University of Waterloo, Canada. <br> &nbsp;&nbsp;&nbsp;&nbsp; `Project` Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD*
 
 ---
-## Publication
+## Publications
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
@@ -186,18 +186,18 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
   </p>
 </div>
 
-## Conference Presentation
+## Conference Presentations
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> Presented online at OAMLS: Online Asian Machine Learning School as a part of 14th Asian Conference on Machine Learning (ACML 2022), Hyderabad, India. </br> OAMLS 2022 | <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
+  <medium> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> Presented online at OAMLS: Online Asian Machine Learning School as a part of 14th Asian Conference on Machine Learning (ACML 2022), Hyderabad, India. </br> OAMLS 2022 | <a href="https://drive.google.com/file/d/1xLo46V2etu2ydfcnuugP6OLNNyII3Cze/view?usp=share_link">Poster</a>
   </medium> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Numerical Simulation of Microneedle Materials </b> </br> IUMRS-ICA 2020, Bangkok, Thailand. | <a href="https://github.com/romrawinjp/mn-sim">Poster</a>
+  <medium> <b> Numerical Simulation of Microneedle Materials </b> </br> IUMRS-ICA 2020, Bangkok, Thailand. | <a href="/images/iumrs-ica.jpeg">Poster</a>
   </medium> 
   </p>
 </div>
