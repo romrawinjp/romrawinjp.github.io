@@ -8,6 +8,17 @@ ShowWordCount: true
 ShowShareButtons: false
 ---
 
+<style> 
+#rcorners1 {
+  display: flex;
+  border-radius: 10px;
+  background: rgba(230, 230, 230, 0.3);
+  padding: 20px; 
+  max-width: 700px;
+  height: auto;
+}
+</style> 
+
 # Romrawin Chumpu
 
 Research Assistant at Image Processing and Understanding Research Team
@@ -29,6 +40,13 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 ---
 ## News
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <small> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  </small> 
+  </p>
+</div>
 
 ---
 
@@ -53,21 +71,10 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 ---
 ## Publication
 
-<style> 
-#rcorners1 {
-  display: flex;
-  border-radius: 10px;
-  background: #F8F9F9;
-  padding: 20px; 
-  max-width: 700px;
-  max-height: 700px;
-}
-</style> 
-
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> <i> Romrawin Chumpu</i>, Pitchayagan Temniranrat, Sanparith Marukatat <br> ISAI-NLP 2022 / <a href="https://ieeexplore.ieee.org/document/9960274">Paper</a>
-  </small> 
+  <medium> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> <i> Romrawin Chumpu</i>, Pitchayagan Temniranrat, Sanparith Marukatat <br> iSAI-NLP-AIoT 2022 | <a href="https://ieeexplore.ieee.org/document/9960274">Paper</a>
+  </medium> 
   </p>
 </div>
 
