@@ -35,9 +35,9 @@ Research Assistant at Image Processing and Understanding Research Team
 
 <img align="left" src="/images/profile.png" alt= "Jinpu" width="150" height="170" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am currently working as a *research assistant* at Image Processing and Understanding Reserch Team at [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/) as a part of [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/). My current work is under the project Image Captioning. I am researching a technique the most neural way of making a caption in Thai. 
+My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am currently working as a *research assistant* at Image Processing and Understanding Reserch Team at [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/) as a part of [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/). My current work is under the project Image Captioning. I am researching a technique the most netural way of making a caption in Thai. 
 
-I am recently a master graduate from SIIT with the supervision of Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is under reviewing.
+I am recently a master graduate from SIIT with the supervision of <a href="https://www.siit.tu.ac.th/personnel.php?id=251">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is under revising.
 
 <!-- <br clear="left"/> -->
 
@@ -49,7 +49,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> 
-  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! Excited to see the tech city!
+  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! I am excited to see Silicon Valley!
   </medium> 
   </p>
 </div>
@@ -57,7 +57,9 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium>  
-  <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer The Reality <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here. </a>
+  <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer The Reality <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here. </a> <br>
+  AI Live Season 3 - EP.7 <a href="https://www.youtube.com/live/LqU1mpc5NeA?feature=share"> here. </a><br>
+  <img align="left" src="/images/ai-live.jpg" alt= "ai-live-ep7" width="260" height="150" style="margin: 15px"> 
   </medium> 
   </p>
 </div>
@@ -67,16 +69,17 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
   <medium> <b> November 16, 2022 </b> - <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it24hrs.com%2F2022%2Fsuper-ai-engineer-the-reality%2F&psig=AOvVaw2FW_gkiP6dMU8C1_tT3WXh&ust=1683018623383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOip2ovj0_4CFQAAAAAdAAAAABAE"> Super AI Engineer The Reality Season 1 </a> will be on air soon! <br>
   <img align="left" src="/images/reality.jpg" alt= "reality" width="150" height="190" style="margin: 15px"> 
   <!-- <img align="left" src="https://www.it24hrs.com/wp-content/uploads/2022/11/IMG_5662.jpg" alt= "jinpu-reality" width="150" height="150" style="margin: 15px">  -->
-  <img align="left" src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/316801744_577545561044649_1044801622889087897_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHL98AZY_emqtpE_6dNV5xKBTXYHCcYfosFNdgcJxh-ix6XhDJ9Dt3fudyhZHhNWjSN8x-gshcl0AK_7g7rbVnn&_nc_ohc=HDnDdFV5jMoAX8yToKg&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfB3QvrZFg_PIkVIi0LCMAzeIvxGwuOTxa6j4vVdSdkSHw&oe=6454330C" alt= "jinpu-reality-three" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-reality-three.jpeg" alt= "jinpu-reality-three" width="190" height="190" style="margin: 15px"> 
   </medium>
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - The 30th SIIT Talk! Thank you for chosing me as one of thirty people who represent SIIT reputation. Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here </a> <br>
-  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/282149538_10162453703594554_2566049933302069073_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGljMlojBRnnAKrrIvFmvC9sO--BswjPk2w774GzCM-TYBouLYdNFu_bNyNoWHyHdGI2hHfSh4cUok9GujsAzEn&_nc_ohc=cLyBECqlFikAX96G7s2&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfDRaxfKcppf38TeIPobBGhLQvUQ-xssyrXHBh0JjTZAeA&oe=64549DD5" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
-  <img align="left" src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/283225986_7720842811274290_157366933971550152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH1-Wuc7TKEJB8qeXwzjL9XSGWvxbo_B81IZa_Fuj8Hzc_S579x2SK87FbuMtdaV50ZMQDi5KsUpGPTVKdui9W1&_nc_ohc=FzHnynAMuPgAX-YRoFQ&_nc_ht=scontent.fbkk5-5.fna&oh=00_AfCNX16HQ8YCb1YuURGltcQyw5pcKYdCrUNIioexUmd3nw&oe=645410CA" alt= "jinpu-siit-2" width="150" height="150" style="margin: 15px"> 
+  <medium> <b> June 4, 2022 </b> - The 30th SIIT Talk! Thank you for chosing me as one of thirty people who represent SIIT reputation. Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
+  <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-siit-2.jpeg" alt= "jinpu-siit-2" width="150" height="200" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
   </medium>
   </p>
 </div>
@@ -101,7 +104,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> <b> November 16, 2021 </b> - Thank you Thammasat University! My honourest moment of the time I have been studied here. <br> <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
   <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
-  <img align="left" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/260413358_4539415592774602_1845184958251730333_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFvRxwNgdwZUTcVYkojQNTImJDyIYqBiVWYkPIhioGJVZ_NoQpsgWx4oANeb2wCiC21B6fpB55nZaU9OrqGnq1N&_nc_ohc=5Lm1vqcIVWsAX-IswKN&_nc_ht=scontent.fbkk5-6.fna&oh=00_AfCi2ZlYSAJmpDTYWlW2h1vCJCVN3M-_qSBVcF0rTPWs2A&oe=64555B4C" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/super-ai-tu.jpeg" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
   </medium> 
   </p>
 </div>
@@ -181,7 +184,7 @@ I am recently a master graduate from SIIT with the supervision of Assist. Prof. 
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a>| <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
   </medium> 
   </p>
 </div>
