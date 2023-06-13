@@ -112,9 +112,9 @@ I am recently a master graduate from SIIT with the supervision of <a href="https
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> <b> October 1, 2021 </b> - My honour to receive the Silver Medal as the Advanced AI Certificate from Super AI Engineer Development program. <br> <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> Poster </a> <br>
-  <img align="left" src="images/jinpu-silver-1.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-silver-1.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
 
-  <img align="left" src="images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
   </medium> 
   </p>
 </div>
