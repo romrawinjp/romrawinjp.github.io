@@ -112,9 +112,9 @@ I am recently a master graduate from SIIT with the supervision of <a href="https
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> <b> October 1, 2021 </b> - My honour to receive the Silver Medal as the Advanced AI Certificate from Super AI Engineer Development program. <br> <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> Poster </a> <br>
-  <img align="left" src="https://media.licdn.com/dms/image/C5622AQEy6dMB6oeYFA/feedshare-shrink_1280/0/1634281894035?e=1685577600&v=beta&t=HH_txVZQGhJJ9JmRfDbaGGcZ92A_ntEs-QfVnr8ZgdY" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="images/jinpu-silver-2.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
 
-  <img align="left" src="https://media.licdn.com/dms/image/C5622AQE5llxgs53pAA/feedshare-shrink_2048_1536/0/1634281896976?e=1685577600&v=beta&t=e0MdFjN_pnTcI24124gYvmqgaKcxjM2GU69Dl1Oy688" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
   </medium> 
   </p>
 </div>
