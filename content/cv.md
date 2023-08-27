@@ -71,7 +71,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 📕 [Simulation and Control of Drug Release on Microneedle using Machine Learning Technique](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:272966) <br>
 🕵️‍♂️ Supervisor: Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat
 
-**Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
+**Bachelor of Engineering (First-Class Honours), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
 ⚗️ Minor in bio-chemical engineering track
 <br>📍 Sirindhorn International Institute of Technology, Thammasat University <br>
 💰 Junior Science Talent Project (Mathematics) scholarship <br>
@@ -101,24 +101,53 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 <small> used TARA and LANTA in training and optimizing large models </small> 
 
 **Graduate Co-Researcher** - Image Processing and Understanding Research Team <br> 📍 National Electronics and Computer Technology Center (NECTEC) <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <small> March 2021 - February 2022</small> <br> 📃 Face blending - <small> experimented Asian face blending using pretrained UNet and GANs </small> <br> 📃 Face component clustering - <small> wrote autometic extracting and clustering Asian face components </small><br> 📃 3D face generation - <small> extensive studied on how to construct 3D face model and automatic 3D face generation </small> <br> 📃 Face composition - <small> programmed swapping components composition from criminals collaborated with Royal Thai Police</small> 
+&nbsp;&nbsp;&nbsp;&nbsp; <small> March 2021 - February 2022</small> <br> 📃 Face blending - <small> experimented Asian face blending using pretrained UNet and GANs </small> <br> 📃 Face component clustering - <small> wrote autometic extracting and clustering Asian face components </small><br> 📃 3D face generation - <small> extensive studied on how to construct 3D face model and automatic 3D face generation </small> <br> 📃 Face composition - <small> programmed swapping composition collaborated with Royal Thai Police</small> 
 
 **AI Engineer** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
-🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> 📃 This was a part of incubation program with courseworks and hands-on experiences from companies in Thailand on NLP, signal processing, image processing, data science, and related fields.
+🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> <small> 📃 This work was a part of incubation program with courseworks and hands-on experiences from company in Thailand on solving social problems in NLP, signal processing, image processing, data science, and related fields. </small>
 
 
-
-**Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br> 📍 Department of Chemical Engineering, University of Waterloo, ON, Canada. <br> 📃 
-Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 🕵️‍♂️ Supervisor: Prof. Peter L. Douglas
+**Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br>
+📍 Department of Chemical Engineering, University of Waterloo, ON, Canada. <br> 
+📃 
+Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 
+🕵️‍♂️ Supervisor: Prof. Peter L. Douglas
 
 ---
 
 ## Teaching
 
-**Super AI Engineer Development Program**<br> Artificial Intelligence Association of Thailand (AIAT), Thailand.  <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 3 <br> <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - March 2023 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 2 <br> &nbsp;&nbsp;&nbsp;&nbsp; **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Courseworks, hackathons and hands-on experiences from various company in Thailand on NLP, signal processing, image processing, data science, and related field.
+**Teaching Assistant** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 👶 Super AI Engineer Development Program Season 3 <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 👶 Super AI Engineer Development Program Season 2 <br> <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> <small> 🗣️ Guiding new generation of AI developers on several AI-related projects </small>
 
 
-**Teaching Assistant and Tutor System Administrator** <br> <small> August 2019 - July 2021 </small> <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
+**Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
+
+**Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
+<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Helping students with homework and explaination in all subjects during freshmen year, advising students on how to adapt to university-level classes</small>
+
+---
+
+## Awards and Honors
+
+`2023` 🏆 **Best project award** - CS148 Introduction to Computer Graphics  📍 Stanford University 
+
+`2022` 📺 **Super AI Engineer - The Reality Show** - A new style TV game show completing with AI coding and solving skills for social problem (10/8000 paticipants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
+
+`2022` 🏆 **One of thirty people who contributed SIIT reputation** - In celebration of 30th year of SIIT📍Sirindhorn International Institute of Technology, Thammasat University
+
+`2022` 📕 **The 10th of The Global Young Scientist Summit (GYSS) 2022** - Joined panel discussion in Artificial Intelligence, Ethics and Governance with Prof. Cédric Villani and Prof. Leslie Valiant 📍 National Science Foundation of Singapore (NSF) 
+
+`2021` 🏆 **Outstanding submission** - Thailand Machine Learning for Chemistry Competition (1/100 groups)
+ 
+`2021` 🏆 **Advanced AI Certificate** - Super AI Engineer Development Program (10/3000 paticipants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
+
+`2020` 🏆 **Second prize project on Molecular Dynamics** - KMUTT Scientific Programming with Python Summer School 📍 Faculty of Science, King Mongkut’s University of Technology Thonburi
+
+`2020` 🏆 **Outstanding Performance Award** - Award to students who have contributed to SIIT Reputation 📍 Sirindhorn International Institute of Technology, Thammasat University
+
+`2019` 🏆 **First-Class Honors in Bio-Chemical Engineering and Technology** 📍 Sirindhorn International Institute of Technology, Thammasat University
+
+`2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best Mathematics project - awarded scholarship and research support up to PhD level in Thailand (1/60 projects)📍 National Science and Technology Development Agency (NSTDA)
 
 ---
 ## News
@@ -274,5 +303,3 @@ Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orth
   </medium> 
   </p>
 </div>
-
-## Social news
