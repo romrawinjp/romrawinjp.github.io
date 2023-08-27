@@ -2,7 +2,7 @@
 title: "Curriculum vitae"
 author: Romrawin Chumpu
 layout: "post"
-tags: ["jinpu", "cv", "work", "publication"]
+tags: ["jinpu", "jin" ,"cv", "work", "publication"]
 env: "production"
 ShowWordCount: true
 tocopen: true
@@ -25,26 +25,67 @@ body {
 </style> 
 
 # Romrawin Chumpu
+Master of Science in Engineering and Technology (Computer Science)
+<br> 📩 `romrawinc@gmail.com` | 📖 <a href="https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en">Google Scholar</a>
 
-Research Assistant at Image Processing and Understanding Research Team
-<br> 📩 `romrawin.chu@ncr.nstda.or.th` or `romrawinc@gmail.com`
-
-> Never stop learning 😉
+<!-- > What is life?  -->
 
 ## About me
 
-<img align="left" src="/images/profile.png" alt= "Jinpu" width="150" height="170" style="margin: 15px">
+<img align="left" src="/images/profile.png" alt= "Jinpu" width="130" height="145" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am currently working as a *research assistant* at Image Processing and Understanding Reserch Team at [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/) as a part of [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/). My current work is under the project Image Captioning. I am researching a technique the most netural way of making a caption in Thai. 
+My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
-I am recently a master graduate from SIIT with the supervision of <a href="https://www.siit.tu.ac.th/personnel.php?id=251">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is under revising.
+&nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (micro-nano scale) <br>
+&nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization. <br>
+&nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks. <br>
+&nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D facial study, object recognition, image and dense captioning. <br>
+&nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - image and dense captioning. <br>
+&nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_.
+
+> I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
+
+<!-- My name is Romrawin Chumpu. You can call me "Jinpu" or "Jin" in short. I am currently working as a *research assistant* at Image Processing and Understanding Reserch Team at [National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/) as a part of [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/). My current work is under the project Image Captioning. I am researching a technique the most netural way of making a caption in Thai.  -->
+
+Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is almost published.
+
+> I'm looking for PhD position (where I belong). 
 
 <!-- <br clear="left"/> -->
 
-**Research interests:** `Machine Learning` `Image Processing` `Geometric Deep Learning` `Computational Dynamics Simulation` `Materials Simulation` `Computational Biology`
+**Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery`
 
 ---
-## News
+## Education
+
+**Stanford University** - Graduate visiting student
+<br> 
+&nbsp;&nbsp;&nbsp;&nbsp; <small>June 2023 - August 2023 </small> <br> 💰 Summer Session tuition grant <br> 
+📕 [CS148](http://web.stanford.edu/class/cs148/showcase.html), CS229, EFSLANG698S, MES344S
+
+**Master of Science, Engineering and Technology (Computer Science)** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp; <small>July 2019 - February 2022 </small> <br> 
+📍Sirindhorn International Institute of Technology, Thammasat University. <br> 
+💰 Junior Science Talent Project (Mathematics) and Excellence Thai Students scholarship <br>
+🥼 Lab: [Functional Advanced Material Engineering laboratory (FAME)](https://fametu.com/) <br> 
+📕 [Simulation and Control of Drug Release on Microneedle using Machine Learning Technique](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:272966) <br>
+🕵️‍♂️ Supervisor: Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat
+
+**Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
+⚗️ Minor in bio-chemical engineering and teachnology track
+<br>📍 Sirindhorn International Institute of Technology, Thammasat University <br>
+💰 Junior Science Talent Project (Mathematics) <br>
+
+**Exchange Student, Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>December 2018 - May 2019</small><br> 
+📍 🍁 University of Waterloo, Canada <br> 
+💰 Junior Science Talent Project (Mathematics) research grant <br> 
+🥼 Lab: [Computational MultiPhysics (CoMPhys) research group](https://uwaterloo.ca/computational-multiphysics/) <br>
+📕 Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD <br>
+🕵️‍♂️ Supervisor: Assoc. Prof. Nasser Mohieddin Abukhdeir
+
+
+---
+## Academic news
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
@@ -121,7 +162,7 @@ I am recently a master graduate from SIIT with the supervision of <a href="https
 
 ---
 
-## Work Experiences
+## Work experience
 
 **Research Assistant** <br><small>April 2022 - Present</small><br>`Project` Image captioning <br> <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Conducting Image Captioning project particularly in Thai language. <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  Experimenting new approach on facial swapping technique. </small> <br> **Graduate Co-Researcher** <br><small>March 2021 - February 2022</small> <br> `Project` Face blending <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> ▪️ Face blending from face components composition from criminals collaborated with Royal Thai Police.</small> <br> *Image Processing and Understanding Reserch Team (IPU)*, <br> National Electronics and Computer Technology Center (NECTEC), <br> National Science and Technology Development Agency (NSTDA), Thailand. 
 
@@ -133,13 +174,6 @@ I am recently a master graduate from SIIT with the supervision of <a href="https
 
 **Summer Research Internship** <br> <small> June 2018 - August 2018 </small> <br> Department of Chemical Engineering, University of Waterloo, ON, Canada. <br>
 `Project` Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation.
-
----
-
-## Education
-&nbsp;&nbsp;&nbsp;&nbsp; **Master of Science, Engineering and Technology (focusing on Computer Science)** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>July 2019 - February 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp; Sirindhorn International Institute of Technology, Thammasat University, Thailand. <br> &nbsp;&nbsp;&nbsp;&nbsp; [Functional Advanced Material Engineering laboratory (FAME)](https://fametu.com/) <br> &nbsp;&nbsp;&nbsp;&nbsp; `Thesis` Simulation and Control of Drug Release on Microneedle using Machine Learning Technique
-
-&nbsp;&nbsp;&nbsp;&nbsp; **Bachelor of Engineering (First-Class Honors), Bio-Chemical Engineering and Technology** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small><br> &nbsp;&nbsp;&nbsp;&nbsp; Sirindhorn International Institute of Technology, Thammasat University, Thailand. <br> &nbsp;&nbsp;&nbsp;&nbsp; **Exchange Student, Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>December 2018 - May 2019</small><br> &nbsp;&nbsp;&nbsp;&nbsp; University of Waterloo, Canada. <br> &nbsp;&nbsp;&nbsp;&nbsp; `Project` Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD*
 
 ---
 ## Publications
@@ -218,3 +252,5 @@ I am recently a master graduate from SIIT with the supervision of <a href="https
   </medium> 
   </p>
 </div>
+
+## Social news
