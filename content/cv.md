@@ -37,11 +37,11 @@ Master of Science in Engineering and Technology (Computer Science)
 My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
 &nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (micro-nano scale) <br>
-&nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization. <br>
-&nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks. <br>
+&nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
+&nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks <br>
 &nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D facial study, object recognition, image and dense captioning. <br>
-&nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - image and dense captioning. <br>
-&nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_.
+&nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - image and dense captioning <br>
+&nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_
 
 > I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
 
@@ -49,11 +49,11 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 
 Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is almost published.
 
-> I'm looking for PhD position (where I belong). 
+> I'm looking for PhD position (where we have a happy lab and I belong). 
 
 <!-- <br clear="left"/> -->
 
-**Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery`
+<!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
 
 ---
 ## Education
@@ -65,32 +65,68 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 **Master of Science, Engineering and Technology (Computer Science)** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp; <small>July 2019 - February 2022 </small> <br> 
-📍Sirindhorn International Institute of Technology, Thammasat University. <br> 
+📍Sirindhorn International Institute of Technology, Thammasat University <br> 
 💰 Junior Science Talent Project (Mathematics) and Excellence Thai Students scholarship <br>
-🥼 Lab: [Functional Advanced Material Engineering laboratory (FAME)](https://fametu.com/) <br> 
+🥼 Lab: [Functional Advanced Materials Engineering laboratory (FAME)](https://fametu.com/) <br> 
 📕 [Simulation and Control of Drug Release on Microneedle using Machine Learning Technique](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:272966) <br>
 🕵️‍♂️ Supervisor: Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat
 
 **Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
-⚗️ Minor in bio-chemical engineering and teachnology track
+⚗️ Minor in bio-chemical engineering track
 <br>📍 Sirindhorn International Institute of Technology, Thammasat University <br>
-💰 Junior Science Talent Project (Mathematics) <br>
+💰 Junior Science Talent Project (Mathematics) scholarship <br>
 
 **Exchange Student, Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>December 2018 - May 2019</small><br> 
-📍 🍁 University of Waterloo, Canada <br> 
+📍 University of Waterloo, Canada <br> 
 💰 Junior Science Talent Project (Mathematics) research grant <br> 
 🥼 Lab: [Computational MultiPhysics (CoMPhys) research group](https://uwaterloo.ca/computational-multiphysics/) <br>
-📕 Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD <br>
+📕 [Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD](https://drive.google.com/file/d/1YavXQA3Z3CaYFKAO2kranKQlD0AOBq54/view?usp=sharing) <br>
 🕵️‍♂️ Supervisor: Assoc. Prof. Nasser Mohieddin Abukhdeir
 
+---
+## Work Experience
+
+**Research Assistant** - Image Processing and Understanding Research Team <br> 📍 National Electronics and Computer Technology Center (NECTEC) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <small> April 2022 - June 2023</small><br> 📃 Image captioning - 
+<small> experimented state-of-the-art image captioning in Thai </small> <br>
+📃 Facial component swapping - 
+<small> conducted new approach of facial component swapping </small> <br>
+📃 Image generation - 
+<small> trained large and specific Thai dataset (e.g. food dataset)</small> <br>
+📃 Character-based encoding Transformers - 
+<small> experimented how Thai characters encode in training Transformers </small> <br>
+📃 Multimodal image and text models - 
+<small> finetuned CLIP and CoCa in Thai caption from MSCOCO dataset</small> <br>
+📃 High performance computing - 
+<small> used TARA and LANTA in training and optimizing large models </small> 
+
+**Graduate Co-Researcher** - Image Processing and Understanding Research Team <br> 📍 National Electronics and Computer Technology Center (NECTEC) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <small> March 2021 - February 2022</small> <br> 📃 Face blending - <small> experimented Asian face blending using pretrained UNet and GANs </small> <br> 📃 Face component clustering - <small> wrote autometic extracting and clustering Asian face components </small><br> 📃 3D face generation - <small> extensive studied on how to construct 3D face model and automatic 3D face generation </small> <br> 📃 Face composition - <small> programmed swapping components composition from criminals collaborated with Royal Thai Police</small> 
+
+**AI Engineer** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
+🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> 📃 This was a part of incubation program with courseworks and hands-on experiences from companies in Thailand on NLP, signal processing, image processing, data science, and related fields.
+
+
+
+**Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br> 📍 Department of Chemical Engineering, University of Waterloo, ON, Canada. <br> 📃 
+Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 🕵️‍♂️ Supervisor: Prof. Peter L. Douglas
 
 ---
-## Academic news
+
+## Teaching
+
+**Super AI Engineer Development Program**<br> Artificial Intelligence Association of Thailand (AIAT), Thailand.  <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 3 <br> <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - March 2023 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 2 <br> &nbsp;&nbsp;&nbsp;&nbsp; **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Courseworks, hackathons and hands-on experiences from various company in Thailand on NLP, signal processing, image processing, data science, and related field.
+
+
+**Teaching Assistant and Tutor System Administrator** <br> <small> August 2019 - July 2021 </small> <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
+
+---
+## News
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> 
-  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! I am excited to see Silicon Valley!
+  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session!
   </medium> 
   </p>
 </div>
@@ -160,20 +196,6 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
   </p>
 </div>
 
----
-
-## Work experience
-
-**Research Assistant** <br><small>April 2022 - Present</small><br>`Project` Image captioning <br> <small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Conducting Image Captioning project particularly in Thai language. <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  Experimenting new approach on facial swapping technique. </small> <br> **Graduate Co-Researcher** <br><small>March 2021 - February 2022</small> <br> `Project` Face blending <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> ▪️ Face blending from face components composition from criminals collaborated with Royal Thai Police.</small> <br> *Image Processing and Understanding Reserch Team (IPU)*, <br> National Electronics and Computer Technology Center (NECTEC), <br> National Science and Technology Development Agency (NSTDA), Thailand. 
-
-
-
-*Super AI Engineer Development Program*<br> Artificial Intelligence Association of Thailand (AIAT), Thailand.  <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 3 <br> <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - March 2023 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **Teaching Assistant** for Super AI Engineer Development Program Season 2 <br> &nbsp;&nbsp;&nbsp;&nbsp; **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;  **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️ Courseworks, hackathons and hands-on experiences from various company in Thailand on NLP, signal processing, image processing, data science, and related field.
-
-**Teaching Assistant and Tutor System Administrator** <br> <small> August 2019 - July 2021 </small> <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
-
-**Summer Research Internship** <br> <small> June 2018 - August 2018 </small> <br> Department of Chemical Engineering, University of Waterloo, ON, Canada. <br>
-`Project` Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation.
 
 ---
 ## Publications
