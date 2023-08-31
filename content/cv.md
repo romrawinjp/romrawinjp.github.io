@@ -68,6 +68,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
+> I'm also looking for the meaning of life 😄
 
 <!-- <br clear="left"/> -->
 
@@ -126,7 +127,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 📃 Face composition - <small> programmed face swapping composition collaborated with the Royal Thai Police</small> 
 
 **AI Engineer** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
-🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> <small> 📃 This work was part of an incubation program in Thailand that included training and hands-on experiences on NLP, signal processing, image processing, data science, and related topics. </small>
+🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> 📃 This work was part of an incubation program in Thailand that included training and hands-on experiences on NLP, signal processing, image processing, data science, and related topics.
 
 
 **Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br>
