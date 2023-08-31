@@ -40,7 +40,6 @@ Wandering around procreate and papers 📃
     <a href="https://twitter.com/romrawinjp/status/1695645670966022495?s=20"> <img src="/images/artworks/sketch2.jpg" alt= "sketch-tree" style="width:100%"> </a>
   </div>
   <div class="column">
-     <img src="/images/artworks/sketch3.jpg" alt= "sketch-icecream" style="width:100%">
   </div>
 </div>
 
@@ -52,7 +51,7 @@ Wandering around procreate and papers 📃
     <img src="/images/artworks/sketch5.jpg" alt= "sketch-eyes" style="width:100%">
   </div>
   <div class="column">
-     <!-- <img src="/images/artworks/sketch3.jpg" alt= "sketch-icecream" style="width:100%"> -->
+     <img src="/images/artworks/sketch3.jpg" alt= "sketch-icecream" style="width:100%">
   </div>
 </div>
 
