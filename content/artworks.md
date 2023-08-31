@@ -29,7 +29,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 }
 </style>
 
-# Sketching
+# Sketch
 Wandering around procreate and papers 📃
 
 <div class="row">
@@ -63,6 +63,9 @@ Blender is so fun, why I just knew that. Start since June 2023, like super baby 
 # Crochet
 
 Since Sep 2021. Imma like grandma friend? 
+
+
+# Poetry
 
 > **Acknowledgement** <br>
 > My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if...
