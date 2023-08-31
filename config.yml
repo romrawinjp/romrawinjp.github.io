@@ -152,7 +152,8 @@ params:
     homeInfoParams:
         Title: "Welcome to Jin's Blog" 
         Content: >
-            - 🌳 Learning little by little is a part of growing up
+            - 🌳 Learning little by little is a part of growing up 
+            - 👩‍💻 [CV is here](./cv) 
     socialIcons:
         - name: github
           url: "https://github.com/romrawinjp"
