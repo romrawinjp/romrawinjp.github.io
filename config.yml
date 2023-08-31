@@ -38,9 +38,12 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
+                - name: Artworks
+                  url: artworks/
+                  weight: 15
                 - name: ❤️
                   url: /chill-blog
-                  weight: 15
+                  weight: 20
                 # - name: WiKi
                 #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 # - name: Discord
@@ -142,7 +145,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Romrawin's Blog 🫀" 
+        Title: "Welcome to Jin's Blog 🫀" 
         Content: >
             Welcome to my blog 📔 
 

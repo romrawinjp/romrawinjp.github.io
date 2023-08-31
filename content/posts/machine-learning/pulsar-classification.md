@@ -9,6 +9,7 @@ series: ["Machine Learning"]
 # aliases: ["pulsar-classification"]
 ShowToc: true
 TocOpen: true
+draft: true
 ---
 
 This playground series was started to give kaggle community a light weight challenge. 

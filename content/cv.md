@@ -36,7 +36,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
-&nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (micro-nano scale) <br>
+&nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (macro or micro-nano scale), two-way coupling fluid simulation, multiphase fluid simulation <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
 &nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks <br>
 &nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D facial study, object recognition, image and dense captioning. <br>
@@ -49,7 +49,7 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 
 Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is almost published.
 
-> I'm looking for PhD position (where we have a happy lab and I belong). 
+> I'm looking for a PhD position (where we have a happy lab and I belong). 
 
 <!-- <br clear="left"/> -->
 
@@ -61,7 +61,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 **Stanford University** - Graduate visiting student
 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2023 - August 2023 </small> <br> 💰 Summer Session tuition grant <br> 
-📕 [CS148](http://web.stanford.edu/class/cs148/showcase.html), CS229, EFSLANG698S, MES344S
+📕 CS148, CS229, EFSLANG698S, MES344S
 
 **Master of Science, Engineering and Technology (Computer Science)** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp; <small>July 2019 - February 2022 </small> <br> 
@@ -110,7 +110,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 **Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br>
 📍 Department of Chemical Engineering, University of Waterloo, ON, Canada. <br> 
 📃 
-Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 
+Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 
 🕵️‍♂️ Supervisor: Prof. Peter L. Douglas
 
 ---
@@ -123,15 +123,15 @@ Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orth
 **Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
 
 **Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
-<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Helping students with homework and explaination in all subjects during freshmen year, advising students on how to adapt to university-level classes</small>
+<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Helping students with homework and explanation in all subjects during freshmen year, advising students on how to adapt to university-level classes</small>
 
 ---
 
-## Awards and Honors
+## Awards and Honours
 
 `2023` 🏆 **Best project award** - CS148 Introduction to Computer Graphics  📍 Stanford University 
 
-`2022` 📺 **Super AI Engineer - The Reality Show** - A new style TV game show completing with AI coding and solving skills for social problem (10/8000 paticipants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
+`2022` 📺 **Super AI Engineer - The Reality Show** - A new style TV game show completing with AI coding and solving skills for social problem (10/8000 participants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
 `2022` 🏆 **One of thirty people who contributed SIIT reputation** - In celebration of 30th year of SIIT📍Sirindhorn International Institute of Technology, Thammasat University
 
