@@ -1,8 +1,8 @@
 ---
-title: "Curriculum vitae"
+title: "Curriculum Vitae"
 author: Romrawin Chumpu
 layout: "post"
-tags: ["jinpu", "jin" ,"cv", "work", "publication"]
+tags: ["jinpu", "jin" ,"cv", "work", "publications"]
 env: "production"
 ShowWordCount: true
 tocopen: true
@@ -68,11 +68,13 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
-> I'm also looking for the meaning of life 😄
+> While studying is not the only thing, I'm also looking for the meaning of life 😄. 
 
 <!-- <br clear="left"/> -->
 
 <!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
+
+My full CV is <a href="/romrawin_cv_aug2023.pdf"> here </a>
 
 ---
 ## Education
@@ -152,15 +154,15 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting freshmen students with their homework and provided explanations in all courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
 
 **Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
-<br> 📍 Faculty of Science, Chiang Mai University<br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that we had the power to improve students' lives as a good teacher for them. </small>
+<br> 📍 Faculty of Science, Chiang Mai University<br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that we had the power to improve students' lives as being a good teacher for them. </small>
 
-> ✉️ My life has passed through many great teachers. I love them and they are always my complete role models. I felt extremely fortunate and genuitely grateful to meet all of them. <br> 👶 To my students, thank you for teaching how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or wanna tell me some news! 😁
+> ✉️ My life has passed through many great teachers. I love them and they are always my complete role models. I felt extremely fortunate and genuinely grateful to meet all of them. I would pass your kindness to my students. <br> 👶 To my students, thank you for teaching how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or wanna tell me some news! 😁
 
 ---
 
 ## Awards and Honors
 
-`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics  📍 Stanford University 
+`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics 📍 Stanford University 
 
 `2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 

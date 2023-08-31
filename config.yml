@@ -31,12 +31,15 @@ languages:
                 - name: CV
                   url: cv
                   weight: 1
-                - name: Archive
-                  url: archives
+                - name: Publications
+                  url: cv/#publications
                   weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
+                # - name: Archive
+                #   url: archives
+                #   weight: 5
+                # - name: Search
+                #   url: search/
+                #   weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
@@ -147,31 +150,24 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Welcome to Jin's Blog 🫀" 
+        Title: "Welcome to Jin's Blog" 
         Content: >
-            Welcome to my blog 📔 
-
-            - 🌳 I love documenting my learning experiences! It's kinda relief to revisit and fully grasp concepts that may have slipped my mind.
-            
-            - 🌟 I'd be very happy that my documents might be able to help you in some way!
-
-            - Want to know me more > my CV [click here](./cv/)
-
+            - 🌳 Learning little by little is a part of growing up
     socialIcons:
         - name: github
           url: "https://github.com/romrawinjp"
-        - name: instagram
-          url: "https://instagram.com/romrawinjp"
-        - name: facebook
-          url: "https://facebook.com/romrawin.chumpu/"
+        # - name: instagram
+        #   url: "https://instagram.com/romrawinjp"
+        # - name: facebook
+        #   url: "https://facebook.com/romrawin.chumpu/"
         - name: twitter
           url: "https://twitter.com/romrawinjp"        
-        - name: linkedin
-          url: "https://www.linkedin.com/in/romrawin-chumpu/"
+        # - name: linkedin
+        #   url: "https://www.linkedin.com/in/romrawin-chumpu/"
         - name: googlescholar
           url: "https://scholar.google.co.th/citations?user=d2mMM0AAAAAJ&hl=en"
-        - name: researchgate
-          url: "https://www.researchgate.net/profile/Romrawin-Chumpu"
+        # - name: researchgate
+        #   url: "https://www.researchgate.net/profile/Romrawin-Chumpu"
         - name: medium
           url: "https://romrawin.medium.com/"
     # editPost:
