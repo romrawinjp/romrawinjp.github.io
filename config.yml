@@ -31,15 +31,15 @@ languages:
                 - name: CV
                   url: cv
                   weight: 1
-                - name: Publications
-                  url: cv/#publications
-                  weight: 5
+                # - name: Publications
+                #   url: cv/#publications
+                  # weight: 5
                 # - name: Archive
                 #   url: archives
                 #   weight: 5
-                # - name: Search
-                #   url: search/
-                #   weight: 10
+                - name: Search
+                  url: search/
+                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10

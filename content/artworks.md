@@ -2,7 +2,7 @@
 title: "My Artworks Collection"
 author: Romrawin Chumpu
 layout: "post"
-tags: ["jin" , "leisure", "work", "artworks"]
+tags: ["jin" , "leisure", "work", "artworks", "art"]
 env: "production"
 tocopen: true
 ShowWordCount: true
@@ -12,7 +12,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 <style> 
 body {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 * {
