@@ -218,7 +218,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents the SIIT reputaion throughout the 30 years. And, Happy Birthday! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
+  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! I am grateful for being a graduate here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
   <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
   <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
   </medium>
