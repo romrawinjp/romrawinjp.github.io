@@ -10,7 +10,11 @@ ShowShareButtons: true
 analytics.google.SiteVerificationTag: "XYZabc"
 --- 
 
-<style>
+<style> 
+body {
+  font-size: 14px;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -30,7 +34,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 </style>
 
 # Sketch
-Wandering around procreate and papers 📃
+Wandering around procreate and paper/pencil 📃
 
 <div class="row">
   <div class="column">
@@ -57,14 +61,41 @@ Wandering around procreate and papers 📃
 
 # 3D Modeling
 
-Blender is so fun, why I just knew that. Start since June 2023, like super baby 👶
+Blender is so fun, why I just knew that. Started since June 2023, like super baby level 👶
+
+<div class="row">
+  <div class="column">
+    <video width="300" controls>
+        <source src="/images/artworks/beach_video.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="column">
+  </div>
+  <div class="column">
+  </div>
+</div>
 
 # Crochet
 
-Since Sep 2021. Imma like grandma friend? 
+Started since Sep 2021. Imma like a grandma friend? 😄 I usually do crochet when I wait for my code or sometimes when I can't debug them.
 
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/crochet1.jpg" alt= "crochet-rabbit" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%">
+  </div>
+  <div class="column">
+     <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%">
+  </div>
+</div>
 
 # Poetry
+
+When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
+
+`2023` 🫤 How do you know that?
 
 > **Acknowledgement** <br>
 > My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if...
