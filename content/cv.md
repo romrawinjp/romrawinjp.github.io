@@ -156,7 +156,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 **Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
 <br> 📍 Faculty of Science, Chiang Mai University<br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that we had the power to improve students' lives as being a good teacher for them. </small>
 
-> 🧑‍🏫 My life and intellect has developed through many great teachers. I love them and they are always my complete role models. I felt fortunate and genuinely grateful to meet all of them. I don't know what they see in me, but I'll try to see the best in my students like they did for me. 
+> 🧑‍🏫 My life and intellect has developed through many great teachers. I love them and they are always my complete role models. I felt fortunate and genuinely grateful to meet all of them. I don't know what they were seeing in me, but I'll try to see the best in my students like what they did for me. 
 
 > 👶 To my students, thank you for teaching how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or wanna tell me some news! 😁
 
