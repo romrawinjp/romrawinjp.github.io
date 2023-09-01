@@ -68,7 +68,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
-> While studying is not the only thing, I'm also looking for the meaning of life 😄. 
+> While studying is not the only thing, I'm also looking for the meaning of life 😄, what can I do best and give it back to the society. 
 
 <!-- <br clear="left"/> -->
 
