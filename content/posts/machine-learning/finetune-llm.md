@@ -12,10 +12,14 @@ ShowToc: false
 TocOpen: true
 ---
 
-# Finetuning Large Language Models - short courses from DeepLearning.AI
+<style> 
+body {
+  font-size: 14px;
+}
+</style> 
 
-This course popped up while I search for AI art model to play with. So, I'm excieted to learn about it. And it is a short coure, it could be some fun short project for the weekend!
+This course popped up while I search for AI art model to play with. When I first saw the content, I felt excited to learn more about LLM. And because it is a short coure, it could be some fun short project for the weekend! Let's finetune!
 
 ## Why finetuning and what is finetuning actually is?
 
-Finetuning is a way of making use of general or foundation models. In NLP, there is the base model call `GPT-3` for chatGPT. 
+Finetuning is a way of making use of general or foundation models. In NLP, there is the base model call `GPT-3` for specializing chatGPT. 

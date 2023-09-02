@@ -12,7 +12,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 <style> 
 body {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 * {
@@ -34,7 +34,7 @@ body {
 </style>
 
 # Sketch
-Wandering around procreate and paper/pencil 📃
+Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for papers.
 
 <div class="row">
   <div class="column">
@@ -44,8 +44,10 @@ Wandering around procreate and paper/pencil 📃
     <a href="https://twitter.com/romrawinjp/status/1695645670966022495?s=20"> <img src="/images/artworks/sketch2.jpg" alt= "sketch-tree" style="width:100%"> </a>
   </div>
   <div class="column">
+    <a href="https://twitter.com/romrawinjp/status/1697990632177058278?s=20"> <img src="/images/artworks/sketch6.jpg" alt= "sketch-tree" style="width:100%"> </a>
   </div>
 </div>
+
 
 <div class="row">
   <div class="column">
@@ -59,19 +61,25 @@ Wandering around procreate and paper/pencil 📃
   </div>
 </div>
 
-# 3D Modeling
+`Sep 2` I think lighting in sketch is much harder than in 3D.
+
+# 3D Model
 
 Blender is so fun, why I just knew that. Started since June 2023, like super baby level 👶
 
 <div class="row">
   <div class="column">
-    <video width="300" controls>
+    <br>
+    <video width="100%" controls autoplay>
         <source src="/images/artworks/beach_video.mp4" type="video/mp4">
     </video>
+    This video took my labtop 20 hrs to finish and it's 3 seconds!
   </div>
   <div class="column">
+   <img src="/images/artworks/snow_house.jpg" alt= "3d-1" style="width:100%">
   </div>
   <div class="column">
+  <img src="/images/artworks/pikachu.jpg" alt= "3d-1" style="width:100%">
   </div>
 </div>
 

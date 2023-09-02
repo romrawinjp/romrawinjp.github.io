@@ -58,7 +58,7 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 &nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
 &nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks <br>
-&nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D facial study, object recognition, image and dense captioning. <br>
+&nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D face study, object recognition, image and dense captioning. <br>
 &nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - LLM, image and dense captioning <br>
 &nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_
 

@@ -4,4 +4,7 @@ summary: Contains posts related to `Mathematics for Computer Science`
 description: Contains posts related to Mathematics for Computer Science
 ---
 
-# The main page collection of the post
+# Series collection of Mathematics for Computer Science
+
+
+1. [Introduction](/posts/math-cs/intro/)

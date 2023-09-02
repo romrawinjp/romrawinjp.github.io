@@ -42,10 +42,13 @@ languages:
                   weight: 10
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 15
                 - name: Artworks
                   url: artworks/
-                  weight: 15
+                  weight: 3
+                - name: Project
+                  url: project/
+                  weight: 2
                 - name: ❤️
                   url: /chill-blog
                   weight: 20
