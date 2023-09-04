@@ -12,11 +12,11 @@ ShowToc: false
 TocOpen: true
 ---
 
-<style> 
+<!-- <style> 
 body {
   font-size: 14px;
 }
-</style> 
+</style>  -->
 
 This course popped up while I search for AI art model to play with. When I first saw the content, I felt excited to learn more about LLM. And because it is a short coure, it could be some fun short project for the weekend! Let's finetune!
 

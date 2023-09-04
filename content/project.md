@@ -51,15 +51,15 @@ body {
     <a href="/tags/3d-face/">
         <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
             &nbsp; &nbsp; &nbsp;<medium> <b>3D Face Generation</b></medium> &nbsp; &nbsp; 
-            <img align="left" src="/images/project/3Dface.png" alt= "3Dface" width="50%"" style="margin: 10px"> 
+            <img align="center" src="/images/project/3Dface.png" alt= "3Dface" width="50%"" style="margin: 10px"> 
         </div>
     </a>
   </div>
   <div class="column">
-    <a href="/tags/LLM/">
+    <a href="/tags/llm/">
         <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
             &nbsp; &nbsp; <large> <b>Finetune LLM</b></large> <br> &nbsp; &nbsp; 
-            <img align="left" src="/images/project/finetune-llm.png" alt= "finetune-llm" width="50%"" style="margin: 10px"> 
+            <img align="center" src="/images/project/finetune-llm.png" alt= "finetune-llm" width="50%"" style="margin: 10px"> 
         </div>
     </a>
   </div>
@@ -69,7 +69,7 @@ body {
   <div class="column">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<medium> <b>3D Model Challenge: <br> AI vs Me</b></medium> &nbsp; &nbsp; 
-        <img align="left" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
+        <img align="center" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
   </div>
   <div class="column">
     <!-- <a href="/tags/LLM/">

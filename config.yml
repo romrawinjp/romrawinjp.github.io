@@ -2,8 +2,6 @@ baseURL: 'http://romrawinjp.github.io/'
 languageCode: 'en-us'
 title: 'Romrawin Chumpu'
 theme: "PaperMod"
-buildDrafts: false
-buildFuture: false
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
