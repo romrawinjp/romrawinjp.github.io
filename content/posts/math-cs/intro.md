@@ -8,12 +8,6 @@ series: ["math-cs"]
 tags: ["math-cs"]
 ---
 
-<!-- <style> 
-body {
-  font-size: 14px;
-}
-</style>  -->
-
 # Introduction
 
 # Proof
