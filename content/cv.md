@@ -53,13 +53,13 @@ Master of Science in Engineering and Technology (Computer Science)
 
 <img align="left" src="/images/profile.png" alt= "Jinpu" width="130" height="145" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation and machine learning. Based on my experience, my current topics of interest include (but not limited to)
+My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
 &nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
 &nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks <br>
-&nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D face study, object recognition, image and dense captioning. <br>
-&nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - LLM, image and dense captioning <br>
+&nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D face study, object recognition, image and 3D dense captioning. <br>
+&nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - LLM, image and 3D dense captioning <br>
 &nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_
 
 > I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
@@ -68,7 +68,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
-> While studying is not the only thing, I'm also looking for the meaning of life 😄, learning about what I can do best and what can I give it back to the society. 
+> While studying is not the only thing, I'm also finding for the meaning of life 😄, learning about what I can do best and what can I give it back to the society. 
 
 <!-- <br clear="left"/> -->
 
@@ -79,9 +79,11 @@ My full CV is <a href="/romrawin_cv_aug2023.pdf"> here </a>
 ---
 ## Education
 
-**Stanford University** - Graduate visiting student
+**Graduate Visiting Student, Computer Science**
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp; <small>June 2023 - August 2023 </small> <br> 💰 Summer Session tuition grant <br> 
+&nbsp;&nbsp;&nbsp;&nbsp; <small>June 2023 - August 2023 </small> <br> 
+📍Stanford University <br> 
+💰 Summer Session tuition grant <br> 
 📕 CS148, CS229, EFSLANG698S, MES344S
 
 **Master of Science, Engineering and Technology (Computer Science)** <br> 
@@ -143,7 +145,13 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 ## Teaching
 
-**Teaching Assistant** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 👶 Super AI Engineer Development Program Season 3 <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 👶 Super AI Engineer Development Program Season 2 <br> <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> <small> 🗣️ Guiding new generation of AI developers on several AI-related projects </small>
+**Teaching Assistant** - Super AI Engineer Development Program <br> 
+📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
+👶 Super AI Engineer Development Program Season 3 <br> 
+<small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 
+👶 Super AI Engineer Development Program Season 2 <br> 
+<small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> 
+<small> 🗣️ Guiding new generation of AI developers on several AI-related projects </small>
 
 
 **Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 

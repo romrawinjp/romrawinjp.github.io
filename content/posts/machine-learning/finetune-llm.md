@@ -17,3 +17,5 @@ This course popped up while I search for AI art model to play with. When I first
 ## Why finetuning and what is finetuning actually is?
 
 Finetuning is a way of making use of general or foundation models. In NLP, there is the base model call `GPT-3` for specializing chatGPT. 
+
+When we take the general pupose model. The model can 
