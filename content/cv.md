@@ -64,17 +64,17 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 
 > I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
 
-Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is almost published.
+Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is published. You can read full paper here https://authors.elsevier.com/c/1hjFB3OWJ94rNV. I believe that our work can leverage the boundary of physics-based simulation and machine learning guided to an innovative way of optimizing new materials of interest. This link will be freely open until Oct 27, 2023. 
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
-> While studying is not the only thing, I'm also finding for the meaning of life 😄, learning about what I can do best and what can I give it back to the society. 
+> While studying is not the only thing, I'm also finding for the meaning of life, learning about what I can do best and what can I give it back to the society. 
 
 <!-- <br clear="left"/> -->
 
 <!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
 
-My full CV is <a href="/romrawin_cv_aug2023.pdf"> here </a>
+My full CV is <a href="/romrawin_cv_sep2023.pdf"> here </a>
 
 ---
 ## Education
@@ -95,7 +95,7 @@ My full CV is <a href="/romrawin_cv_aug2023.pdf"> here </a>
 🕵️‍♂️ Supervisor: Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat
 
 **Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
-⚗️ Minor in bio-chemical engineering 
+⚗️ Minor in Bio-Chemical Engineering 
 <br>📍 Sirindhorn International Institute of Technology, Thammasat University <br>
 💰 Junior Science Talent Project (Mathematics) scholarship <br>
 
@@ -162,11 +162,11 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting freshmen students with their homework and provided explanations in all courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
 
 **Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
-<br> 📍 Faculty of Science, Chiang Mai University<br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that we had the power to improve students' lives as being a good teacher for them. </small>
+<br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time my experiences have made me realize that we have the power to improve students' lives by being good teachers for them. </small>
 
-> 🧑‍🏫 My life and intellect has developed through many great teachers. I love them and they are always my complete role models. I felt fortunate and genuinely grateful to meet all of them. I don't know what they were seeing in me, but I'll try to see the best in my students like what they did for me. 
+> 🧑‍🏫 My life and intellect have developed through many great teachers. I love them, and they are always my complete role models. I felt fortunate and genuinely grateful to meet all of them. I don't know what they were seeing in me, but I'll try to see the best in my students, like they did for me.
 
-> 👶 To my students, thank you for teaching how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or wanna tell me some news! 😁
+> 👶 To my students, thank you for teaching me how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or want to tell me some news! 😁
 
 ---
 
@@ -311,11 +311,25 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 </div>
 
 
-## In-Review Publication
+## On-going Publications
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a>| <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  <medium> <b> MN-SIM: </b> <br> <i> Romrawin Chumpu</i>, plan to submit to AI4Mat workshop at NeurIPS 2023
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> MN-SIM: </b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Shu-Han Hsu, Sanparith Makuratat<br>, submitted to NeurIPS 2023 dataset and benchmarks track <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a>| 
   </medium> 
   </p>
 </div>

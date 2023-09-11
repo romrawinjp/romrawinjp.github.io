@@ -99,11 +99,18 @@ Started since Sep 2021. Imma like a grandma friend? 😄 I usually do crochet wh
   </div>
 </div>
 
-# Poetry
+# Poem
 
 When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
 
 `2023` 🫤 How do you know that?
+
+# Reflection on My Hidden Messages
+
+Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. Here is my turn to explain what I was thinking. Hope we are on the same page!
+
+`Sep 7, 2023` <a href="/projects/tangled/"> Tangled's scene from CS148's final project </a>
+
 
 > **Acknowledgement** <br>
 > My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if...

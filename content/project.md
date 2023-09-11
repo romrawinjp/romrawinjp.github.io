@@ -48,7 +48,7 @@ body {
 
 <div class="row">
   <div class="column">
-    <a href="/facegen3d/">
+    <a href="/projects/facegen3d/">
         <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
             &nbsp; &nbsp; &nbsp;<center> <large> <b>3D Face Generation</b>
             <img align="center" src="/images/project/3Dface.png" alt= "3Dface" width="50%"" style="margin: 10px"> 
