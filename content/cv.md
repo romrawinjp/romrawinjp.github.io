@@ -151,20 +151,22 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 
 👶 Super AI Engineer Development Program Season 2 <br> 
 <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> 
-<small> 🗣️ Guiding new generation of AI developers on several AI-related projects </small>
+<small> 🗣️ Mentoring a new generation of AI developers on a variety of AI-related projects </small>
 
 
-**Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists 
+**Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
+<small> 🗣️ Teaching freshman laboratory and communicating between classrooms </small>
 
-**Grader** - Main/co Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists
+**Grader** - Main Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers (Co grader) <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
+<small> 🗣️ Checking student assignments and addressing what they did wrong </small>
 
 **Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
 <br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting freshmen students with their homework and provided explanations in all courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
 
 **Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
-<br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time my experiences have made me realize that we have the power to improve students' lives by being good teachers for them. </small>
+<br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that by being a good teacher for them, we had the power to inspire and make an impact to student's lives. </small>
 
-> 🧑‍🏫 My life and intellect have developed through many great teachers. I love them, and they are always my complete role models. I felt fortunate and genuinely grateful to meet all of them. I don't know what they were seeing in me, but I'll try to see the best in my students, like they did for me.
+> 🧑‍🏫 My life and intellect have developed through many great teachers. I love them, and they are always my complete role models. I felt extremely fortunate and glad to have met all of them. I'm not sure what they saw in me, but I'll strive to see the best in my students just like they did for me.
 
 > 👶 To my students, thank you for teaching me how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or want to tell me some news! 😁
 
@@ -174,7 +176,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics 📍 Stanford University 
 
-`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
+`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
 `2022` 🏆 **One of thirty people who contributed SIIT reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
 
@@ -192,7 +194,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2019` 🏆 **First-Class Honors in Bio-Chemical Engineering and Technology** 📍 Sirindhorn International Institute of Technology, Thammasat University
 
-`2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best mathematics project (1/65 projects) - Awarded scholarship and research funding up to the doctoral level in Thailand institution📍 National Science and Technology Development Agency (NSTDA)
+`2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best mathematics project (1/65 projects, 3/1000 proposals) - Awarded scholarship and research funding up to the doctoral level in Thailand institution📍 National Science and Technology Development Agency (NSTDA)
 
 `2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (25/1000 students) - Awarded high school scholarship 📍 Ministry of Science
 
@@ -203,7 +205,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> 
   <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! <br>
-  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It has been a blessing moment I couldn't never ask for anywhere else.
+  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It was an unforgettable moment I could never have asked for anywhere else.
   </medium> 
   </p>
 </div>
@@ -230,7 +232,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! I am grateful for being a graduate here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
+  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am grateful for being a graduate student here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
   <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
   <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
   </medium>
@@ -277,17 +279,24 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a> 
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> <b> Synthetic face generation from in-the-wild face components swapping </b> <br> <i> Romrawin Chumpu</i>, Pitchayagan Temniranrat, Sanparith Marukatat <br> iSAI-NLP-AIoT 2022 | <a href="https://ieeexplore.ieee.org/document/9960274">Paper</a>
   </medium> 
   </p>
 </div>
 
-<!-- <div>
+<div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <small> <b> Z-Face Sketch : Automatic Placement of Face Composites for Composite Sketches </b> <br> Wisarut Bholsithi, Nonlapas Wongwaen, Chanjira Sinthanayothin, <i> Romrawin Chumpu</i>, Police Colonel Nitiphat, Police Colonel Chaiwat Burana<br> DGTi-CON 2022 | <a href="https://ieeexplore.ieee.org/abstract/document/9849208">Paper</a>
   </small> 
   </p>
-</div> -->
+</div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
@@ -315,21 +324,14 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> MN-SIM: </b> <br> <i> Romrawin Chumpu</i>, plan to submit to AI4Mat workshop at NeurIPS 2023
+  <medium> <b> Insight findings from micro scale materials simulation guided to machine learning perspective of materials discovery </b> <br> <i> Romrawin Chumpu</i>, plan to submit to AI4Mat workshop at NeurIPS 2023.
   </medium> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> MN-SIM: </b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Shu-Han Hsu, Sanparith Makuratat<br>, submitted to NeurIPS 2023 dataset and benchmarks track <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a>| 
+  <medium> <b> MN-SIM: Microneedle Simulation Dataset and Benchmark Models</b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Shu-Han Hsu, Sanparith Makuratat<br>, submitted to NeurIPS 2023 dataset and benchmarks track <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
   </medium> 
   </p>
 </div>

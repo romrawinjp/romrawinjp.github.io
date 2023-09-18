@@ -18,10 +18,10 @@ I knew I always put on hidden messages in my art. Unlike a young me, I don't wan
 
 # Here are what I was thinking
 
-- I intentionally removed Flynn from the original Tangled's scene because I think we need to express who we are. As a human, we are on this path of life alone. Life is short; it is not worth staying at what is not you. We must potent by our own values without outside stimuli. I want to tell people who see my art; be proud, be true, be genuine to your ownself. That was also what I want to tell every woman (inspired from my strong mom).
+- I intentionally removed Flynn from the original Tangled's scene because I think we need to express who we are. As a human, we are on this path of life alone. Life is too short to stay at something that isn't you. We must be potent by our own values, not by outside influences. I want to tell people who see my art to be proud, sincere, and authentic to themselves. That was also what I want to tell every woman (inspired by my strong mom).
 
-- This character is not me! When I modeled, I think she/they is/are the person I would want to be right now/ in the near future. Personality that she can express is confident at a humble threshold, inspired by powerful passions, and always felt loads of positivity in this cruel world. 
+- This character is not me! When I modeled, I think she/they is/are the person I would want to be right now/ in the near future. Her personality is confident at a humble level, driven by powerful passions, and has always felt a lot of positivity in this cruel world. 
 
-- Initially, I didn't imagine that she will be in a happy scene. I've wanted to model her to feel hopeful. At the end, it is actually what I want. If you see the pic immidately, you will feel she is happy. But for a longer time, you will see her hope and relief from her eyes (which is match the scene perfectly). 
+- Initially, I didn't imagine that she will be in a happy scene. I wanted to model her to feel hopeful. At the end, it is actually what I want. If you see the pic immidately, you will feel she is happy. But for a longer time, you will see her hope and relief from her eyes (which is match the scene perfectly). 
 
-- Boat over the sea stands for <b>aloneliness</b>. Lanterns surrounded the boat means <b>hope</b> for me.
+- Boat over the sea stands for <b>loneliness</b>. Lanterns surrounded the boat means <b>hope</b> for me.
