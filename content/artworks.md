@@ -65,7 +65,7 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
 
 # 3D Model
 
-Blender is so fun, why I just knew that. Started since June 2023, like super baby level 👶
+**Blender** is so fun, why I just knew that. Started since June 2023, like super baby level 👶
 
 <div class="row">
   <div class="column">
@@ -73,7 +73,7 @@ Blender is so fun, why I just knew that. Started since June 2023, like super bab
     <video width="100%" controls autoplay>
         <source src="/images/artworks/beach_video.mp4" type="video/mp4">
     </video>
-    This video took my labtop 20 hrs to finish and it's 3 seconds!
+    This video took my laptop 20 hrs to finish and it's 3 seconds!
   </div>
   <div class="column">
    <img src="/images/artworks/snow_house.jpg" alt= "3d-1" style="width:100%">
@@ -82,6 +82,15 @@ Blender is so fun, why I just knew that. Started since June 2023, like super bab
   <img src="/images/artworks/pikachu.jpg" alt= "3d-1" style="width:100%">
   </div>
 </div>
+
+In 2008, when I was 11 yrs old after I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recell, I modeled doraemon from scratch in 3ds Max and rigged in Maya. 
+
+| Doraemon             | Teddy               |
+| ---------------------- | ---------------------- |
+| [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
+
+No one would believe me if I say I have 1x yrs animation experience in the resume 😂. 3D has been fun for me!
+
 
 # Crochet
 
