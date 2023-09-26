@@ -89,7 +89,7 @@ In 2008, when I was 11 yrs old after I watched Wall-E with my dad, I told him I 
 | ---------------------- | ---------------------- |
 | [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
 
-No one would believe me if I say I have 1x yrs animation experience in the resume 😂. 3D has been fun for me!
+No one would believe me if I say I have 1x yrs animation experience in the resume 😂. I'd never do that. Anyway, 3D has been fun for me!
 
 
 # Crochet
