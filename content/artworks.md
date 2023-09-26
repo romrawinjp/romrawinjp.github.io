@@ -83,7 +83,7 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
   </div>
 </div>
 
-In 2008, when I was 11 yrs old after I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recell, I modeled doraemon from scratch in 3ds Max and rigged in Maya. 
+In 2008, when I was 11 yrs old after I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
 
 | Doraemon             | Teddy               |
 | ---------------------- | ---------------------- |
