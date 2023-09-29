@@ -324,14 +324,14 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Insight findings from micro scale materials simulation guided to machine learning perspective of materials discovery </b> <br> <i> Romrawin Chumpu</i>, plan to submit to AI4Mat workshop at NeurIPS 2023.
+  <medium> <b> Insight findings from materials simulation guided physics features on graph attention networks </b> <br> <i> Romrawin Chumpu </i> submitted to AI4Mat workshop finding track at NeurIPS 2023.
   </medium> 
   </p>
 </div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> MN-SIM: Microneedle Simulation Dataset and Benchmark Models</b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Shu-Han Hsu, Sanparith Makuratat<br>, submitted to NeurIPS 2023 dataset and benchmarks track <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
+  <medium> <b> MN-SIM: Microneedle Simulation Dataset and Benchmark Models</b> <br> <i> Romrawin Chumpu</i>, Tanyakarn Treeratanaphitak, Shu-Han Hsu, Sanparith Makuratat<br> submitted to NeurIPS 2023 Datasets and Benchmarks track | <a href="https://github.com/romrawinjp/mn-sim">Dataset</a>
   </medium> 
   </p>
 </div>
