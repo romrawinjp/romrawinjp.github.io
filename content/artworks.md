@@ -75,7 +75,7 @@ It's ink! but in blender.
     <img src="/images/artworks/inktober/d2-spiders.png" alt= "d2" style="width:100%">
   </div>
   <div class="column">
-     <!-- <img src="/images/artworks/sketch3.jpg" alt= "sketch-icecream" style="width:100%"> -->
+     <img src="/images/artworks/inktober/d3-path-1.png" alt= "d3" style="width:100%">
   </div>
 </div>
 

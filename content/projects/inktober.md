@@ -19,3 +19,7 @@ ShowShareButtons: false
 ## 🕸️ D2 - Spiders
 
 ![Spiders](/images/artworks/inktober/d2-spiders.png)
+
+## 🛣️ D3 - Path
+
+![Spiders](/images/artworks/inktober/d3-path-1.png)
