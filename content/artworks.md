@@ -63,6 +63,24 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
 
 `Sep 2` I think lighting in sketch is much harder than in 3D.
 
+## Inktober 2023 (but Blender)
+
+It's ink! but in blender. 
+
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/inktober/d1-dream-3.png" alt= "d1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/artworks/inktober/d2-spiders.png" alt= "d2" style="width:100%">
+  </div>
+  <div class="column">
+     <!-- <img src="/images/artworks/sketch3.jpg" alt= "sketch-icecream" style="width:100%"> -->
+  </div>
+</div>
+
+`Oct 7, 2023` <a href="/projects/inktober/"> Inktober 2023 (but Blender) Full Collection </a>
+
 # 3D Model
 
 **Blender** is so fun, why I just knew that. Started since June 2023, like super baby level 👶
