@@ -22,4 +22,8 @@ ShowShareButtons: false
 
 ## 🛣️ D3 - Path
 
-![Spiders](/images/artworks/inktober/d3-path-1.png)
+![Path](/images/artworks/inktober/d3-path-1.png)
+
+## ⛹️‍♂️ D4 - Dodge
+
+![Dodge](/images/artworks/inktober/d4-dodge-2.png)

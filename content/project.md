@@ -69,11 +69,13 @@ body {
 
 <div class="row">
   <div class="column">
+  <a href="/projects/inktober/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>3D Model Challenge: AI vs Me</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Inktober 2023 (but Blender)</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/artworks/inktober/d4-dodge-2.png" alt= "d4" width="50%"" style="margin: 10px"> 
       </medium></center> 
     </div>
+    </a>
   </div>
   <div class="column">
     <a href="/projects/mineral/">
@@ -83,5 +85,25 @@ body {
       </medium>
     </div>
     </a>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>3D Model Challenge: AI vs Me</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
+      </medium></center> 
+    </div>
+  </div>
+  <div class="column">
+    <!-- <a href="/projects/mineral/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Blender Mineral Collection</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/materials.jpg" alt= "minerals" width="50%"" style="margin: 10px"> </center>
+      </medium>
+    </div>
+    </a> -->
   </div>
 </div>

@@ -65,7 +65,7 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
 
 ## Inktober 2023 (but Blender)
 
-It's ink! but in blender. 
+It's ink! but in blender.  This is the first time I use grease pencil 😄. Here are the top three pieces I like so far.
 
 <div class="row">
   <div class="column">
@@ -75,7 +75,7 @@ It's ink! but in blender.
     <img src="/images/artworks/inktober/d2-spiders.png" alt= "d2" style="width:100%">
   </div>
   <div class="column">
-     <img src="/images/artworks/inktober/d3-path-1.png" alt= "d3" style="width:100%">
+     <img src="/images/artworks/inktober/d4-dodge-2.png" alt= "d4" style="width:100%">
   </div>
 </div>
 
