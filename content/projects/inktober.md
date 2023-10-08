@@ -28,6 +28,6 @@ ShowShareButtons: false
 
 ![Dodge](/images/artworks/inktober/d4-dodge-2.png)
 
-## ⛹️‍♂️ D5 - Map
+## 🗺️ D5 - Map
 
 ![Map](/images/artworks/inktober/d5-map-2.png)
