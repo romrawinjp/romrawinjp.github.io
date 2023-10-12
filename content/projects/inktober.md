@@ -31,3 +31,7 @@ ShowShareButtons: false
 ## 🗺️ D5 - Map
 
 ![Map](/images/artworks/inktober/d5-map-2.png)
+
+## 🐶 D6 - Golden
+
+![Map](/images/artworks/inktober/d6-golden.png)
