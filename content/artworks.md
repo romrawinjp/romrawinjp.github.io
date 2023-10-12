@@ -72,7 +72,7 @@ It's ink! but in blender.  This is the first time I use grease pencil 😄. Here
     <img src="/images/artworks/inktober/d1-dream-3.png" alt= "d1" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/artworks/inktober/d2-spiders.png" alt= "d2" style="width:100%">
+    <img src="/images/artworks/inktober/d6-golden.png" alt= "d5" style="width:100%">
   </div>
   <div class="column">
      <img src="/images/artworks/inktober/d4-dodge-2.png" alt= "d4" style="width:100%">

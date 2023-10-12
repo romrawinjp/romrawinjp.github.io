@@ -39,3 +39,7 @@ ShowShareButtons: false
 ## 💧 D7 - Drip
 
 ![Drip](/images/artworks/inktober/d7-drip-1.png)
+
+## 🐸 D8 - Toad
+
+![Toad](/images/artworks/inktober/d8-toad.png)
