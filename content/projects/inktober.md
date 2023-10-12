@@ -34,4 +34,8 @@ ShowShareButtons: false
 
 ## 🐶 D6 - Golden
 
-![Map](/images/artworks/inktober/d6-golden.png)
+![Golden](/images/artworks/inktober/d6-golden.png)
+
+## 💧 D7 - Drip
+
+![Drip](/images/artworks/inktober/d7-drip-1.png)
