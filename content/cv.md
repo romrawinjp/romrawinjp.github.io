@@ -64,7 +64,7 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 
 > I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
 
-Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"_ is published. You can read full paper here https://authors.elsevier.com/c/1hjFB3OWJ94rNV. I believe that our work can leverage the boundary of physics-based simulation and machine learning guided to an innovative way of optimizing new materials of interest. This link will be freely open until Oct 27, 2023. 
+Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _**"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"**_ is published. If you're interested, you can read the full paper <a href="https://www.sciencedirect.com/science/article/pii/S0952197623010783">here</a>, which requires an institutional subscription. I believe that our work can leverage the boundary of physics-based simulation and machine learning guided to an innovative way of optimizing new materials of interest. 
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
@@ -94,7 +94,7 @@ My full CV is <a href="/romrawin_cv_sep2023.pdf"> here </a>
 📕 [Simulation and Control of Drug Release on Microneedle using Machine Learning Technique](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:272966) <br>
 🕵️‍♂️ Supervisor: Assist. Prof. Shu-Han Hsu and Dr. Sanparith Marukatat
 
-**Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small>June 2015 - May 2019 </small> <br>
+**Bachelor of Engineering (First-Class Honors), Chemical Engineering** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2015 - May 2019 </small> <br>
 ⚗️ Minor in Bio-Chemical Engineering 
 <br>📍 Sirindhorn International Institute of Technology, Thammasat University <br>
 💰 Junior Science Talent Project (Mathematics) scholarship <br>
@@ -174,7 +174,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 ## Awards and Honors
 
-`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics 📍 Stanford University 
+`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging📍 Stanford University 
 
 `2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
@@ -237,7 +237,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am grateful for being a graduate student here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
+  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am always grateful for being a graduate student here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
   <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
   <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
   </medium>
@@ -254,7 +254,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring occasion. Thank you NSTDA for providing me this opportunity. <br> Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> in Thai and  <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  here. <br> 
+  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and join the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring event I have ever attended in my life. Thank you NSTDA for providing me this opportunity. <br> Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> in Thai and  <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  here. <br> 
   <img align="left" src="/images/gyss.jpeg" alt= "jinpu-gyss" width="270" height="150" style="margin: 15px"> 
   </medium> 
   </p>
@@ -262,7 +262,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat University! My most distinguished moment throughout my time here. Thank you for showing me how we can make a difference in people's lives and for making myself a better person. <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
+  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat! My most honored moment throughout my time here. Thank you for showing me how we can make a difference in people's lives in everything we do and for shaping me a better person in my way. <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
   <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
   <img align="left" src="/images/super-ai-tu.jpeg" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
   </medium> 
@@ -284,7 +284,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a> 
+  <medium> <b> Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery </b> <br> <i> Romrawin Chumpu</i>, Chun-Lin Chu, Tanyakarn Treeratanaphitak, Sanparith Makuratat, Shu-Han Hsu<br> Engineering Applications of Artificial Intelligence | <a href="https://romrawinjp.github.io/mn-mat-dis/"> Project page </a> | <a href = "https://www.sciencedirect.com/science/article/pii/S0952197623010783"> Paper </a>
   </medium> 
   </p>
 </div>
@@ -298,8 +298,8 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <small> <b> Z-Face Sketch : Automatic Placement of Face Composites for Composite Sketches </b> <br> Wisarut Bholsithi, Nonlapas Wongwaen, Chanjira Sinthanayothin, <i> Romrawin Chumpu</i>, Police Colonel Nitiphat, Police Colonel Chaiwat Burana<br> DGTi-CON 2022 | <a href="https://ieeexplore.ieee.org/abstract/document/9849208">Paper</a>
-  </small> 
+  <medium> <b> Z-Face Sketch : Automatic Placement of Face Composites for Composite Sketches </b> <br> Wisarut Bholsithi, Nonlapas Wongwaen, Chanjira Sinthanayothin, <i> Romrawin Chumpu</i>, Police Colonel Nitiphat, Police Colonel Chaiwat Burana<br> DGTi-CON 2022 | <a href="https://ieeexplore.ieee.org/abstract/document/9849208">Paper</a>
+  </medium> 
   </p>
 </div>
 
