@@ -74,7 +74,7 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 <!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
 
-My full CV is <a href="/romrawin_cv_sep2023.pdf"> here </a>
+My full CV is <a href="/romrawin_cv_nov2023.pdf"> here </a>
 
 ---
 ## Education
