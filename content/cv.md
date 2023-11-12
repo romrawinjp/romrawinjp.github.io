@@ -158,7 +158,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <small> 🗣️ Teaching freshman laboratory and communicating between classrooms </small>
 
 **Grader** - Main Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers (Co grader) <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
-<small> 🗣️ Checking student assignments and addressing what they did wrong </small>
+<small> 🗣️ Evaluating student assignments and giving the correct explanation</small>
 
 **Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
 <br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting freshmen students with their homework and provided explanations in all courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
@@ -174,7 +174,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 ## Awards and Honors
 
-`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging📍 Stanford University 
+`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging | <a href="http://web.stanford.edu/class/cs148/showcase.html"> Showcase </a>📍 Stanford University 
 
 `2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
