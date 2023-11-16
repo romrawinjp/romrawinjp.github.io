@@ -85,7 +85,3 @@ We will import all libraries as following:
     else:
         device = torch.device("cpu")
         print("WARNING: CPU only, this will be slow!")
-
-## Face Image Input
-
-Now, we will set up mediapipe api. This will use with my face image. 
