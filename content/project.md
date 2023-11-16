@@ -98,12 +98,12 @@ body {
     </div>
   </div>
   <div class="column">
-    <!-- <a href="/projects/mineral/">
+    <a href="/projects/crochet_pattern/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Blender Mineral Collection</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/materials.jpg" alt= "minerals" width="50%"" style="margin: 10px"> </center>
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/disney_wish_star.jpg" alt= "crochet" width="50%"" style="margin: 10px"> </center>
       </medium>
     </div>
-    </a> -->
+    </a>
   </div>
 </div>
