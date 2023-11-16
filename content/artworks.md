@@ -126,6 +126,10 @@ Started since Sep 2021. Imma like a grandma friend? 😄 I usually do crochet wh
   </div>
 </div>
 
+`Nov 16, 2023` <a href="/projects/crochet_pattern/"> My Invented Crochet Pattern </a> 
+
+<a href="/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
+
 # Poem
 
 When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
