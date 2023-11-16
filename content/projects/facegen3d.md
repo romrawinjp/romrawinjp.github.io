@@ -90,4 +90,4 @@ We will import all libraries as following:
 
 Now, we will set up mediapipe api. This will use with my face image. 
 
-![my face]("..//images//project//face3d//jinpu03.jpg")
+<!-- ![my face]("..//images//project//face3d//jinpu03.jpg") -->
