@@ -30,3 +30,59 @@ Also install `pytorch3d`. We will use PyTorch3D for a fun visualization!
     !pip install "git+https://github.com/facebookresearch/pytorch3d.git"
 
 Note: Installing `pytorch3d` would take a little while depending on your machine.
+
+## Import Library
+
+We will import all libraries as following:
+
+    import os
+    import cv2
+    import torch
+    import pandas as pd
+    import numpy as np
+    import mediapipe as mp
+    from google.colab.patches import cv2_imshow
+    from tqdm.notebook import tqdm
+
+    # pytorch3d
+    from pytorch3d.io import load_obj, save_obj
+    from pytorch3d.structures import Meshes
+    from pytorch3d.utils import ico_sphere
+    from pytorch3d.ops import sample_points_from_meshes, add_pointclouds_to_volumes
+    from pytorch3d.loss import (
+        chamfer_distance,
+        mesh_edge_loss,
+        mesh_laplacian_smoothing,
+        mesh_normal_consistency,
+    )
+    from pytorch3d.vis.plotly_vis import AxisArgs, plot_batch_individually, plot_scene
+    from pytorch3d.vis.texture_vis import texturesuv_image_matplotlib
+    from pytorch3d.renderer import (
+        look_at_view_transform,
+        FoVPerspectiveCameras,
+        OpenGLPerspectiveCameras,
+        PointLights,
+        DirectionalLights,
+        Materials,
+        RasterizationSettings,
+        MeshRenderer,
+        MeshRasterizer,
+        SoftPhongShader,
+        TexturesUV,
+        TexturesVertex,
+        look_at_rotation
+    )
+
+    # matplotlib
+    from mpl_toolkits.mplot3d import Axes3D
+    import matplotlib.pyplot as plt
+    import matplotlib as mpl
+    mpl.rcParams['savefig.dpi'] = 80
+    mpl.rcParams['figure.dpi'] = 80
+
+    # Set the device
+    if torch.cuda.is_available():
+        device = torch.device("cuda:0")
+    else:
+        device = torch.device("cpu")
+        print("WARNING: CPU only, this will be slow!")
