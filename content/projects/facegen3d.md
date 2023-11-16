@@ -20,13 +20,3 @@ I used package called `mediapipe` to get the face landmarks. <a href="https://de
 
 ![MediaPipe Landmarks](https://developers.google.com/static/mediapipe/images/solutions/examples/face_landmark.png)
 How cool are these landmarks!
-
-First we need to install `mediapipe` package.
-
-    !pip install mediapipe
-
-Also install `pytorch3d`. We will use PyTorch3D for a fun visualization! 
-    
-    !pip install "git+https://github.com/facebookresearch/pytorch3d.git"
-
-Note: Installing `pytorch3d` would take a little while depending on your machine.
