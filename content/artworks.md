@@ -126,9 +126,26 @@ Started since Sep 2021. Imma like a grandma friend? 😄 I usually do crochet wh
   </div>
 </div>
 
-`Nov 16, 2023` <a href="/projects/crochet_pattern/"> My Invented Crochet Pattern </a> 
+`Nov 16, 2023` <a href="/projects/crochet_pattern/"> My Invented Crochet Pattern </a> > <a href="/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
 
-<a href="/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
+# Painting
+
+ Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
+
+## Acrylic
+
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
+    Who said it's easy!? Lighting in here is so hard!
+  </div>
+  <div class="column">
+    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
+  </div>
+  <div class="column">
+     <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
+  </div>
+</div>
 
 # Poem
 
