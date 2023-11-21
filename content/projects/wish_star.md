@@ -6,6 +6,8 @@ layout: "post"
 tags: ["leisure", "project", "crochet"]
 env: "production"
 ShowWordCount: true
+ShowReadingTime: true
+images: "/images/project/crochet/star_parts.jpg"
 # tocopen: true
 ShowShareButtons: false
 analytics.google.SiteVerificationTag: "XYZabc"
