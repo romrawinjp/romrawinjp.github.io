@@ -135,7 +135,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     comments: true
-    images: ["/content/images/project/crochet/star_parts.jpg"]
+    images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
