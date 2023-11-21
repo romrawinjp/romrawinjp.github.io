@@ -216,7 +216,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> 
-  <b> Nov 19, 2023 </b> - 👩‍🎓 Finally got two taps! That is not covid test :D It is my MS~ And I am the luckiest one the the world to have you as an advisor. <br>
+  <b> Nov 19, 2023 </b> - 👩‍🎓 Finally got two dashes! That is not covid test :D It's my MS~ And I am the luckiest one the the world to have you as an advisor. <br>
   <img align="left" src="/images/two-taps.jpg" alt= "two-taps" width="150" height="150" style="margin: 15px">
   <img align="left" src="/images/advisor.jpg" alt= "ads" height="150" style="margin: 15px"> <br>
   </medium> 
