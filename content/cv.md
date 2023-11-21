@@ -53,9 +53,9 @@ Master of Science in Engineering and Technology (Computer Science)
 
 <img align="left" src="/images/profile.jpg" alt= "Jinpu" width="145" height="145" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
+My name is Romrawin Chumpu. You can call me "Jin" in short. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
-&nbsp;&nbsp;&nbsp; ⚙️ **Computer simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
+&nbsp;&nbsp;&nbsp; ⚙️ **Physical simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
 &nbsp;&nbsp;&nbsp; 🤖 **Machine learning** - geometric deep learning, LLM, physics-informed neural networks, diffusion, generative adversarial networks, and graph neural networks <br>
 &nbsp;&nbsp;&nbsp; 🖼️ **Computer vision and image processing** - 2D and 3D face study, object recognition, image and 3D dense captioning. <br>
@@ -178,9 +178,9 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) ⭐ Representative of a researcher and woman in AI <br> - A cast member in TV game show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
-`2022` 🏆 **One of thirty people who contributed SIIT reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
+`2022` 🏆 **One of Thirty People Who Contributed SIIT Reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
 
-`2022` 📕 **The 10th of Global Young Scientist Summit (GYSS) 2022** - Joined a panel discussion in Artificial Intelligence, Ethics and Governance with Prof. Cédric Villani and Prof. Leslie Valiant 📍 National Science Foundation of Singapore (NSF) 
+`2022` 📕 **The 10th of Global Young Scientist Summit (GYSS) 2022** - Joined a panel discussion in Artificial Intelligence, Ethics and Governance with Prof. Cédric Villani (Fields Medal) and Prof. Leslie Valiant (Turing Award)📍 National Science Foundation of Singapore (NSF) 
 
 `2021` 🏆 **Outstanding submission**  (1/100 groups) - ML for predicting materials property 📍 Thailand Machine Learning for Chemistry Competition
  
@@ -198,7 +198,6 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (25/1000 students) - Awarded high school scholarship 📍 Ministry of Science
 
-
 ---
 
 ## Services and Happy Volunteer
@@ -209,10 +208,20 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2016 - 2023` 🏃‍♀️ **Volunteer Staff** - Junior Science Talent Project 📍 National Science and Technology Development Agency (NSTDA)
 
-`2016 - 2019` 👨‍💻 **SIIT Hackathon Volunteer Staff** - Annual Hackathon 📍 Sirindhorn International Institute of Technology, Thammasat University(NSTDA)
+`2016 - 2019` 👨‍💻 **SIIT Hackathon Volunteer Staff** - Annual Hackathon 📍 Sirindhorn International Institute of Technology, Thammasat University
 
 ---
 ## News
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> 
+  <b> Nov 19, 2023 </b> - 👩‍🎓 Finally got two taps! That is not covid test :D It is my MS~ And I am the luckiest one the the world to have you as an advisor. <br>
+  <img align="left" src="/images/two-taps.jpg" alt= "two-taps" width="150" height="150" style="margin: 15px">
+  <img align="left" src="/images/advisor.jpg" alt= "two-taps" height="150" style="margin: 15px"> <br>
+  </medium> 
+  </p>
+</div>
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
