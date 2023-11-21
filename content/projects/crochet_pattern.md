@@ -13,6 +13,6 @@ ShowShareButtons: false
 
 # Disney Wish Star
 
-![disney star](/images/project/disney_wish_star.jpg)
+![disney star](/images/project/crochet/small_star.jpg)
 
 Disney Wish Star's pattern click <a href="/projects/wish_star/"> here </a>!
