@@ -117,7 +117,7 @@ My full CV is <a href="/romrawin_cv_nov23.pdf"> here </a>
 📃 Multimodal image and text models - <small> finetuned CLIP and CoCa using Thai captions translated from MSCOCO dataset</small> <br>
 📃 Image multi-captioning - <small> experimented on a trained image captioning model with multi-caption input </small> <br>
 📃 Cross-language latent relation - <small> investigated the connection between latent spaces across multi-language models </small> <br>
-📃 Facial component swapping - <small> conducted a novel method of face component swapping for more realistic facial look </small> <br>
+📃 Facial component swapping - <small> conducted a novel method of face component swapping for face privacy and realism </small> <br>
 📃 End-to-end machine learning project - <small> carried out a project that included generating a dataset, training a model, and deploying models to a demo/API </small> <br>
 📃 Dataset web scraping - <small> scraped and generated datasets from public websites </small> <br>
 📃 High performance computing - <small> used supercomputers TARA and LANTA to train and optimize large models </small> <br>
@@ -126,12 +126,12 @@ My full CV is <a href="/romrawin_cv_nov23.pdf"> here </a>
 **Graduate Co-Researcher** - Image Processing and Understanding Research Team <br> 📍 National Electronics and Computer Technology Center (NECTEC) <br>
 &nbsp;&nbsp;&nbsp;&nbsp; <small> March 2021 - February 2022</small> <br> 
 📃 Face blending - <small> experimented face blending technique using pretrained UNet and GANs </small> <br> 
-📃 Face component clustering - <small> created an automated extraction (eyes, nose, mouth) and grouping of face component types </small><br> 
-📃 3D face generation - <small> substantial studied on how to build 3D face models and autonomous 3D face generation, and experimented on face UV mapping and texture </small> <br> 
+📃 Face component clustering - <small> created an automatic extraction from facial key points and grouped face component types </small><br> 
+📃 3D face generation - <small> researched with 3D face models and programmed automatic generative 3D face, and experimented on face UV mapping and improved realistic texture </small> <br> 
 📃 Face composition - <small> programmed face swapping composition collaborated with the Royal Thai Police</small> 
 
 **AI Engineer** - Super AI Engineer Development Program <br> 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
-🏢 **Project Manager** on Image Processing with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> 📃 This work was part of an incubation program in Thailand that included training and hands-on experiences on NLP, signal processing, image processing, data science, and related topics.
+🏢 **Project Manager** on Palm kernel classification with Southern Palm company <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - August 2022 </small> <br> 🤖 **AI Developer** in Super AI Engineer Development Program Season 1 <br>  <small> &nbsp;&nbsp;&nbsp;&nbsp; September 2020 - July 2021 </small> <br> 📃 featured projects: credit card recommendation (KBTG), 3D point cloud registration and reconstruction (Department of Rural Roads), QA system (SCG), robot arm movement (CU), image classification and detection (DENSO, Wazzadu, AI Mask), automatic speech recognition (NECTEC), failure detection from industrial line signal (IRPC).
 
 
 **Summer Research Internship** <br> &nbsp;&nbsp;&nbsp;&nbsp; <small> June 2018 - August 2018 </small> <br>
@@ -151,17 +151,17 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 <small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 
 👶 Super AI Engineer Development Program Season 2 <br> 
 <small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> 
-<small> 🗣️ Mentoring a new generation of AI developers on a variety of AI-related projects </small>
+<small> 🗣️ Guiding a new generation of AI developers through hackathons and other AI-related projects </small>
 
 
 **Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
-<small> 🗣️ Teaching freshman laboratory and communicating between classrooms </small>
+<small> 🗣️ Teaching first-year laboratory and communicating between classrooms with multiple instructors </small>
 
 **Grader** - Main Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers (Co grader) <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
-<small> 🗣️ Evaluating student assignments and giving the correct explanation</small>
+<small> 🗣️ Grading assignments and providing the correct explanations</small>
 
 **Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
-<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting freshmen students with their homework and provided explanations in all courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
+<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting students with their homework and providing guidance for all first-year courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
 
 **Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
 <br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that by being a good teacher for them, we had the power to inspire and make an impact to student's lives. </small>
@@ -176,7 +176,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging | <a href="http://web.stanford.edu/class/cs148/showcase.html"> Showcase </a>📍 Stanford University 
 
-`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) - A new TV show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
+`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) ⭐ Representative of a researcher and woman in AI <br> - A cast member in TV game show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
 
 `2022` 🏆 **One of thirty people who contributed SIIT reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
 
@@ -202,6 +202,14 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 ---
 
 ## Services and Happy Volunteer
+
+`2023` 📄 **Volunteer Staff** - NeurIPS 2023 Conference 📍 (Virtual) Neural Information Processing Systems Foundation
+
+`2023` 👨‍💻 **Judge in Round 2** - National Software Contest (NSC) 2022 📍 National Science and Technology Development Agency (NSTDA)
+
+`2016 - 2023` 🏃‍♀️ **Volunteer Staff** - Junior Science Talent Project 📍 National Science and Technology Development Agency (NSTDA)
+
+`2016 - 2019` 👨‍💻 **SIIT Hackathon Volunteer Staff** - Annual Hackathon 📍 Sirindhorn International Institute of Technology, Thammasat University(NSTDA)
 
 ---
 ## News
