@@ -24,18 +24,18 @@ This star is also beginner friendly to crochet. I want everyone to have their ow
 ![disney star](/images/project/crochet/disney_wish_star.jpg)
 Warning - this is a prototype 1, the look now might be little spooky :D.
 
-> I will experiment the pattern more and update on that cuteness later on. 
+> I'll continue to play with the pattern, I'm sure that cuteness will glow with the star. 
 
-I have two sizes for now. I think the small one is very easy!
+I have invented two sizes for now. I think the small one is very easy to make!
 
 # Crochet Parts
 
-We have 4 parts here: body, star's cones, heart face, and star's face.
+We are going to make 4 parts of the star here: body, star's cones, heart face, and star's face.
 ![star parts](/images/project/crochet/star_parts.jpg)
 
 ## Small Disney's Star Pattern
 
-I think any size of yearn and crochet hook should be doable. 
+I think any size of yarn and crochet hook should be doable. But here I used 4 ply yarn and 1.75 mm hook.
 
 ### 1. Body
 
@@ -45,7 +45,7 @@ I think any size of yearn and crochet hook should be doable.
 **R4** - sc, inc (sc x 2, inc) x 5, sc (24) <br>
 **R5-R9** - sc x 24 (24) <br>
 **R10** - sc, dec (sc x 2, dec) x 5, sc (18) <br>
-**R11** - (sc, dec) x 6 (18) <br>
+**R11** - (sc, dec) x 6 (12) <br>
 **R12** - (dec) x 6 (6) <br>
 **R13** - yarn over all 6 together and finish the body!
 
