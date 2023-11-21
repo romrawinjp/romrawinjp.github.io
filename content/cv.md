@@ -51,7 +51,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 ## About me
 
-<img align="left" src="/images/profile.jpg" alt= "Jinpu" width="130" height="145" style="margin: 15px">
+<img align="left" src="/images/profile.jpg" alt= "Jinpu" width="145" height="145" style="margin: 15px">
 
 My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
