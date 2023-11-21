@@ -118,7 +118,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Romrawin Chumpu's Personal Webpage"
     author: Romrawin Chumpu
     # author: ["Me", "You"] # multiple authors
 
@@ -135,7 +135,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     comments: true
-    images: ["papermod-cover.png"]
+    images: ["/content/images/project/crochet/star_parts.jpg"]
 
     profileMode:
         enabled: false
