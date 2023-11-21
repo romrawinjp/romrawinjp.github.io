@@ -112,7 +112,7 @@ No one would believe me if I say I have 1x yrs animation experience in the resum
 
 # Crochet
 
-Started since Sep 2021. Imma like a grandma friend? 😄 I usually do crochet when I wait for my code or sometimes when I can't debug them.
+Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet when I wait for my code or sometimes when I can't debug them.
 
 <div class="row">
   <div class="column">

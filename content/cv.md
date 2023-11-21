@@ -51,7 +51,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 ## About me
 
-<img align="left" src="/images/profile.png" alt= "Jinpu" width="130" height="145" style="margin: 15px">
+<img align="left" src="/images/profile.jpg" alt= "Jinpu" width="130" height="145" style="margin: 15px">
 
 My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
@@ -62,19 +62,19 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My professional goal
 &nbsp;&nbsp;&nbsp; 🗣️ **Natural language processing** - LLM, image and 3D dense captioning <br>
 &nbsp;&nbsp;&nbsp; ⚗️ **Computational chemistry/biology** - epidemiology model, organic chemistry, materials property prediction, and _materials discovery_
 
-> I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me!
+<!-- > I'm most excited about materials discovery. If anyone want to discuss about this, please don't hesitate to email me! -->
 
 Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _**"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"**_ is published. If you're interested, you can read the full paper <a href="https://www.sciencedirect.com/science/article/pii/S0952197623010783">here</a>, which requires an institutional subscription. I believe that our work can leverage the boundary of physics-based simulation and machine learning guided to an innovative way of optimizing new materials of interest. 
 
 > I'm looking for a PhD position (where we have a happy lab and I belong). 
 
-> While studying is not the only thing, I'm also finding for the meaning of life, learning about what I can do best and what can I give it back to the society. 
+<!-- > While studying is not the only thing, I'm also finding for the meaning of life, learning about what I can do best and what can I give it back to the society.  -->
 
 <!-- <br clear="left"/> -->
 
 <!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
 
-My full CV is <a href="/romrawin_cv_nov2023.pdf"> here </a>
+My full CV is <a href="/romrawin_cv_nov23.pdf"> here </a>
 
 ---
 ## Education
