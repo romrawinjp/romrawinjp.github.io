@@ -159,6 +159,8 @@ Someone once said that I always put some hidden message in my art. I usually don
 
 `Sep 7, 2023` <a href="/projects/tangled/"> Tangled's scene from CS148's final project </a>
 
+`Nov 22, 2023` I think the decision that scared me the most turns out it was the best decision I could ever make -- like in <a href="/projects/crazy_painting/"> these paintings </a>. Why is it like that?
+
 
 > **Acknowledgement** <br>
 > My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if...
