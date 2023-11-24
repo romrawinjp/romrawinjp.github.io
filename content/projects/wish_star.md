@@ -45,7 +45,7 @@ I think any size of yarn and crochet hook should be doable. But here I used 4 pl
 **R4** - sc, inc (sc x 2, inc) x 5, sc (24) <br>
 **R5-R9** - sc x 24 (24) <br>
 **R10** - sc, dec (sc x 2, dec) x 5, sc (18) <br>
-**R11** - (sc, dec) x 6 (12) <br>
+**R11** - (sc, dec) x 6 (12) <br> (I stuff at this row)
 **R12** - (dec) x 6 (6) <br>
 **R13** - yarn over all 6 together and finish the body!
 
@@ -69,7 +69,6 @@ This is very flexible. Choose any expression you like! For example, here...
 ![star expression](https://media.entertainmentearth.com/assets/images/6396974a5c024e69bb39d26c41c7ea5exl.jpg)
 
 I also use plain flannel cloth but in darker color. Cut to the shapes of eyes and mounth of the star's expression you chose. 
-
 
 Ensemble! Sew all parts together and glue the face. You get your wish star now 😊
 

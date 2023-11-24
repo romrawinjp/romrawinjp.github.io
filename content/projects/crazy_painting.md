@@ -10,4 +10,6 @@ ShowShareButtons: false
 # analytics.google.SiteVerificationTag: "XYZabc"
 ---
 
+Painting is like practicing for decision making sometimes...
+
 # 💓
