@@ -227,7 +227,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
   <medium> 
   <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! <br>
-  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It was an unforgettable moment I could never have asked for anywhere else.
+  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It was an unforgettable moment I could ever ask for anywhere else.
   </medium> 
   </p>
 </div>

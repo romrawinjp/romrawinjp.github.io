@@ -135,7 +135,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     comments: true
-    images: ["papermod-cover.png"]
+    images: ["papermod-cover.jpg"]
 
     profileMode:
         enabled: false
