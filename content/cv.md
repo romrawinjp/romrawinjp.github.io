@@ -78,12 +78,12 @@ My full CV is <a href="/romrawin_cv_nov23.pdf"> here </a>
 
 ---
 
-Before getting serious here. This is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival!
+Before getting serious here. This is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival! The moon is incredibly beautiful. 
 
 `Nov 25, 2023` This is me these days. 
 <img src="/images/artworks/comic_loykrathong.jpg" alt= "comic-lkt">
 
-Happy Thanksgiving, Happy Loy Krathong, Happy New Year! So many festivals combined. Hope everyone have a grest time!
+Happy Thanksgiving, Happy Loy Krathong, Happy New Year! Many festivals combined. Hope everyone has a great time! 
 
 ---
 
