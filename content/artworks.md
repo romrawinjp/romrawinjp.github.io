@@ -107,14 +107,15 @@ A fun (out-of-the-box) comic about my daily life here.
   </div>
 </div>
 
-In 2008, when I was 11 yrs old after I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
+`2008` After I watched "Wall-E" with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
 
 | Doraemon             | Teddy               |
 | ---------------------- | ---------------------- |
 | [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
 
-No one would believe me if I say I have 1x yrs animation experience in the resume 😂. I'd never do that. Anyway, 3D has been fun for me!
+No one would believe me if I say I have 1x yrs animation experience in the resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me!
 
+`Nov 23, 2023` After I watched "Wish", I'd confess that deep down I still wanna be an animator (If I could do it). But this would be heavily on the technology side right now. 
 
 # Crochet
 
@@ -165,7 +166,7 @@ Someone once said that I always put some hidden message in my art. I usually don
 
 `Sep 7, 2023` <a href="/projects/tangled/"> Tangled's scene from CS148's final project </a>
 
-`Nov 22, 2023` I think the decision that scared me the most turns out it was the best decision I could ever make -- like in <a href="/projects/crazy_painting/"> these paintings </a>. Why is it like that?
+`Nov 22, 2023` I think the decision that scared me the most turns out to be the best decision I could ever make -- like in <a href="/projects/crazy_painting/"> these paintings </a>. Why is it like that?
 
 
 > **Acknowledgement** <br>

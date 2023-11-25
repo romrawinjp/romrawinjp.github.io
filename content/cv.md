@@ -206,13 +206,13 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 `2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best mathematics project (1/65 projects, 3/1000 proposals) - Awarded scholarship and research funding up to the doctoral level in Thailand institution📍 National Science and Technology Development Agency (NSTDA)
 
-`2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (25/1000 students) - Awarded high school scholarship 📍 Ministry of Science
+`2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (30/1000 students) - Awarded high school scholarship 📍 Ministry of Science
 
 ---
 
 ## Services and Happy Volunteer
 
-`2023` 📄 **Volunteer Staff** - NeurIPS 2023 Conference 📍 (Virtual) Neural Information Processing Systems Foundation
+`2023` 📄 **Volunteer Staff** - NeurIPS 2023 Conference 📍New Orleans, LA (Selected in-person but visa was denied, Virtual), Neural Information Processing Systems Foundation
 
 `2023` 👨‍💻 **Judge in Round 2** - National Software Contest (NSC) 2022 📍 National Science and Technology Development Agency (NSTDA)
 
