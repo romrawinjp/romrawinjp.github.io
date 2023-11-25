@@ -85,7 +85,7 @@ It's ink! but in blender.  This is the first time I use grease pencil 😄. Here
 
 A fun (out-of-the-box) comic about my daily life here.
 
-<img src="/images/artworks/comic_loykrathong.jpg" alt= "comic-lkt">
+<img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
 
 # 3D Model
 
