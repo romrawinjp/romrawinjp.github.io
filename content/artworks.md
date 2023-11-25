@@ -81,6 +81,12 @@ It's ink! but in blender.  This is the first time I use grease pencil 😄. Here
 
 `Oct 7, 2023` <a href="/projects/inktober/"> Inktober 2023 (but Blender) Full Collection </a>
 
+# Fun comic
+
+A fun (out-of-the-box) comic about my daily life here.
+
+<img src="/images/artworks/comic_loykrathong.jpg" alt= "comic-lkt">
+
 # 3D Model
 
 **Blender** is so fun, why I just knew that. Started since June 2023, like super baby level 👶
