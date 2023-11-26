@@ -74,11 +74,11 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 <!-- **Research interests:** `Computer simulation` `Computer graphics` `Machine learning` `Computer vision` `Image processing` `Natural language processing` `Computational chemistry/biology`  `Materials simulation` `Materials discovery` -->
 
-My full CV is <a href="/romrawin_cv_nov23.pdf"> here </a>
+<a href="/romrawin_cv_nov23.pdf"> My full CV in PDF </a>
 
 ---
 
-Before getting serious here. This is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival! The moon is incredibly beautiful. So don't forget to look up!
+Before getting more details, this is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival! The moon is incredibly beautiful. So don't forget to look up!
 
 `Nov 25, 2023` This is me these days. 
 <img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
