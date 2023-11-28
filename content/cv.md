@@ -66,7 +66,7 @@ My name is Romrawin Chumpu. You can call me "Jin" in short. My goal is to become
 
 Also, I am recently a master graduate from SIIT with supervision of <a href="https://www.siit.tu.ac.th/page_bx.php?cid=112&cno=122&show=">Assist. Prof. Shu-Han Hsu</a> and <a href="https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en">Dr. Sanparith Marukatat</a>. Our paper, _**"Physics-informed graph neural networks accelerating microneedle simulations towards novelty of micro-nano scale materials discovery,"**_ is published. If you're interested, you can read the full paper <a href="https://www.sciencedirect.com/science/article/pii/S0952197623010783">here</a>, which requires an institutional subscription. I believe that our work can leverage the boundary of physics-based simulation and machine learning guided to an innovative way of optimizing new materials of interest. 
 
-> I'm looking for a PhD position (where we have a happy lab and I belong). 
+<!-- > I'm looking for a PhD position (where we have a happy lab and I belong).  -->
 
 <!-- > While studying is not the only thing, I'm also finding for the meaning of life, learning about what I can do best and what can I give it back to the society.  -->
 
