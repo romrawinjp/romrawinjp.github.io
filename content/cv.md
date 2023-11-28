@@ -254,7 +254,8 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> November 16, 2022 </b> - <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it24hrs.com%2F2022%2Fsuper-ai-engineer-the-reality%2F&psig=AOvVaw2FW_gkiP6dMU8C1_tT3WXh&ust=1683018623383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOip2ovj0_4CFQAAAAAdAAAAABAE"> Super AI Engineer The Reality Season 1 </a> will be on air soon! Stay tuned!<br>
+  <medium> <b> November 16, 2022 </b> - <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it24hrs.com%2F2022%2Fsuper-ai-engineer-the-reality%2F&psig=AOvVaw2FW_gkiP6dMU8C1_tT3WXh&ust=1683018623383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOip2ovj0_4CFQAAAAAdAAAAABAE"> Super AI Engineer The Reality Season 1 </a> will be on air soon! Stay tuned! 
+  ⬇️ Read the <a href="https://thailand.postsen.com/live-style/76272/Super-AI-Engineer-The-Reality-for-the-first-time-in-Thailand-with-a-competition-to-find-the-best-AI-engineers.html"> news.</a><br>
   <img align="left" src="/images/reality.jpg" alt= "reality" width="150" height="190" style="margin: 15px"> 
   <!-- <img align="left" src="https://www.it24hrs.com/wp-content/uploads/2022/11/IMG_5662.jpg" alt= "jinpu-reality" width="150" height="150" style="margin: 15px">  -->
   <img align="left" src="/images/jinpu-reality-three.jpeg" alt= "jinpu-reality-three" width="190" height="190" style="margin: 15px"> 
@@ -264,7 +265,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am always grateful for being a graduate student here! Listen to my talk <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> here. </a> <br>
+  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am always grateful for being a graduate student here! ⬇️ Listen to <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> my talk. </a> <br>
   <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
   <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
   </medium>
@@ -281,7 +282,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and join the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring event I have ever attended in my life. Thank you NSTDA for providing me this opportunity. <br> Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> in Thai and  <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  here. <br> 
+  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and join the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring event I have ever attended in my life. Thank you NSTDA for providing me this opportunity. <br> ⬇️ Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> and <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  in Thai. <br> 
   <img align="left" src="/images/gyss.jpeg" alt= "jinpu-gyss" width="270" height="150" style="margin: 15px"> 
   </medium> 
   </p>
@@ -289,7 +290,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat! My most honored moment throughout my time here. Thank you for showing me how we can make a difference in people's lives in everything we do and for shaping me a better person in my way. <a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> News </a> <br>
+  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat! My most honored moment throughout my time here. Thank you for showing me how we can make a difference in people's lives in everything we do and for shaping me a better person in my way. ⬇️ Read the<a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> news. </a> <br>
   <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
   <img align="left" src="/images/super-ai-tu.jpeg" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
   </medium> 
@@ -298,7 +299,7 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 
 <div>
   <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> October 1, 2021 </b> - It is an honor for me to be awarded the Silver Medal as known as the Advanced AI Certificate from the Super AI Engineer Development program. (10/3500 participants) <br> My poster was also awareded the best poster! The face generation <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> poster </a> can be viewed here. <br>
+  <medium> <b> October 1, 2021 </b> - It is an honor for me to be awarded the Silver Medal as known as the Advanced AI Certificate from the Super AI Engineer Development program (10/3500 participants). <br> 📮 My poster was also awareded the best poster! ⬇️ The face generation <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> poster </a> can be viewed here. <br>
   <img align="left" src="/images/jinpu-silver-1.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
   <img align="left" src="/images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
   </medium> 
