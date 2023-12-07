@@ -113,9 +113,9 @@ A fun (out-of-the-box) comic about my daily life here.
 | ---------------------- | ---------------------- |
 | [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
 
-No one would believe me if I say I have 1x yrs animation experience in the resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me!
+No one would believe me if I say I have 1x yrs animation experience in my resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me!
 
-`Nov 23, 2023` After I watched "Wish", I'd confess that deep down I still wanna be an animator (If I could do it). But this would be heavily on the technology side right now. 
+`Nov 23, 2023` After I watched "Wish", I admit that deep down I do really wanna be an animator. This is who I am my entire life. Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now. 
 
 # Crochet
 
@@ -145,6 +145,21 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
   <div class="column">
     <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
     Who said it's easy!? Lighting in here is so hard!
+  </div>
+  <div class="column">
+    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
+  </div>
+  <div class="column">
+     <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
+  </div>
+</div>
+
+## Watercolor
+I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. And, I should do more.
+
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/watercolor1.jpg" alt= "paint-present" style="width:100%">
   </div>
   <div class="column">
     <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
