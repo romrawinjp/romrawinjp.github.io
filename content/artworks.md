@@ -155,7 +155,7 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 </div>
 
 ## Watercolor
-I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. And, I should do more.
+I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understanding how water flow is always mesmerizing, I should do more often.
 
 <div class="row">
   <div class="column">
