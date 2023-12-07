@@ -24,11 +24,11 @@ How cool are these landmarks!
 
 ## Setting Up Libraries
 
-First we need to install `mediapipe` package.
+First, we need to install `mediapipe` package.
 
     !pip install mediapipe
 
-Also install `pytorch3d`. We will use PyTorch3D for a fun visualization! 
+Also, install `pytorch3d`. We will use PyTorch3D for a fun visualization! 
     
     # install pytorch3d
     import sys
@@ -128,9 +128,9 @@ We will import all libraries as following:
 
 ## Face Landmarks
 
-At this step, the face image should be uploaded in the current directory. I will use my face image for the example.
+At this step, the face image should be uploaded in the current directory. I will use my (ig filtered) face image as an example.
 
-For converting detection coordiate to pixel coordinate, we need to this define normalize function before. 
+For converting detection coordiate to pixel coordinate, we need to this define normalize function before processing the landmarks. Here is the code for this function.
 
     import math
     def _normalized_to_pixel_coordinates(normalized_x, normalized_y, image_width, image_height):
@@ -150,8 +150,7 @@ For converting detection coordiate to pixel coordinate, we need to this define n
         return x_px, y_px
 
 
-
-Here is the code for face landmark detection.
+Let's do landmark detection! Here is the code.
 
     # we will store face landmark from images in this dictionary for convenient when debugging
     all_image_landmarks = {}
@@ -221,13 +220,13 @@ Here is the code for face landmark detection.
 The left image is my face image and on the right is the result of the face detection.
 ![landmark-result](/images/project/face3d/landmark.png)
 
-But here we can see that the face is still wide, so we need to modify the image before extracting texture. This image will be process by croping only the face on the next step.
+But here we can see that the face is still wide, so we need to modify the image before extracting texture. Next step, this image will be processed by cropping only the face area.
 
 # Face Image Preprocessing
 
 ## Crop Face
 
-Here is the code for cropping face from previous detected lanmarks.
+Here is the code for cropping face from previous detected landmarks.
 
     def crop_face(input_image, face_landmark):
         dim = (1024, 1024)
@@ -259,11 +258,11 @@ To check the number of face landmarks, we can check by
     # output supposes to be 
     (468, 2)
 
-Next section, we will start using face texture image to map from UV texture to 3D model.
+Next step, we will start using face texture image to map from UV texture to 3D face model.
 
-# Extracting UV texture
+# Extracting UV Texture
 
-Now we can see that we alread get the face landmarks from image. We can test if this is correct by visualizing on matplotlib.
+Now, we already get the face landmarks from image. We can check if the landmarks are correct by visualizing using matplotlib.
 
     # face_landmark
     plt.figure(figsize=(5,5))
@@ -272,9 +271,9 @@ Now we can see that we alread get the face landmarks from image. We can test if 
 
 ![face-landmark](/images/project/face3d/face_landmarks.png)
 
-To transform this texture seamlessly, we need triangle from UV coordinate which corresponds to this face coordinate. So, we can find the triangle by using Delaunay.
+To transform this texture seamlessly, we need to form triangles from UV coordinate which corresponds to this face coordinate. So, I use Delaunay to find those edges connection.
 
-## Define edge coordinate of face connections and UV coordinate (0-1)
+## Define Edge Coordinate of Face Connections and UV Coordinate (0-1)
 Before that we also have to define the connection and coordinate. 
 
 <details>
@@ -898,7 +897,7 @@ Plot UV coordinate to check the visualization.
 ![uv-coordinate](/images/project/face3d/uv_coordinate.png)
 
 
-# Delauney triangulation
+# Delauney Triangulation
 
 Run Delaunay triangulation to find the edges of this face UV template. 
 
@@ -915,7 +914,7 @@ Plot the edges from Delauney triangulation.
 
 We will fix these edges and will use to transform face texture.
 
-## Tranform UV texture!
+## Transform UV texture!
 
 This is the fun part now, we will move between XYZ <-> UV correspondence + triangular topology. 
 
@@ -930,7 +929,7 @@ First, we need to define the image
     points = np.float32(tri.simplices)
     points2 = np.float32(tri_template.simplices)
 
-This is transformation code. 
+Run is transformation code. 
 
     indexes_triangles = tri_template.simplices
     landmarks_points = face_coor_landmark
@@ -1005,8 +1004,7 @@ This is transformation code.
     cv2_imshow(body_new_face)
     cv2.imwrite('./texture.png', body_new_face)
 
-
-Here is texture.png file we get.
+Here is texture.png file we will get.
 
 ![texture](/images/project/face3d/texture.png)
 
@@ -1024,7 +1022,7 @@ Here is texture.png file we get.
 </details>
 </details> -->
 
-This texture is actually perfect for mapping to 3D model now. But if you're using PyTorch3D here is some tranformation of the codeing format. But if you just want to usd .obj file. This is step is not necessary.
+This texture is actually perfect for mapping to 3D model now. But if you're using PyTorch3D here is some tranformation of the coding format. But if you just want to use `.obj` file. This is step is not necessary.
 
 <details>
 <summary>PyTorch3D Texture Template</summary>
@@ -1063,7 +1061,7 @@ Run texture function
 
 Now, we get perfect mesh for PyTorch3D
 
-    # Perfect mesh!!!!!! Yayy!!!
+    # Perfect mesh!
     facelandmark_to_mesh = Meshes(verts=[torch_face_landmark], faces=[torch_faces], textures=texture)
 
 </details>
@@ -1086,8 +1084,7 @@ Code for renderer is here
         faces_per_pixel=1,
     )
 
-    # Place a point light in front of the object. As mentioned above, the front of the cow is facing the
-    # -z direction.
+    # light
     lights = PointLights(device=device, location=[[0.0, 0.0, 4.0]])
 
     # Create a phong renderer by composing a rasterizer and a shader. The textured phong shader will
@@ -1132,7 +1129,7 @@ To check the uv coordinate, use this code. There might be some confusion about t
 
 # Export .obj and .mtl file
 
-After we transform everything, the most common way that we work on this is exporting the 3D model to .obj file. We can also export the texture by defining .mtl file in .obj file here in this code.
+After we transform everything, the most common way that we work on this is exporting the 3D model to .obj file. We can also export the texture by defining .mtl file paired with .obj file here in this code.
 
 ## .mtl file for texture
 
@@ -1182,7 +1179,7 @@ There is two ways here.
 
         f.close()
 
-Both are work! 
+Both are working.
 
 If you want to try to download it back, use this code.
 
