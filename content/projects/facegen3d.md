@@ -1196,4 +1196,6 @@ Both files will be saved in the same directory and must be the same name (or you
 
 ![face-blender](/images/project/face3d/face_blender.png)
 
-It's working! More importantly, I was having so much fun coding this project.
+It's working! Most importantly, I was having so much fun coding this project. 
+
+However, as I am a researcher, I am never satisfied with the result. If you can see from here, the triangles are still too big, so the texture looks quite unnatural. Then, the next steps are subdivision and improving texture realism. It will be in the next blogs (I guess). 
