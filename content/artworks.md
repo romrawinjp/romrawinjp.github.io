@@ -162,7 +162,7 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
     <img src="/images/artworks/watercolor1.jpg" alt= "paint-present" style="width:100%">
   </div>
   <div class="column">
-    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
+    <img src="/images/artworks/watercolor2.jpg" alt= "paint-lolipop" style="width:100%">
   </div>
   <div class="column">
      <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
