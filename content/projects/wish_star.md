@@ -17,9 +17,9 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 ![wish star](https://i.ytimg.com/vi/qf44DJ8-a5k/maxresdefault.jpg)
 
-I fell in love with this character in one of Disney's 100th anniversary movies!
+I fell in love with this character so much, star, in one of Disney's 100th anniversary movies!
 
-This star is also beginner friendly to crochet. I want everyone to have their own wish-star. Let's do it!
+For crochet pattern, this star is also beginner friendly to crochet. I want everyone to have their own wishing star. Let's do it!
 
 ![disney star](/images/project/crochet/disney_wish_star.jpg)
 Warning - this is a prototype 1, the look now might be little spooky :D.
@@ -68,9 +68,9 @@ This is very flexible. Choose any expression you like! For example, here...
 
 ![star expression](https://media.entertainmentearth.com/assets/images/6396974a5c024e69bb39d26c41c7ea5exl.jpg)
 
-I also use plain flannel cloth but in darker color. Cut to the shapes of eyes and mounth of the star's expression you chose. 
+I also use plain flannel cloth but in darker color. Cut to the shapes of eyes and mouth of the star's expression you chose. 
 
-Ensemble! Sew all parts together and glue the face. You get your wish star now 😊
+Ensemble! Sew all parts together and glue the face. You get your wishing star now 😊
 
 ![small star](/images/project/crochet/small_star.jpg)
 🌟 Don't forget to make a wish!

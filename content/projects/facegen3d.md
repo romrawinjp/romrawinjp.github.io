@@ -1149,6 +1149,8 @@ After we transform everything, the most common way that we work on this is expor
         f.write(format[i]+"\n")
     f.close()
 
+I just fill these values randomly. But the important is the `map_Kd`, which will pair with the image texture. I will keep updating what are these things.
+
 ## .obj file 
 
 There is two ways here.
@@ -1167,15 +1169,16 @@ There is two ways here.
         f.write("\n")
 
         for i in torch_face_landmark.cpu().numpy():
-        f.write(f"v {i[0]:.5f} {i[1]:.5f} {i[2]:.5f}\n")
+            f.write(f"v {i[0]:.5f} {i[1]:.5f} {i[2]:.5f}\n")
 
         for i in verts_uvs.cpu().numpy():
-        f.write(f"vt {i[0]:.5f} {i[1]:.5f}\n")
+            f.write(f"vt {i[0]:.5f} {i[1]:.5f}\n")
 
+        # this line is very important. The name of the material need to be the same as in .mtl file.
         f.write("usemtl "+ mat_name+"\n")
 
         for i in torch_faces.cpu().numpy():
-        f.write(f"f {int(i[0]+1)}/{int(i[0]+1)} {int(i[1]+1)}/{int(i[1]+1)} {int(i[2]+1)}/{int(i[2]+1)}\n")
+            f.write(f"f {int(i[0]+1)}/{int(i[0]+1)} {int(i[1]+1)}/{int(i[1]+1)} {int(i[2]+1)}/{int(i[2]+1)}\n")
 
         f.close()
 

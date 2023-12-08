@@ -107,15 +107,15 @@ A fun (out-of-the-box) comic about my daily life here.
   </div>
 </div>
 
-`2008` After I watched "Wall-E" with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
+`2008` After I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
 
 | Doraemon             | Teddy               |
 | ---------------------- | ---------------------- |
 | [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
 
-No one would believe me if I say I have 1x yrs animation experience in my resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me!
+<!-- No one would believe me if I say I have 1x yrs animation experience in my resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me! -->
 
-`Nov 23, 2023` After I watched "Wish", I admit that deep down I do really wanna be an animator. This is who I am my entire life. Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now. 
+`Nov 23, 2023` After I watched Wish, I admit that deep down I do really wanna be an animator. This is who I am my entire life. Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now. 
 
 # Crochet
 
@@ -137,10 +137,10 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 
 # Painting
 
- Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
+Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
 
 ## Watercolor
-I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understanding how water flow is always mesmerizing, I should do more often.
+I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understand how water flow is always mesmerizing, I should paint it more often.
 
 <div class="row">
   <div class="column">
