@@ -139,21 +139,6 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 
  Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
 
-## Acrylic
-
-<div class="row">
-  <div class="column">
-    <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
-    Who said it's easy!? Lighting in here is so hard!
-  </div>
-  <div class="column">
-    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
-  </div>
-  <div class="column">
-     <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
-  </div>
-</div>
-
 ## Watercolor
 I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understanding how water flow is always mesmerizing, I should do more often.
 
@@ -163,6 +148,21 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
   </div>
   <div class="column">
     <img src="/images/artworks/watercolor2.jpg" alt= "paint-lolipop" style="width:100%">
+  </div>
+  <div class="column">
+     <img src="/images/artworks/watercolor3.jpg" alt= "paint-pancake" style="width:100%">
+  </div>
+</div>
+
+## Acrylic
+
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
+    Who said it's easy!? Lighting in here is so hard!
+  </div>
+  <div class="column">
+    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
   </div>
   <div class="column">
      <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
