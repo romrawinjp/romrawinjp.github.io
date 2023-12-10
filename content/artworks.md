@@ -135,6 +135,13 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 
 `Nov 16, 2023` <a href="/projects/crochet_pattern/"> My Invented Crochet Pattern </a> > <a href="/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
 
+# Papercraft
+
+My new hobby (again!?) since Dec 2023. 
+
+![papercraft-stanfordbunny](/images/artworks/papercraft.jpg)
+It's like we do a 3D low-poly model. But how do I remove these folding guides? I'll figure it out later.  
+
 # Painting
 
 Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.

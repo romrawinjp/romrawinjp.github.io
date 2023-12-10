@@ -13,7 +13,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 This is 3D face generation project, I was having so much fun building my face in one click! I programmed all in python. Back in 2021 (two years prior learning Blender), I did the texture translation pipeline from OpenCV and PyTorch3D + math equations visualized from my ideas (which I thought it should be working). 
 
-Pipeline of constructing 3D face are consisted of (1) [getting face landmarks](#face-landmarks-detection), (2) [preprocess face image](#face-image-preprocessing), (3) [extracting UV texture](#extracting-uv-texture), (4) and [transfrom texture to 3D landmarks](#tranform-uv-texture), (5) [Export .obj and .mtl file](#export-obj-and-mtl-file). The code is workable in Google Colab.  
+Pipeline of constructing 3D face are consisted of (1) [getting face landmarks](#face-landmarks-detection), (2) [preprocess face image](#face-image-preprocessing), (3) [extracting UV texture](#extracting-uv-texture), (4) [transfrom texture to 3D landmarks](#tranform-uv-texture), (5) and [export .obj and .mtl file](#export-obj-and-mtl-file). The code is workable in Google Colab.  
 
 # Face Landmarks Detection 
 
@@ -141,8 +141,7 @@ For converting detection coordiate to pixel coordinate, we need to this define n
             return (value > 0 or math.isclose(0, value)) and (value < 1 or
                                                             math.isclose(1, value))
 
-        if not (is_valid_normalized_value(normalized_x) and
-                is_valid_normalized_value(normalized_y)):
+        if not (is_valid_normalized_value(normalized_x) and is_valid_normalized_value(normalized_y)):
             # TODO: Draw coordinates even if it's outside of the image bounds.
             return None
         x_px = min(math.floor(normalized_x * image_width), image_width - 1)
@@ -183,9 +182,7 @@ Let's do landmark detection! Here is the code.
                 landmark_list = face_landmarks
                 idx_to_coordinates = {}
                 for idx, landmark in enumerate(landmark_list.landmark):
-                # print(idx)
-                # print(landmark)
-                landmark_px = _normalized_to_pixel_coordinates(landmark.x, landmark.y, image_cols, image_rows)
+                    landmark_px = _normalized_to_pixel_coordinates(landmark.x, landmark.y, image_cols, image_rows)
                 # print(landmark_px)
                 if landmark_px:
                     idx_to_coordinates[idx] = landmark_px
