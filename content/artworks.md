@@ -147,7 +147,7 @@ It's like we do a 3D low-poly model. But how do I remove these folding guides? I
 Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
 
 ## Watercolor
-I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understand how water flow is always mesmerizing, I should paint it more often.
+I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understand how water flow is always mesmerizing, I should paint more often.
 
 <div class="row">
   <div class="column">
@@ -163,18 +163,20 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
 
 ## Acrylic
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
-    <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
-    Who said it's easy!? Lighting in here is so hard!
+    
   </div>
   <div class="column">
-    <!-- <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%"> -->
+    <img src="/images/artworks/crochet2.jpg" alt= "crochet-tele" style="width:100%">
   </div>
   <div class="column">
-     <!-- <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%"> -->
+     <img src="/images/artworks/crochet3.jpg" alt= "crochet-doll" style="width:100%">
   </div>
-</div>
+</div> -->
+
+<img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
+Who said it's easy!? Lighting in here is so hard!
 
 # Poem
 
