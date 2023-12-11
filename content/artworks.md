@@ -87,6 +87,9 @@ A fun (out-of-the-box) comic about my daily life here.
 
 <img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
 
+Glasses's Story
+<img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
+
 # 3D Model
 
 **Blender** is so fun, why I just knew that. Started since June 2023, like super baby level 👶
