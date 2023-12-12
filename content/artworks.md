@@ -164,6 +164,18 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/watercolor4.jpg" alt= "paint-jam" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/artworks/watercolor5.jpg" alt= "paint-cupcake" style="width:100%">
+  </div>
+  <div class="column">
+     <!-- <img src="/images/artworks/watercolor3.jpg" alt= "paint-pancake" style="width:100%"> -->
+  </div>
+</div>
+
 ## Acrylic
 
 <!-- <div class="row">
