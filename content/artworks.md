@@ -90,6 +90,15 @@ A fun (out-of-the-box) comic about my daily life here.
 Glasses's Story
 <img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
 
+# Infographic
+
+This was inspired by the visualization after TEDx talks. I think every complicated topic can be easily understood with the help of some images. 
+
+<img src="/images/artworks/info1.jpg" alt= "info1">
+
+<img src="/images/artworks/info2.jpg"" alt= "info2">
+
+
 # 3D Model
 
 **Blender** is so fun, why I just knew that. Started since June 2023, like super baby level 👶
