@@ -96,7 +96,7 @@ This was inspired by the visualization after TEDx talks. I think every complicat
 
 <img src="/images/artworks/info1.jpg" alt= "info1">
 
-<img src="/images/artworks/info2.jpg"" alt= "info2">
+<img src="/images/artworks/info2.jpg" alt= "info2">
 
 
 # 3D Model
