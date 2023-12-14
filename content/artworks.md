@@ -87,7 +87,7 @@ A fun (out-of-the-box) comic about my daily life here.
 
 <img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
 
-Glasses's Story
+Glasses' Story
 <img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
 
 # Infographic
