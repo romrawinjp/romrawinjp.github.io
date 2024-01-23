@@ -14,9 +14,9 @@ on:
     inputs:
       hugoVersion:
         description: "Hugo Version"
-        required: false
-        default: "0.97.1"
-        extended: true
+        # required: false
+        default: "0.112.0"
+        # extended: true
 
 # Allow one concurrent deployment
 concurrency:
@@ -39,7 +39,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: "0.97.1"
+      HUGO_VERSION: "0.112.0"
     steps:
       - name: Check version
         if: ${{ github.event.inputs.hugoVersion }}
