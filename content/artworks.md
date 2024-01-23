@@ -154,9 +154,36 @@ My new hobby (again!?) since Dec 2023.
 ![papercraft-stanfordbunny](/images/artworks/papercraft.jpg)
 It's like we do a 3D low-poly model. But how do I remove these folding guides? I'll figure it out later.  
 
+`Dec 23, 2023` I figured out two ways; (1) paint it the white color (2) copy the templete to blank papers and remember all of 100 connecting edges. Of course, it's me. I chose to try (2) 😄!
+
+# Sculpting
+
+Started life-time for sculpting, actually I can sculpt thing before I can paint and write, but it is all forgotten. My dad got his new clay spinner recently. He left the old one, so I stole it 😄. I bought a pack of dry clay to play with! 
+
+## Clay
+
+<div class="row">
+  <div class="column">
+    My drawing of #0
+    <img src="/images/artworks/spacecraft0.PNG" alt= "spacecraft0" style="width:100%">
+  </div>
+  <div class="column">
+    Sculpture #0
+    <img src="/images/artworks/spacecraft0-s.jpg" alt= "spacecraft0-1" style="width:100%">
+  </div>
+  <div class="column">
+     <!-- <img src="/images/artworks/watercolor3.jpg" alt= "paint-pancake" style="width:100%"> -->
+  </div>
+</div>
+
+`Jan 23, 2024` One special thing about our sculpture is my dad craft the wooden sculpture tools on his own, so that the tools are prefectly handful for our hands! That is so cool! 
+
+## Digital sculpting
+Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2023. Everything I sculpted is now a mess 😆, still during an incline learning curve.
+
 # Painting
 
-Picking up some brushes 🖌️ like Van Gogh! Started life-time for painting.
+Picking up some brushes 🖌️ like Van Gogh! (or like yourself?) Started life-time for painting.
 
 ## Watercolor
 I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understand how water flow is always mesmerizing, I should paint more often.
@@ -201,6 +228,8 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
 
 <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
 Who said it's easy!? Lighting in here is so hard!
+
+`Jan 23, 2024` Me and dad are going to paint ocean textures on the floor! > <a href="/projects/ocean/"> 🌊 Ocean's exhibition </a> project 
 
 # Poem
 
