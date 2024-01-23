@@ -59,20 +59,13 @@ jobs:
         run: git submodule update --init --recursive
       - name: Update theme to Latest commit
         run: git submodule update --remote --merge
+      - name: Update Content Panel
+        run: hugo mod get -u github.com/hbstack/content-panel
       - name: Build with Hugo
-        # run: |
-        #   hugo \
-        #     --buildDrafts --gc --verbose \
-        #     --baseURL ${{ steps.pages.outputs.base_url }}
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: productions
         run: |
           hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"      
+            --buildDrafts --gc --verbose \
+            --baseURL ${{ steps.pages.outputs.base_url }}  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
