@@ -108,7 +108,7 @@ body {
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
   <a href="/projects/ocean/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
@@ -122,7 +122,7 @@ body {
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         <!-- &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b> &nbsp; &nbsp; 
         <img align="center" src="/images/project/crochet/small_star.jpg" alt= "crochet" width="50%"" style="margin: 10px"> </center>
-      </medium> -->
+      </medium> 
     </div>
   </div>
-</div>
+</div> -->
