@@ -78,12 +78,17 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 ---
 
-Before getting more details, this is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival! The moon is incredibly beautiful. So don't forget to look up!
+<!-- Before getting more details, this is the best time of the year to visit my page because we are during Loy Krathong (lantern) festival! The moon is incredibly beautiful. So don't forget to look up!
 
 `Nov 25, 2023` This is me these days. 
 <img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
 
-Happy Thanksgiving, Happy Loy Krathong, Happy New Year! Many festivals combined. Hope everyone has a great time! 
+Happy Thanksgiving, Happy Loy Krathong, Happy New Year! Many festivals combined. Hope everyone has a great time!  -->
+
+If you're in Super AI Engineer SS4 and looking for a short course "Modern Image Search," materials are in <a href="https://github.com/romrawinjp/modern-image-search">this repository</a>.
+
+Here is the content for pre-release on Jan 30, 2024. Materials are still under my construction to help you learn as efficient as possible. It will be updating soon.
+<img src="/images/short-course.png" alt= "mis">
 
 ---
 
