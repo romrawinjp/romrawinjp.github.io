@@ -85,7 +85,9 @@ Also, I am recently a master graduate from SIIT with supervision of <a href="htt
 
 Happy Thanksgiving, Happy Loy Krathong, Happy New Year! Many festivals combined. Hope everyone has a great time!  -->
 
-If you're in Super AI Engineer SS4 and looking for a short course "Modern Image Search," materials are in <a href="https://github.com/romrawinjp/modern-image-search">this repository</a>.
+If you're in Super AI Engineer SS4 and looking for a short course "**Modern Image Search**," slides and codes are in <a href="https://github.com/romrawinjp/modern-image-search">this repository</a>.
+
+<a href="https://github.com/romrawinjp/modern-image-search"> <img src="/images/page.jpg" alt= "course-page"></a>
 
 Here is the content for pre-release on Jan 30, 2024. Materials are still under my construction to help you learn as efficient as possible. It will be updating soon.
 <img src="/images/short-course.png" alt= "mis">
