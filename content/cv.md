@@ -92,6 +92,8 @@ If you're in Super AI Engineer SS4 and looking for a short course "**Modern Imag
 Here is the content for pre-release on Jan 30, 2024. Materials are still under my construction to help you learn as efficient as possible. It will be updating soon.
 <img src="/images/short-course.png" alt= "mis">
 
+`Jan 30, 2024` I just know that this lecture is paried with this weekend hackathon on image search. So, I'll be updating the content after the hackathon ends! Enjoy image's world!
+
 ---
 
 ## Education
