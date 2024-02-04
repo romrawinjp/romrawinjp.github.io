@@ -89,10 +89,17 @@ If you're in Super AI Engineer SS4 and looking for a short course "**Modern Imag
 
 <a href="https://github.com/romrawinjp/modern-image-search"> <img src="/images/page.jpg" alt= "course-page"></a>
 
-Here is the content for pre-release on Jan 30, 2024. Materials are still under my construction to help you learn as efficient as possible. It will be updating soon.
+<!-- Here is the content for pre-release on Jan 30, 2024. Materials are still under my construction to help you learn as efficient as possible. It will be updating soon.
 <img src="/images/short-course.png" alt= "mis">
 
-`Jan 30, 2024` I just know that this lecture is paried with this weekend hackathon on image search. So, I'll be updating the content after the hackathon ends! Enjoy image's world!
+`Jan 30, 2024` I just know that this lecture is paired with this weekend hackathon on image search. So, I'll be updating the content after the hackathon ends! Enjoy image's world! -->
+
+`Fab 4, 2024` The course content is updted! 
+
+Click [here](https://github.com/romrawinjp/modern-image-search/blob/b079600603e0001443e336e0b55337f6f554f8da/romrawin_modern-image-search.pdf) to download the slide.
+
+<a href="https://github.com/romrawinjp/modern-image-search/blob/b079600603e0001443e336e0b55337f6f554f8da/romrawin_modern-image-search.pdf"> <img src="https://github.com/romrawinjp/modern-image-search/raw/main/slide.png" alt= "slide"></a>
+
 
 ---
 
