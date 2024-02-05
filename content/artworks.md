@@ -158,13 +158,15 @@ It's like we do a 3D low-poly model. But how do I remove these folding guides? I
 
 # Sculpting
 
-Started life-time for sculpting, actually I can sculpt thing before I can paint and write, but it is all forgotten. My dad got his new clay spinner recently. He left the old one, so I stole it 😄. I bought a pack of dry clay to play with! 
+Started life-time for sculpting. 
+
+My dad got his new clay spinner recently. He left the old one, so I stole it 😄. I bought a pack of air dry clay to play with! 
 
 ## Clay
 
 <div class="row">
   <div class="column">
-    My drawing of #0
+    My drawing #0
     <img src="/images/artworks/spacecraft0.PNG" alt= "spacecraft0" style="width:100%">
   </div>
   <div class="column">
@@ -173,13 +175,14 @@ Started life-time for sculpting, actually I can sculpt thing before I can paint 
   </div>
   <div class="column">
      <!-- <img src="/images/artworks/watercolor3.jpg" alt= "paint-pancake" style="width:100%"> -->
+     Oh! it's cracked!
   </div>
 </div>
 
-`Jan 23, 2024` One special thing about our sculpture is my dad craft the wooden sculpture tools on his own, so that the tools are prefectly handful for our hands! That is so cool! 
+`Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands!
 
 ## Digital sculpting
-Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2023. Everything I sculpted is now a mess 😆, still during an incline learning curve.
+Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2024. Everything I sculpted is now a mess 😆, still during an incline learning curve.
 
 # Painting
 
