@@ -90,6 +90,10 @@ A fun (out-of-the-box) comic about my daily life here.
 Glasses' Story
 <img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
 
+A compliment
+<img src="/images/artworks/comic_compliment.png" alt= "comic-compliment">
+
+
 # Infographic
 
 This was inspired by the visualization after TEDx talks. I think every complicated topic can be easily understood with the help of some images. 
