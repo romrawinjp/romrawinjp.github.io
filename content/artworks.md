@@ -91,7 +91,7 @@ Glasses' Story
 <img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
 
 A compliment
-<img src="/images/artworks/comic_compliment.png" alt= "comic-compliment">
+<img src="/images/artworks/comic_compliment.jpg" alt= "comic-compliment">
 
 
 # Infographic
