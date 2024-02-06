@@ -94,7 +94,7 @@ If you're in Super AI Engineer SS4 and looking for a short course "**Modern Imag
 
 `Jan 30, 2024` I just know that this lecture is paired with this weekend hackathon on image search. So, I'll be updating the content after the hackathon ends! Enjoy image's world! -->
 
-`Fab 4, 2024` The course content is updted! 
+`Fab 4, 2024` The course content is updated! 
 
 Click [here](https://github.com/romrawinjp/modern-image-search/blob/b079600603e0001443e336e0b55337f6f554f8da/romrawin_modern-image-search.pdf) to download the slide.
 
