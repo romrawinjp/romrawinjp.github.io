@@ -53,7 +53,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 <img align="left" src="/images/profile.jpg" alt= "Jinpu" width="145" height="145" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jin" in short. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
+My name is Romrawin Chumpu. You can call me "Jin" in short. If you can pronounce Chinese, my name is 進步. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
 &nbsp;&nbsp;&nbsp; ⚙️ **Physical simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
@@ -170,6 +170,12 @@ Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on ort
 ---
 
 ## Teaching
+
+**Instructor** - Super AI Engineer Development Program <br> 
+📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
+Super AI Engineer Development Program Season 4 - <a href="https://github.com/romrawinjp/modern-image-search">**Modern Image Search**</a><br> 
+
+
 
 **Teaching Assistant** - Super AI Engineer Development Program <br> 
 📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
