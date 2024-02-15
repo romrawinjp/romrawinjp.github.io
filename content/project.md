@@ -57,12 +57,33 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/tags/llm/">
-        <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-            &nbsp; &nbsp; <center><large> <b>Finetune LLM</b>
-            <img align="center" src="/images/project/finetune-llm.png" alt= "finetune-llm" width="50%"" style="margin: 10px"> 
-            </large> </center>
-        </div>
+    <a href="/projects/faulty_model/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
+      </medium> 
+    </div>
+  </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <a href="/projects/ocean/">
+    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Ocean Floor</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/ocean/ocean0.jpg" alt= "ocean0" width="50%"" style="margin: 10px"> 
+      </medium></center> 
+    </div>
+    </a>
+  </div>
+  <div class="column">
+    <a href="/projects/gratitute_log/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitute Log</b> &nbsp; &nbsp; 
+          <img align="center" src="/images/project/gratitute_log.jpg" alt= "ocean0" width="50%"" style="margin: 10px"> 
+        </medium></center> 
+      </div>
     </a>
   </div>
 </div>
@@ -78,26 +99,6 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/projects/mineral/">
-      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Blender Mineral Collection</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/materials.jpg" alt= "minerals" width="50%"" style="margin: 10px"> </center>
-      </medium>
-    </div>
-    </a>
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="column">
-    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>3D Model Challenge: AI vs Me</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
-      </medium></center> 
-    </div>
-  </div>
-  <div class="column">
     <a href="/projects/crochet_pattern/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b> &nbsp; &nbsp; 
@@ -108,23 +109,45 @@ body {
   </div>
 </div>
 
+
+# Super Slow Pace Projects
+
 <div class="row">
   <div class="column">
-  <a href="/projects/ocean/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Ocean Floor</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/ocean/ocean0.jpg" alt= "ocean0" width="50%"" style="margin: 10px"> 
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>3D Model Challenge: AI vs Me</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/ai-me.png" alt= "ai-me" width="50%"" style="margin: 10px"> 
       </medium></center> 
+    </div>
+  </div>
+  <div class="column">
+    <a href="/tags/llm/">
+        <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+            &nbsp; &nbsp; <center><large> <b>Finetune LLM</b>
+            <img align="center" src="/images/project/finetune-llm.png" alt= "finetune-llm" width="50%"" style="margin: 10px"> 
+            </large> </center>
+        </div>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <a href="/projects/mineral/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Blender Mineral Collection</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/materials.jpg" alt= "minerals" width="50%"" style="margin: 10px"> </center>
+      </medium>
     </div>
     </a>
   </div>
   <div class="column">
-    <a href="/projects/faulty_model/">
-      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
-      </medium> 
-    </div>
+    <a href="/tags/llm/">
+        <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+            &nbsp; &nbsp; <center><large> <b>Short Animation</b> &nbsp; &nbsp; 
+            <img align="center" src="/images/project/animation.jpg" alt= "animation" width="50%"" style="margin: 10px"> 
+            </large> </center>
+        </div>
     </a>
   </div>
 </div>
