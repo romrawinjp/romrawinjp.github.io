@@ -102,6 +102,16 @@ This was inspired by the visualization after TEDx talks. I think every complicat
 
 <img src="/images/artworks/info2.jpg" alt= "info2">
 
+# Failures from ML Model Can Be Some Art!
+
+Results from what am I doing!?
+
+**Food or What!?**
+
+finetuning `food_txtclass-ldm-vq-xlmroberta-4` Thai tokens 
+
+<img src="/images/artworks/food_txtclass-ldm-vq-xlmroberta-4.png" alt= "food-or-what">
+
 
 # 3D Model
 
