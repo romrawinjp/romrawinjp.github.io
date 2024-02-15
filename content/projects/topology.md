@@ -60,7 +60,7 @@ The result after glazing
 
 **Process Duration** - Sculpting (2 mins) -> Waiting for it to dry (0.5 day) -> Fixing the cracks (3 days) -> Sanding (2 days) -> Coloring (30 mins) -> Glazing (1 day)
 
-Dude! what were you doing with fixing the cracks and sanding!?
+Dude! what were you doing with fixing the cracks and sanding!? -- Or life is just like that, all we do is fixing the cracks! But sanding was personally mesmerized me, no more philosophy output 😆.
 
 M: Jin! Can you make something useful out of the clay? <br>
 J: Here it is. How is it not useful? <br>
