@@ -56,11 +56,24 @@ What is this word 😆?
 </div>
 
 The result after glazing
-<img src="/images/project/topology.jpg" alt= "topology" style="width:100%">
+
+<div class="row">
+  <div class="column">
+    <img src="/images/project/topology.jpg" alt= "topology" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/project/topology/topology-1.jpg" alt= "topology-1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/project/topology/topology-2.jpg" alt= "topology-2" style="width:100%">
+  </div>
+</div>
+
+
 
 **Process Duration** - Sculpting (2 mins) -> Waiting for it to dry (0.5 day) -> Fixing the cracks (3 days) -> Sanding (2 days) -> Coloring (30 mins) -> Glazing (1 day)
 
-Dude! what were you doing with fixing the cracks and sanding!? -- Or life is just like that, all we do is fixing the cracks! But sanding was personally mesmerized me, no more philosophy output 😆.
+Dude! what were you doing with fixing the cracks and sanding!? -- Or life is just like that, all we do is fixing the cracks! But sanding was personally mesmerized for me, no more philosophy murmuring 😆.
 
 M: Jin! Can you make something useful out of the clay? <br>
 J: Here it is. How is it not useful? <br>

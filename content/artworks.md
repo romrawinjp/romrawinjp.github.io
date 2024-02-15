@@ -198,7 +198,18 @@ My dad got his new clay spinner recently. He left the old one, so I stole it ðŸ˜
 `Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands!
 
 Someone nerds out at <a href="/projects/topology/"> **Everything, Everywhere, Topology!** </a>
-<img src="/images/project/topology.jpg" alt= "topology" style="width:100%">
+
+<div class="row">
+  <div class="column">
+    <img src="/images/project/topology.jpg" alt= "topology" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/project/topology/topology-1.jpg" alt= "topology-1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/project/topology/topology-2.jpg" alt= "topology-2" style="width:100%">
+  </div>
+</div>
 
 ## Digital sculpting
 Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2024. Everything I sculpted is now a mess ðŸ˜†, still during an incline learning curve.
