@@ -141,7 +141,9 @@ finetuning `food_txtclass-ldm-vq-xlmroberta-4` Thai tokens
 
 <!-- No one would believe me if I say I have 1x yrs animation experience in my resume 😂. I'd never do that. Anyway, 3D animation has always been fun for me! -->
 
-`Nov 23, 2023` After I watched Wish, I admit that deep down I do really wanna be an animator. This is who I am my entire life. Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now. 
+`Nov 23, 2023` After I watched Wish, I admit that deep down I do really wanna be an animator. This is who I am my entire life. 
+
+<!-- Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now.  -->
 
 # Crochet
 
@@ -194,6 +196,9 @@ My dad got his new clay spinner recently. He left the old one, so I stole it �
 </div>
 
 `Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands!
+
+Someone nerds out at <a href="/projects/topology/"> **Everything, Everywhere, Topology!** </a>
+<img src="/images/project/topology.jpg" alt= "topology" style="width:100%">
 
 ## Digital sculpting
 Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2024. Everything I sculpted is now a mess 😆, still during an incline learning curve.
@@ -252,7 +257,7 @@ Who said it's easy!? Lighting in here is so hard!
 
 When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
 
-`2023` 🫤 How do you know that?
+`2023` 🫤 How do you know that? How could you know that?
 
 # Reflection on My Hidden Messages
 
@@ -264,4 +269,4 @@ Someone once said that I always put some hidden message in my art. I usually don
 
 
 > **Acknowledgement** <br>
-> My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if...
+> My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if... I don't wanna be famous.
