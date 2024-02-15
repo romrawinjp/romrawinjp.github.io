@@ -119,10 +119,12 @@ body {
     </a>
   </div>
   <div class="column">
-      <!-- <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-         &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/crochet/small_star.jpg" alt= "crochet" width="50%"" style="margin: 10px"> </center>
+    <a href="/projects/faulty_model/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
       </medium> 
-    </div> -->
+    </div>
+    </a>
   </div>
 </div>
