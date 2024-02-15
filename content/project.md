@@ -80,8 +80,8 @@ body {
   <div class="column">
     <a href="/projects/gratitute_log/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitute Log</b> &nbsp; &nbsp; 
-          <img align="center" src="/images/project/gratitute_log.jpg" alt= "ocean0" width="50%"" style="margin: 10px"> 
+          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitude Log</b> &nbsp; &nbsp; 
+          <img align="center" src="/images/project/gratitude_log.jpg" alt= "gratitude" width="50%"" style="margin: 10px"> 
         </medium></center> 
       </div>
     </a>
