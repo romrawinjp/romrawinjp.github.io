@@ -63,6 +63,23 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
 
 `Sep 2` I think lighting in sketch is much harder than in 3D.
 
+## Scratch Board Illustration
+
+`Jan 5, 2024` After I knew lighting is hard, I realized this is my weaknesses, learning happens with this sketching technique! It's called **scratch board illustration**. An antique style illustration, originally, it is a wood craft, but here we use ink instead. We have to bold up the lines where the shadow lay on them, so we will get a sense of 3D lighting in this kind of inking. 
+
+
+<div class="row">
+  <div class="column">
+    <img src="/images/artworks/scratch-1.jpg" alt= "scratch-1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/artworks/scratch-2.jpg" alt= "scratch-2" style="width:100%">
+  </div>
+  <div class="column">
+     <img src="/images/artworks/scratch-3.jpg" alt= "scratch-3" style="width:100%">
+  </div>
+</div>
+
 ## Inktober 2023 (but Blender)
 
 It's ink! but in blender.  This is the first time I use grease pencil 😄. Here are the top three pieces I like so far.
