@@ -33,6 +33,8 @@ body {
 }
 </style>
 
+> The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or do we? -- Distance between Jin and her latte cup, 2022
+
 # Sketch
 Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for papers.
 
