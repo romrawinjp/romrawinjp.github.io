@@ -278,8 +278,8 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
 
 <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
 Who said it's easy!? Lighting in here is so hard! <br>
-<br>
-`Jan 23, 2024` Me and dad are going to paint ocean textures on the floor! > <a href="/projects/ocean/"> 🌊 Ocean's exhibition </a> project 
+
+<!-- `Jan 23, 2024` Me and dad are going to paint ocean textures on the floor! > <a href="/projects/ocean/"> 🌊 Ocean's exhibition </a> project  -->
 
 # Poem
 
