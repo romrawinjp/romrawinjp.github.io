@@ -277,15 +277,32 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
 </div> -->
 
 <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
-Who said it's easy!? Lighting in here is so hard!
-
+Who said it's easy!? Lighting in here is so hard! <br>
+<br>
 `Jan 23, 2024` Me and dad are going to paint ocean textures on the floor! > <a href="/projects/ocean/"> 🌊 Ocean's exhibition </a> project 
 
 # Poem
 
-When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
+<!-- When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
 
-`2023` 🫤 How do you know that? How could you know that?
+`2023` 🫤 How do you know that? How could you know that? -->
+
+My favorite is always Emily Dickinson.
+
+> “Hope” is the thing with feathers -
+> That perches in the soul -
+> And sings the tune without the words -
+> And never stops - at all -
+>
+> And sweetest - in the Gale - is heard -
+> And sore must be the storm -
+> That could abash the little Bird
+> That kept so many warm -
+>
+> I’ve heard it in the chillest land -
+> And on the strangest Sea -
+> Yet - never - in Extremity,
+> It asked a crumb - of me.
 
 # Reflection on My Hidden Messages
 
