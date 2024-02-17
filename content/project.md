@@ -48,7 +48,7 @@ body {
 
 <div class="row">
   <div class="column">
-    <a href="/projects/facegen3d/">
+    <a href="/posts/projects/facegen3d/">
         <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
             &nbsp; &nbsp; &nbsp;<center> <large> <b>3D Face Generation</b>
             <img align="center" src="/images/project/3Dface.png" alt= "3Dface" width="50%"" style="margin: 10px"> 
@@ -57,7 +57,7 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/projects/faulty_model/">
+    <a href="/posts/projects/faulty_model/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
         <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
@@ -69,7 +69,7 @@ body {
 
 <div class="row">
   <div class="column">
-  <a href="/projects/ocean/">
+  <a href="/posts/projects/ocean/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Ocean Floor</b> &nbsp; &nbsp; 
         <img align="center" src="/images/project/ocean/ocean0.jpg" alt= "ocean0" width="50%"" style="margin: 10px"> 
@@ -78,7 +78,7 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/projects/gratitude_log/">
+    <a href="/posts/projects/gratitude_log/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
           &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitude Log</b> &nbsp; &nbsp; 
           <img align="center" src="/images/project/gratitude_log.jpg" alt= "gratitude" width="50%"" style="margin: 10px"> 
@@ -90,7 +90,7 @@ body {
 
 <div class="row">
   <div class="column">
-  <a href="/projects/inktober/">
+  <a href="/posts/projects/inktober/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Inktober 2023 (but Blender)</b> &nbsp; &nbsp; 
         <img align="center" src="/images/artworks/inktober/d4-dodge-2.png" alt= "d4" width="50%"" style="margin: 10px"> 
@@ -99,7 +99,7 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/projects/crochet_pattern/">
+    <a href="/posts/projects/crochet_pattern/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b>
         <img align="center" src="/images/project/crochet/small_star.jpg" alt= "crochet" width="50%"" style="margin: 10px"> </center>
@@ -111,7 +111,7 @@ body {
 
 <div class="row">
   <div class="column">
-  <a href="/projects/topology/">
+  <a href="/posts/projects/topology/">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Everything, Everywhere, Topology!</b>
         <img align="center" src="/images/project/topology.jpg" alt= "topology" width="50%"" style="margin: 10px"> 
@@ -154,7 +154,7 @@ body {
 
 <div class="row">
   <div class="column">
-    <a href="/projects/mineral/">
+    <a href="/posts/projects/mineral/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Blender Mineral Collection</b> &nbsp; &nbsp; 
         <img align="center" src="/images/project/materials.jpg" alt= "minerals" width="50%"" style="margin: 10px"> </center>
@@ -163,7 +163,7 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/tags/llm/">
+    <a href="/tags/animation/">
         <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
             &nbsp; &nbsp; <center><large> <b>Short Animation</b> &nbsp; &nbsp; 
             <img align="center" src="/images/project/animation.jpg" alt= "animation" width="50%"" style="margin: 10px"> 
