@@ -123,11 +123,9 @@ This was inspired by the visualization after TEDx talks. I think every complicat
 
 # Failures from ML Model Can Be Some Art!
 
-Results from what am I doing!?
+Results from what am I doing!? A collection of my experiments while I'm working on infinity thousand images a day! 
 
-**Food or What!?**
-
-finetuning `food_txtclass-ldm-vq-xlmroberta-4` Thai tokens 
+Title: **Food or What!?** - finetuning `food_txtclass-ldm-vq-xlmroberta-4` Thai tokens 
 
 <img src="/images/artworks/food_txtclass-ldm-vq-xlmroberta-4.png" alt= "food-or-what">
 
@@ -152,15 +150,15 @@ finetuning `food_txtclass-ldm-vq-xlmroberta-4` Thai tokens
   </div>
 </div>
 
-`2008` After I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
+<!-- `2008` After I watched Wall-E with my dad, I told him I wanna be an animator. He let me go to animation summer school! Here are what I created from **3ds Max** and **Maya**. As I can recall, I modeled doraemon from scratch in 3ds Max and rigged in Maya. TBH, I can't remember the process how I did it. I was super young. But some sense is still here. 
 
 | Doraemon             | Teddy               |
 | ---------------------- | ---------------------- |
-| [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) |
+| [![Watch the video](https://img.youtube.com/vi/BJv6czfWSvI/hqdefault.jpg)](https://youtu.be/BJv6czfWSvI?si=FMeP6pS8VQUthpS6) | [![Watch the video](https://img.youtube.com/vi/njpvdWVUD0U/hqdefault.jpg)](https://youtu.be/njpvdWVUD0U?si=j_YC_7uscD320vZp) | -->
 
 <!-- No one would believe me if I say I have 1x yrs animation experience in my resume ðŸ˜‚. I'd never do that. Anyway, 3D animation has always been fun for me! -->
 
-`Nov 23, 2023` After I watched Wish, I admit that deep down I do really wanna be an animator. This is who I am my entire life. 
+<!-- `Nov 23, 2023` After I watched Wish, I admit that deep down I do really wanna be an animator. This is who I am my entire life.  -->
 
 <!-- Before that, I thought this dream might be impossible, and even now I still think it is really far to reach. But hey! stop lying to yourself, I MUST try. (If I could do it) This would be heavily on the technology side right now.  -->
 
@@ -214,7 +212,7 @@ My dad got his new clay spinner recently. He left the old one, so I stole it ðŸ˜
   </div>
 </div>
 
-`Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands!
+<!-- `Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands! -->
 
 Someone nerds out at <a href="/projects/topology/"> **Everything, Everywhere, Topology!** </a>
 
@@ -291,11 +289,13 @@ When it comes, it comes. Life is easier than you think. Why make it so complicat
 
 # Reflection on My Hidden Messages
 
-Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. Here is my turn to explain what I was thinking. Hope we are on the same page!
+Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. 
+
+<!-- Here is my turn to explain what I was thinking. Hope we are on the same page!
 
 `Sep 7, 2023` <a href="/projects/tangled/"> Tangled's scene from CS148's final project </a>
 
-`Nov 22, 2023` I think the decision that scared me the most turns out to be the best decision I could ever make -- like in <a href="/projects/crazy_painting/"> these paintings </a>. Why is it like that?
+`Nov 22, 2023` I think the decision that scared me the most turns out to be the best decision I could ever make -- like in <a href="/projects/crazy_painting/"> these paintings </a>. Why is it like that? -->
 
 
 > **Acknowledgement** <br>
