@@ -289,24 +289,24 @@ Who said it's easy!? Lighting in here is so hard! <br>
 
 My favorite is always Emily Dickinson.
 
-> “Hope” is the thing with feathers -
-> That perches in the soul -
-> And sings the tune without the words -
-> And never stops - at all -
+> “Hope” is the thing with feathers - <br>
+> That perches in the soul - <br>
+> And sings the tune without the words - <br>
+> And never stops - at all - <br>
 >
-> And sweetest - in the Gale - is heard -
-> And sore must be the storm -
-> That could abash the little Bird
-> That kept so many warm -
+> And sweetest - in the Gale - is heard - <br>
+> And sore must be the storm - <br>
+> That could abash the little Bird <br>
+> That kept so many warm - <br>
 >
-> I’ve heard it in the chillest land -
-> And on the strangest Sea -
-> Yet - never - in Extremity,
+> I’ve heard it in the chillest land - <br>
+> And on the strangest Sea - <br>
+> Yet - never - in Extremity, <br>
 > It asked a crumb - of me.
 
 # Reflection on My Hidden Messages
 
-Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. 
+Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. That is just my innale artist voice, probably.
 
 <!-- Here is my turn to explain what I was thinking. Hope we are on the same page!
 
