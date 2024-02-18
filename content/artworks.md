@@ -1,12 +1,10 @@
 ---
 title: "My Artworks Collection"
 author: Romrawin Chumpu
-layout: "post"
-tags: ["jin" , "leisure", "work", "artworks", "art"]
-env: "production"
-tocopen: true
-ShowWordCount: true
-ShowShareButtons: true
+tags: ["leisure", "work", "artworks", "art"]
+math: true
+tocopen: false
+ShowWordCount: false
 # analytics.google.SiteVerificationTag: "XYZabc"
 --- 
 
@@ -33,9 +31,30 @@ body {
 }
 </style>
 
+{{< math.inline >}}
+{{ if or .Page.Params.math .Site.Params.math }}
+
+<!-- KaTeX -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+{{ end }}
+{{</ math.inline >}}
+
+
 > The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or do we? -- Distance between Jin and her latte cup, 2022 
 
-$d = \sqrt{(x_{1}-x_{0})^2+(y_{1}-y_{0})^2}$, where $x$ and $y$ are as René Descartes said.
+
+$$ 
+  d = \sqrt{(x_{1}-x_{0})^2+(y_{1}-y_{0})^2},
+$$
+
+{{< math.inline >}}
+where \(x\) and \(y\) are coordinate variables as René Descartes said.
+{{</ math.inline >}}
+
+
+
 
 # Sketch
 Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for papers.
