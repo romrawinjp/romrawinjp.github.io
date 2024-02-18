@@ -7,7 +7,7 @@ env: "production"
 tocopen: true
 ShowWordCount: true
 ShowShareButtons: true
-analytics.google.SiteVerificationTag: "XYZabc"
+# analytics.google.SiteVerificationTag: "XYZabc"
 --- 
 
 <style> 
@@ -33,7 +33,9 @@ body {
 }
 </style>
 
-> The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or do we? -- Distance between Jin and her latte cup, 2022
+> The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or do we? -- Distance between Jin and her latte cup, 2022 
+
+$d = \sqrt{(x_{1}-x_{0})^2+(y_{1}-y_{0})^2}$, where $x$ and $y$ are as René Descartes said.
 
 # Sketch
 Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for papers.
@@ -98,7 +100,7 @@ It's ink! but in blender.  This is the first time I use grease pencil 😄. Here
   </div>
 </div>
 
-`Oct 7, 2023` <a href="/projects/inktober/"> Inktober 2023 (but Blender) Full Collection </a>
+`Oct 7, 2023` <a href="/posts/projects/inktober/"> Inktober 2023 (but Blender) Full Collection </a>
 
 # Fun comic
 
@@ -178,7 +180,7 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
   </div>
 </div>
 
-`Nov 16, 2023` <a href="/projects/crochet_pattern/"> My Invented Crochet Pattern </a> > <a href="/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
+`Nov 16, 2023` <a href="/posts/projects/crochet_pattern/"> My Invented Crochet Pattern </a> > <a href="/posts/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
 
 # Papercraft
 
@@ -214,7 +216,7 @@ My dad got his new clay spinner recently. He left the old one, so I stole it �
 
 <!-- `Jan 23, 2024` One special thing about our sculpture is my dad crafted the wooden sculpture tools, so that the tools are prefectly handful for our hands! -->
 
-Someone nerds out at <a href="/projects/topology/"> **Everything, Everywhere, Topology!** </a>
+Someone nerds out at <a href="/posts/projects/topology/"> **Everything, Everywhere, Topology!** </a>
 
 <div class="row">
   <div class="column">

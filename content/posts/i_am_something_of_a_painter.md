@@ -24,3 +24,5 @@ His name is Oscar-Claude Monet, according to Wikipedia, he was a French painter 
 ![monet](https://cdn.britannica.com/17/193217-050-DF5BB2D1/Claude-Monet-Woman-Parasol-oil-canvas-Her-1875.jpg)
 
 Woman with a Parasol - Madame Monet and Her Son
+
+His style is seem to be hard storkes. 
