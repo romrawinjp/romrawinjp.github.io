@@ -120,13 +120,13 @@ body {
     </a>
   </div>
   <div class="column">
-    <!-- <a href="/projects/crochet_pattern/">
-      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>My Invented Crochet Pattern</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/crochet/small_star.jpg" alt= "crochet" width="50%"" style="margin: 10px"> </center>
-      </medium>
+  <a href="/posts/projects/yarn_simulation/">
+    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>(Crochet) Yarn Simulation</b>
+        <img align="center" src="/images/project/yarn_simulation.jpg" alt= "yarn" width="50%"" style="margin: 10px"> 
+      </medium></center> 
     </div>
-    </a> -->
+    </a>
   </div>
 </div>
 
