@@ -42,7 +42,7 @@ body {
 {{</ math.inline >}}
 
 
-> The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or do we? -- Distance between Jin and her latte cup, 2022 
+> The perk of feeling too much is it made us the greatest artist. But in reality, the world doesn't need to know that. So we must stay hidden behind the shadow... or mustn't we? -- Distance between Jin and her latte cup, 2022 
 
 
 $$ 
@@ -88,7 +88,7 @@ Wandering around procreate and paper/pencil 📃. Started since August 2023 for 
 
 ## Scratch Board Illustration
 
-`Jan 5, 2024` After I knew lighting is hard, I realized this is my weaknesses, learning happens with this sketching technique! It's called **scratch board illustration**. An antique style illustration, originally, it is a wood craft, but here we use ink instead. We have to bold up the lines where the shadow lay on them, so we will get a sense of 3D lighting in this kind of inking. 
+After I knew lighting was hard, I realized this was one of my weaknesses. Learning happens with this sketching technique! It's called **scratch board illustration**. An antique-style illustration was originally a wood craft, but here we use ink instead. We have to bold up the lines where the shadow lay on them, so we will get a sense of 3D lighting in this kind of inking.
 
 
 <div class="row">
@@ -325,9 +325,9 @@ My favorite is always Emily Dickinson.
 > Yet - never - in Extremity, <br>
 > It asked a crumb - of me.
 
-# Reflection on My Hidden Messages
+<!-- # Reflection on My Hidden Messages
 
-Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. That is just my innale artist voice, probably.
+Someone once said that I always put some hidden message in my art. I usually don't know that (honestly), but the ones who see it keep telling me that. That is just my innale artist voice, probably. -->
 
 <!-- Here is my turn to explain what I was thinking. Hope we are on the same page!
 

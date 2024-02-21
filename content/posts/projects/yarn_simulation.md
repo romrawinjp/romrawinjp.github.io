@@ -11,7 +11,7 @@ ShowShareButtons: false
 # analytics.google.SiteVerificationTag: "XYZabc"
 ---
 
-Who can make hobby go crazy or nerdy! That might be me. 
+Who can make hobby goes crazy! That might be me. 
 
 I invented the patterns often. The thing happens at one moment when I got annoyed that I don't know know much yarn I need to use for a project. So, this will be my small (research) project, reviewing and reading all yarn simulation stuff. And actually crochet is like programming, I think we can do so many thing with its algorithm.
 

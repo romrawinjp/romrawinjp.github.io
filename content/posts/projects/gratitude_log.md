@@ -3,7 +3,7 @@ title: "Gratitude Log"
 author: Romrawin Chumpu
 layout: "post"
 date: "2024-02-14"
-tags: ["gratitute", "project"]
+tags: ["gratitude", "project"]
 env: "production"
 ShowWordCount: true
 tocopen: true
