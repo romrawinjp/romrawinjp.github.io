@@ -53,7 +53,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 <img align="left" src="/images/profile.jpg" alt= "Jinpu" width="145" height="145" style="margin: 15px">
 
-My name is Romrawin Chumpu. You can call me "Jin" in short. If you can pronounce Chinese, my name is 進步. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
+My name is Romrawin Chumpu. You can call me "Jin" in short for 進步. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
 &nbsp;&nbsp;&nbsp; ⚙️ **Physical simulation** - fluid and materials simulation (macro or micro-nano scale) <br>
 &nbsp;&nbsp;&nbsp; 🧊 **Computer graphics** - UV texture/mapping, mesh processing, and 3D visualization <br>
