@@ -16,11 +16,14 @@ As a little human in this dreadful world, thankfulness is one of the most precio
 > Thank you for seeing me, while I don't see myself. -- Romrawin's Master Thesis, 2022
 
 > It's not your fault if you have always decided to put your family first, your dreams after. It is just a destiny. I'm thankful for doing that. -- Me to me, 2024
+> Wait! you didn't put your dreams after after all. They're on the way. -- lol what a dramatic girl 
 
 > Thank you, mom and dad, for supporting all of my decisions. Even though you don't understand any of the science stuff I was saying, thank you for asking me every time I do something new, and try really hard to listen to me. -- Me to my parents, life-time gratitude
 
 > I am thankful for everyone who sees my ability and believes in me, even on those days when I have nothing to offer. Genuinely thank you for transforming me into a better person, while I could not imagine how I could be before that. -- Me to ones who have always been here with me, 2024
 
-> Thank you for always being here with me. -- Me to my life-long elementary/high school friends who, whenever I need them, are always the same genius kids I know, life-time gratitude
+> Thank you for always being here with me. -- Me to my life-long elementary/high/uni school friends who, whenever I need them, are always the same genius kids I know, life-time gratitude
 
 > I am thankful for opportunities in my education, for a supportive environment, and for an exceptional society of genius friends. No one tells me to repay the scholars, but I promise I will be a little hand to foster the next generation of a good society until my last breath. -- Me to all opportunities I have received, life-time gratitude
+
+`Feb 25, 2024` I heard people saying ___ after these days. That means a lot to me.
