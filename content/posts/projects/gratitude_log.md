@@ -16,7 +16,7 @@ As a little human in this dreadful world, thankfulness is one of the most precio
 > Thank you for seeing me, while I don't see myself. -- Romrawin's Master Thesis, 2022
 
 > It's not your fault if you have always decided to put your family first, your dreams after. It is just a destiny. I'm thankful for doing that. -- Me to me, 2024 <br>
-> Wait! you didn't put your dreams after after all. They're on the way. -- lol what a dramatic girl 
+> Wait! you didn't put your dreams after after all. They're on the way, gradually building up from experiences that shape who you are. It's not a straight way, but what you have learned is the strongest core knowledge like no one else -- lol what a dramatic girl, hug 🫂!
 
 > Thank you, mom and dad, for supporting all of my decisions. Even though you don't understand any of the science stuff I was saying, thank you for asking me every time I do something new, and try really hard to listen to me. -- Me to my parents, life-time gratitude
 
