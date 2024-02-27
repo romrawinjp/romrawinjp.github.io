@@ -2,11 +2,10 @@
 title: "Curriculum Vitae"
 author: Romrawin Chumpu
 layout: "post"
-tags: ["jinpu", "jin" ,"cv", "work", "publications"]
+tags: ["bio", "publications"]
 env: "production"
-ShowWordCount: true
-homepage: true
-tocopen: true
+ShowWordCount: false
+tocopen: false
 ShowShareButtons: false
 analytics.google.SiteVerificationTag: "XYZabc"
 ---
@@ -18,7 +17,7 @@ body {
 #rcorners1 {
   display: flex;
   border-radius: 10px;
-  background: rgba(230, 232, 236, 0.15);
+  background: rgba(211, 200, 211, 0.10);
   padding: 20px; 
   max-width: 700px;
   height: auto;
@@ -52,7 +51,7 @@ Master of Science in Engineering and Technology (Computer Science)
 
 ## About me
 
-<img align="left" src="/images/profile.jpg" alt= "Jinpu" width="145" height="145" style="margin: 15px">
+<img align="left" src="/images/profile.png" alt= "Jinpu" width="145" height="145" style="margin: 15px">
 
 My name is Romrawin Chumpu. You can call me "Jin" in short for 進步. My goal is to become a good researcher in the fields of computer simulation/graphics and machine learning. Based on my experience, my current topics of interest include (but not limited to)
 
@@ -108,7 +107,7 @@ Click [here](https://github.com/romrawinjp/modern-image-search/blob/b079600603e0
 <a href="https://github.com/romrawinjp/modern-image-search/blob/b079600603e0001443e336e0b55337f6f554f8da/romrawin_modern-image-search.pdf"> <img src="https://github.com/romrawinjp/modern-image-search/raw/main/slide.png" alt= "slide"></a>
 
 
----
+<!-- ---
 
 ## Education
 
@@ -174,169 +173,10 @@ Click [here](https://github.com/romrawinjp/modern-image-search/blob/b079600603e0
 Computational Fluid Dynamics (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation <br> 
 🕵️‍♂️ Supervisor: Prof. Peter L. Douglas
 
----
-
-## Teaching
-
-**Instructor** - Super AI Engineer Development Program <br> 
-📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
-Super AI Engineer Development Program Season 4 - <a href="https://github.com/romrawinjp/modern-image-search">**Modern Image Search**</a><br> 
-
-
-
-**Teaching Assistant** - Super AI Engineer Development Program <br> 
-📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
-👶 Super AI Engineer Development Program Season 3 <br> 
-<small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 
-👶 Super AI Engineer Development Program Season 2 <br> 
-<small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> 
-<small> 🗣️ Guiding a new generation of AI developers through hackathons and other AI-related projects </small>
-
-
-**Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
-<small> 🗣️ Teaching first-year laboratory and communicating between classrooms with multiple instructors </small>
-
-**Grader** - Main Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers (Co grader) <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
-<small> 🗣️ Grading assignments and providing the correct explanations</small>
-
-**Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
-<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting students with their homework and providing guidance for all first-year courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
-
-**Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
-<br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that by being a good teacher for them, we had the power to inspire and make an impact to student's lives. </small>
-
-> 🧑‍🏫 My life and intellect have developed through many great teachers. I love them, and they are always my complete role models. I felt extremely fortunate and glad to have met all of them. I'm not sure what they saw in me, but I'll strive to see the best in my students just like they did for me.
-
-> 👶 To my students, thank you for teaching me how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or want to tell me some news! 😁
+--- -->
 
 ---
 
-## Awards and Honors
-
-`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging | <a href="http://web.stanford.edu/class/cs148/showcase.html"> Showcase </a>📍 Stanford University 
-
-`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) ⭐ Representative of a researcher and woman in AI <br> - A cast member in TV game show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
-
-`2022` 🏆 **One of Thirty People Who Contributed SIIT Reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
-
-`2022` 📕 **The 10th of Global Young Scientist Summit (GYSS) 2022** - Joined a panel discussion in Artificial Intelligence, Ethics and Governance with Prof. Cédric Villani (Fields Medal) and Prof. Leslie Valiant (Turing Award)📍 National Science Foundation of Singapore (NSF) 
-
-`2021` 🏆 **Outstanding submission**  (1/100 groups) - ML for predicting materials property 📍 Thailand Machine Learning for Chemistry Competition
- 
-`2021` 🏆 **Silver Medal - Advanced AI Certificate** (10/3500 participants) - Super AI Engineer Development Program 📍 Artificial Intelligence Association of Thailand (AIAT) 
-
-`2021` 🏆 **Best Poster Award** (3/3500 participants) - <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> Face Generation Project</a> - Super AI Engineer Development Program (3/3500 paticipants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
-
-`2020` 🏆 **Second prize project on Molecular Dynamics** - KMUTT Scientific Programming with Python Summer School 📍 Faculty of Science, King Mongkut’s University of Technology Thonburi
-
-`2020` 🏆 **Outstanding Performance Award** - Award to students who have contributed to SIIT Reputation - Global Leadership Program📍 Sirindhorn International Institute of Technology, Thammasat University
-
-`2019` 🏆 **First-Class Honors in Bio-Chemical Engineering and Technology** 📍 Sirindhorn International Institute of Technology, Thammasat University
-
-`2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best mathematics project (1/65 projects, 3/1000 proposals) - Awarded scholarship and research funding up to the doctoral level in Thailand institution📍 National Science and Technology Development Agency (NSTDA)
-
-`2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (30/1000 students) - Awarded high school scholarship 📍 Ministry of Science
-
----
-
-## Services and Happy Volunteer
-
-`2023` 📄 **Volunteer Staff** - NeurIPS 2023 Conference 📍New Orleans, LA (Selected in-person but visa was denied, Virtual), Neural Information Processing Systems Foundation
-
-`2023` 👨‍💻 **Judge in Round 2** - National Software Contest (NSC) 2022 📍 National Science and Technology Development Agency (NSTDA)
-
-`2016 - 2023` 🏃‍♀️ **Volunteer Staff** - Junior Science Talent Project 📍 National Science and Technology Development Agency (NSTDA)
-
-`2016 - 2019` 👨‍💻 **SIIT Hackathon Volunteer Staff** - Annual Hackathon 📍 Sirindhorn International Institute of Technology, Thammasat University
-
----
-## News
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> 
-  <b> Nov 19, 2023 </b> - 👩‍🎓 Finally got two dashes! That is not covid test :D It's my MS~ And I am the luckiest one the world to have you as an advisor. <br>
-  <img align="left" src="/images/two-taps.jpg" alt= "two-taps" width="150" height="150" style="margin: 15px">
-  <img align="left" src="/images/advisor.jpg" alt= "ads" height="150" style="margin: 15px"> <br>
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> 
-  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! <br>
-  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It was an unforgettable moment I could ever ask for anywhere else.
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium>  
-  <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer - The Reality show <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here. </a> <br>
-  Also, AI Live Season 3 - EP.7 is <a href="https://www.youtube.com/live/LqU1mpc5NeA?feature=share"> here. </a><br>
-  <img align="left" src="/images/ai-live.jpg" alt= "ai-live-ep7" width="260" height="150" style="margin: 15px"> 
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> November 16, 2022 </b> - <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it24hrs.com%2F2022%2Fsuper-ai-engineer-the-reality%2F&psig=AOvVaw2FW_gkiP6dMU8C1_tT3WXh&ust=1683018623383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOip2ovj0_4CFQAAAAAdAAAAABAE"> Super AI Engineer The Reality Season 1 </a> will be on air soon! Stay tuned! 
-  ⬇️ Read the <a href="https://thailand.postsen.com/live-style/76272/Super-AI-Engineer-The-Reality-for-the-first-time-in-Thailand-with-a-competition-to-find-the-best-AI-engineers.html"> news.</a><br>
-  <img align="left" src="/images/reality.jpg" alt= "reality" width="150" height="190" style="margin: 15px"> 
-  <!-- <img align="left" src="https://www.it24hrs.com/wp-content/uploads/2022/11/IMG_5662.jpg" alt= "jinpu-reality" width="150" height="150" style="margin: 15px">  -->
-  <img align="left" src="/images/jinpu-reality-three.jpeg" alt= "jinpu-reality-three" width="190" height="190" style="margin: 15px"> 
-  </medium>
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am always grateful for being a graduate student here! ⬇️ Listen to <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> my talk. </a> <br>
-  <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
-  <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
-  </medium>
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> 
-  <b> February 21, 2022 </b> - My master thesis, <i> Simulation and control of drug release on microneedle using machine learning technique,</i> is published <a href="https://digital.library.tu.ac.th/tu_dc/frontend/Creator/personDc/375797"> here </a>
-  </medium>
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and join the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring event I have ever attended in my life. Thank you NSTDA for providing me this opportunity. <br> ⬇️ Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> and <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  in Thai. <br> 
-  <img align="left" src="/images/gyss.jpeg" alt= "jinpu-gyss" width="270" height="150" style="margin: 15px"> 
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat! My most honored moment throughout my time here. Thank you for showing me how we can make a difference in people's lives in everything we do and for shaping me a better person in my way. ⬇️ Read the<a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> news. </a> <br>
-  <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
-  <img align="left" src="/images/super-ai-tu.jpeg" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
-  </medium> 
-  </p>
-</div>
-
-<div>
-  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-  <medium> <b> October 1, 2021 </b> - It is an honor for me to be awarded the Silver Medal as known as the Advanced AI Certificate from the Super AI Engineer Development program (10/3500 participants). <br> 📮 My poster was also awareded the best poster! ⬇️ The face generation <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> poster </a> can be viewed here. <br>
-  <img align="left" src="/images/jinpu-silver-1.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
-  <img align="left" src="/images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
-  </medium> 
-  </p>
-</div>
-
-
----
 ## Publications
 
 <div>
@@ -427,3 +267,168 @@ Super AI Engineer Development Program Season 4 - <a href="https://github.com/rom
   </medium> 
   </p>
 </div>
+
+---
+
+## Teaching
+
+📔 Super AI Engineer Development Program Season 4 - <a href="https://github.com/romrawinjp/modern-image-search">**Modern Image Search**</a><br> 
+
+<!-- **Instructor** - Super AI Engineer Development Program <br> 
+📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
+Super AI Engineer Development Program Season 4 - <a href="https://github.com/romrawinjp/modern-image-search">**Modern Image Search**</a><br>  -->
+
+
+
+<!-- **Teaching Assistant** - Super AI Engineer Development Program <br> 
+📍 Artificial Intelligence Association of Thailand (AIAT) <br> 
+👶 Super AI Engineer Development Program Season 3 <br> 
+<small> &nbsp;&nbsp;&nbsp;&nbsp; February 2023 - April 2023 </small> <br> 
+👶 Super AI Engineer Development Program Season 2 <br> 
+<small>  &nbsp;&nbsp;&nbsp;&nbsp; February 2022 - April 2022 </small> <br> 
+<small> 🗣️ Guiding a new generation of AI developers through hackathons and other AI-related projects </small>
+
+
+**Teaching Assistant** - Main TA <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ ITS100 Introduction to Programming <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU103 Life and Sustainability <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ TU106 Creativity and Communication <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
+<small> 🗣️ Teaching first-year laboratory and communicating between classrooms with multiple instructors </small>
+
+**Grader** - Main Grader <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - May 2021 </small> <br> 📍 Sirindhorn International Institute of Technology, Thammasat University<br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS116 Mathematics I <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS112 Linear Algebra <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ SCS126 Chemistry for Engineers (Co grader) <br> &nbsp;&nbsp;&nbsp;&nbsp; ▪️ GTS111 Probabilistic for Technologists <br> 
+<small> 🗣️ Grading assignments and providing the correct explanations</small>
+
+**Tutor System Administrator** <br> <small> &nbsp;&nbsp;&nbsp;&nbsp; August 2019 - July 2021 </small>
+<br> 📍 Sirindhorn International Institute of Technology, Thammasat University <br> <small> 🗣️ Assisting students with their homework and providing guidance for all first-year courses <br> 🗣️ Advising students on how to adjust to university-level classes </small>
+
+**Volunteer teacher** - Science teacher in remote areas <small> <br> &nbsp;&nbsp;&nbsp;&nbsp; May 2012 - June 2017 </small>
+<br> 📍 Faculty of Science, Chiang Mai University <br> <small> 🗣️ Teaching science to elementary and high school students in Thailand's remote areas  <br> ⭐ This was the first time I realized that by being a good teacher for them, we had the power to inspire and make an impact to student's lives. </small>
+
+> 🧑‍🏫 My life and intellect have developed through many great teachers. I love them, and they are always my complete role models. I felt extremely fortunate and glad to have met all of them. I'm not sure what they saw in me, but I'll strive to see the best in my students just like they did for me.
+
+> 👶 To my students, thank you for teaching me how to be a good teacher. For me, I only wish you all the best in your career and life. Message me anytime if you need my help or want to tell me some news! 😁 -->
+
+<!-- ---
+
+## Awards and Honors
+
+`2023` 🏆 **Best Project Award** - CS148 Introduction to Computer Graphics and Imaging | <a href="http://web.stanford.edu/class/cs148/showcase.html"> Showcase </a>📍 Stanford University 
+
+`2022` 📺 **Super AI Engineer - The Reality Show** (10/8000 participants) ⭐ Representative of a researcher and woman in AI <br> - A cast member in TV game show completing with AI coding and problem-solving skills for Thailand's social challenges 📍 Artificial Intelligence Association of Thailand (AIAT) 
+
+`2022` 🏆 **One of Thirty People Who Contributed SIIT Reputation** - In celebration of SIIT 30th year 📍 Sirindhorn International Institute of Technology, Thammasat University
+
+`2022` 📕 **The 10th of Global Young Scientist Summit (GYSS) 2022** - Joined a panel discussion in Artificial Intelligence, Ethics and Governance with Prof. Cédric Villani (Fields Medal) and Prof. Leslie Valiant (Turing Award)📍 National Science Foundation of Singapore (NSF) 
+
+`2021` 🏆 **Outstanding submission**  (1/100 groups) - ML for predicting materials property 📍 Thailand Machine Learning for Chemistry Competition
+ 
+`2021` 🏆 **Silver Medal - Advanced AI Certificate** (10/3500 participants) - Super AI Engineer Development Program 📍 Artificial Intelligence Association of Thailand (AIAT) 
+
+`2021` 🏆 **Best Poster Award** (3/3500 participants) - <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> Face Generation Project</a> - Super AI Engineer Development Program (3/3500 paticipants) 📍 Artificial Intelligence Association of Thailand (AIAT) 
+
+`2020` 🏆 **Second prize project on Molecular Dynamics** - KMUTT Scientific Programming with Python Summer School 📍 Faculty of Science, King Mongkut’s University of Technology Thonburi
+
+`2020` 🏆 **Outstanding Performance Award** - Award to students who have contributed to SIIT Reputation - Global Leadership Program📍 Sirindhorn International Institute of Technology, Thammasat University
+
+`2019` 🏆 **First-Class Honors in Bio-Chemical Engineering and Technology** 📍 Sirindhorn International Institute of Technology, Thammasat University
+
+`2016` 🏆 **Long-term Junior Science Talent Project (JSTP) scholarship in Mathematics** - Best mathematics project (1/65 projects, 3/1000 proposals) - Awarded scholarship and research funding up to the doctoral level in Thailand institution📍 National Science and Technology Development Agency (NSTDA)
+
+`2012` 🏆 **Science Classroom in University Affiliated School project (SCiUS)** - Special science classroom (30/1000 students) - Awarded high school scholarship 📍 Ministry of Science -->
+
+---
+
+## Services and Happy Volunteer
+
+`2023` 📄 **Volunteer Staff** - NeurIPS 2023 Conference 📍New Orleans, LA (Selected in-person but visa was denied, Virtual), Neural Information Processing Systems Foundation
+
+`2023` 👨‍💻 **Judge in Round 2** - National Software Contest (NSC) 2022 📍 National Science and Technology Development Agency (NSTDA)
+
+`2016 - 2023` 🏃‍♀️ **Volunteer Staff** - Junior Science Talent Project 📍 National Science and Technology Development Agency (NSTDA)
+
+<!-- `2016 - 2019` 👨‍💻 **SIIT Hackathon Volunteer Staff** - Annual Hackathon 📍 Sirindhorn International Institute of Technology, Thammasat University -->
+
+---
+## News
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> 
+  <b> Nov 19, 2023 </b> - 👩‍🎓 Finally got two dashes! That is not covid test :D It's my MS~ And I am the luckiest one the world to have you as an advisor. <br>
+  <img align="left" src="/images/two-taps.jpg" alt= "two-taps" width="150" height="150" style="margin: 15px">
+  <img align="left" src="/images/advisor.jpg" alt= "ads" height="150" style="margin: 15px"> <br>
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> 
+  <b> May 1, 2023 </b> - I will be attending Stanford Summer Session! <br>
+  <b> August 31, 2023 </b> - Thank you for having me! People were really nice to me. I have learned, discovered, and reflected many important things in life. It was an unforgettable moment I could ever ask for anywhere else.
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium>  
+  <b> January 30, 2023 </b> - You can watch all episodes of Super AI Engineer - The Reality show <a href="https://youtube.com/playlist?list=PLHfrSEhFAgWPd36rElLImprxv_KfhWulC"> here. </a> <br>
+  Also, AI Live Season 3 - EP.7 is <a href="https://www.youtube.com/live/LqU1mpc5NeA?feature=share"> here. </a><br>
+  <img align="left" src="/images/ai-live.jpg" alt= "ai-live-ep7" width="260" height="150" style="margin: 15px"> 
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> November 16, 2022 </b> - <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it24hrs.com%2F2022%2Fsuper-ai-engineer-the-reality%2F&psig=AOvVaw2FW_gkiP6dMU8C1_tT3WXh&ust=1683018623383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOip2ovj0_4CFQAAAAAdAAAAABAE"> Super AI Engineer The Reality Season 1 </a> will be on air soon! Stay tuned! 
+  ⬇️ Read the <a href="https://thailand.postsen.com/live-style/76272/Super-AI-Engineer-The-Reality-for-the-first-time-in-Thailand-with-a-competition-to-find-the-best-AI-engineers.html"> news.</a><br>
+  <img align="left" src="/images/reality.jpg" alt= "reality" width="150" height="190" style="margin: 15px"> 
+  <!-- <img align="left" src="https://www.it24hrs.com/wp-content/uploads/2022/11/IMG_5662.jpg" alt= "jinpu-reality" width="150" height="150" style="margin: 15px">  -->
+  <img align="left" src="/images/jinpu-reality-three.jpeg" alt= "jinpu-reality-three" width="190" height="190" style="margin: 15px"> 
+  </medium>
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> June 4, 2022 </b> - 🗣️ SIIT's 30th Talk! Thank you for chosing me as one of thirty people who represents SIIT reputation throughout these 30 years. And, Happy Birthday SIIT! Thank you for shaping me who I am and I am always grateful for being a graduate student here! ⬇️ Listen to <a href="https://www.facebook.com/watch/203136809553/500487245203474/?__cft__[0]=AZU1q8I_fZhdkdrVptfPQJcjTB6SnNd5HHBtQrV8NCj71fFcBO3XVi5OQygnTzmZgwtro3JeQHD4AcIGoImKqfJ1OOAcdmpEWFvECDlMXdyOIQj9M5zf59VqVjy-9ido988V7rC8Yf7eWAYLZTZOw0Wj&__tn__=C%2CP-R"> my talk. </a> <br>
+  <img align="left" src="/images/jinpu-siit-1.jpeg" alt= "jinpu-siit-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-siit-3.jpeg" alt= "jinpu-siit-3" width="230" height="150" style="margin: 15px"> 
+  </medium>
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> 
+  <b> February 21, 2022 </b> - My master thesis, <i> Simulation and control of drug release on microneedle using machine learning technique,</i> is published <a href="https://digital.library.tu.ac.th/tu_dc/frontend/Creator/personDc/375797"> here </a>
+  </medium>
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> January 21, 2022 </b> - It is an honor for me to participate at GYSS and join the panel discussion Artificial Intelligence, Ethics, and Governance with Prof. Cédric Villani and Prof. Leslie Valiant. For a young researcher like me, this is the most inspiring event I have ever attended in my life. Thank you NSTDA for providing me this opportunity. <br> ⬇️ Read the <a href="https://www.princess-it-foundation.org/images/activity/2022/report/1032565/ppt/3-7-2.pdf"> report </a> and <a href="https://romrawin.medium.com/summary-artificial-intelligence-ethics-and-governance-from-gyss-2022-ee0fab66755d"> my review </a>  in Thai. <br> 
+  <img align="left" src="/images/gyss.jpeg" alt= "jinpu-gyss" width="270" height="150" style="margin: 15px"> 
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> November 16, 2021 </b> - Thank you very much, Thammasat! My most honored moment throughout my time here. Thank you for showing me how we can make a difference in people's lives in everything we do and for shaping me a better person in my way. ⬇️ Read the<a href="https://tu.ac.th/en/thammasat-261064-siit-super-ai-engineer"> news. </a> <br>
+  <img align="left" src="https://tu.ac.th/uploads/news-tu/images/oct64/home585.jpg" alt= "jinpu-siit-" width="240" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/super-ai-tu.jpeg" alt= "jinpu-tu-news" width="150" height="150" style="margin: 15px"> 
+  </medium> 
+  </p>
+</div>
+
+<div>
+  <p id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+  <medium> <b> October 1, 2021 </b> - It is an honor for me to be awarded the Silver Medal as known as the Advanced AI Certificate from the Super AI Engineer Development program (10/3500 participants). <br> 📮 My poster was also awareded the best poster! ⬇️ The face generation <a href="https://drive.google.com/file/d/1pgoQrtJs_h5Nyy6ajN27Lf_5UJ022MVw/view?usp=share_link"> poster </a> can be viewed here. <br>
+  <img align="left" src="/images/jinpu-silver-1.jpg" alt= "jinpu-silver-1" width="150" height="150" style="margin: 15px"> 
+  <img align="left" src="/images/jinpu-silver-2.jpg" alt= "jinpu-silver-2" width="150" height="150" style="margin: 15px"> 
+  </medium> 
+  </p>
+</div>
+
+

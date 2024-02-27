@@ -4,7 +4,7 @@ author: Romrawin Chumpu
 layout: "post"
 tags: ["project"]
 env: "production"
-draft: true
+hiddenInHomeList: true
 ShowWordCount: true
 tocopen: false
 ShowShareButtons: false

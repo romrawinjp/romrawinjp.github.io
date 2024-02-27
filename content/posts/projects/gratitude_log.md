@@ -5,7 +5,7 @@ layout: "post"
 date: "2024-02-14"
 tags: ["gratitude", "project"]
 env: "production"
-draft: true
+hiddenInHomeList: true
 ShowWordCount: true
 tocopen: true
 ShowShareButtons: false

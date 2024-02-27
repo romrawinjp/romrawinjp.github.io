@@ -5,7 +5,7 @@ date: "2024-02-15"
 layout: "post"
 tags: ["project", "leisure", "GAN"]
 env: "production"
-draft: true
+hiddenInHomeList: true
 ShowWordCount: true
 tocopen: false
 ShowShareButtons: false
