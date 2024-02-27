@@ -12,7 +12,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 <style> 
 body {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #rcorners1 {
@@ -44,7 +44,7 @@ body {
 </style> 
 
 
-# (Almost) Research Projects
+# (Almost) Research Project
 
 <div class="row">
   <div class="column">

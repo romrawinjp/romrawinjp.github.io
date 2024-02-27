@@ -5,6 +5,7 @@ author: Romrawin Chumpu
 layout: "post"
 tags: ["work", "project", "code"]
 env: "production"
+hiddenInHomeList: true
 ShowWordCount: true
 # tocopen: true
 ShowShareButtons: false

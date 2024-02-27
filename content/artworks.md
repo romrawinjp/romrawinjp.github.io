@@ -10,7 +10,7 @@ ShowWordCount: false
 
 <style> 
 body {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 * {
@@ -298,17 +298,18 @@ I almost forget how much I love to do watercolor since when I was a kid 😊. Gl
 </div> -->
 
 <img src="/images/artworks/ocean.jpg" alt= "paint-ocean" style="width:100%">
-Who said it's easy!? Lighting in here is so hard! <br>
+
+<!-- Who said it's easy!? Lighting in here is so hard! <br> -->
 
 <!-- `Jan 23, 2024` Me and dad are going to paint ocean textures on the floor! > <a href="/projects/ocean/"> 🌊 Ocean's exhibition </a> project  -->
 
-# Poem
+<!-- # Poem -->
 
 <!-- When it comes, it comes. Life is easier than you think. Why make it so complicated? At the end of the day, it is nothing. 
 
 `2023` 🫤 How do you know that? How could you know that? -->
 
-My favorite is always Emily Dickinson.
+<!-- My favorite is always Emily Dickinson.
 
 > “Hope” is the thing with feathers - <br>
 > That perches in the soul - <br>
@@ -323,7 +324,7 @@ My favorite is always Emily Dickinson.
 > I’ve heard it in the chillest land - <br>
 > And on the strangest Sea - <br>
 > Yet - never - in Extremity, <br>
-> It asked a crumb - of me.
+> It asked a crumb - of me. -->
 
 <!-- # Reflection on My Hidden Messages
 

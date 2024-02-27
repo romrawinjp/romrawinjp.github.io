@@ -12,7 +12,7 @@ analytics.google.SiteVerificationTag: "XYZabc"
 
 <style> 
 body {
-  font-size: 14px;
+  font-size: 16px;
 }
 #rcorners1 {
   display: flex;
