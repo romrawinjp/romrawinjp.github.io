@@ -44,6 +44,9 @@ languages:
                 - name: Artworks
                   url: artworks/
                   weight: 3
+                - name: Blog
+                  url: posts/
+                  weight: 4
                 - name: Project
                   url: project/
                   weight: 2
@@ -168,7 +171,7 @@ params:
             
     socialIcons:
         - name: googlescholar
-          url: "https://scholar.google.co.th/citations?user=d2mMM0AAAAAJ&hl=en"
+          url: "https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en"
         - name: github
           url: "https://github.com/romrawinjp"
         # - name: instagram
