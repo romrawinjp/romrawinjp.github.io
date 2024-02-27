@@ -5,6 +5,7 @@ layout: "post"
 tags: ["jinpu", "jin" ,"cv", "work", "publications"]
 env: "production"
 ShowWordCount: true
+homepage: true
 tocopen: true
 ShowShareButtons: false
 analytics.google.SiteVerificationTag: "XYZabc"

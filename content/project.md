@@ -5,7 +5,7 @@ layout: "post"
 tags: ["leisure", "work", "project", "code"]
 env: "production"
 ShowWordCount: true
-tocopen: true
+tocopen: false
 ShowShareButtons: false
 analytics.google.SiteVerificationTag: "XYZabc"
 ---
@@ -18,7 +18,7 @@ body {
 #rcorners1 {
   display: flex;
   border-radius: 10px;
-  background: rgba(200, 200, 200, 0.10);
+  background: rgba(211, 200, 211, 0.10);
   padding: 20px; 
   max-width: 700px;
   height: auto;
@@ -43,8 +43,8 @@ body {
 
 </style> 
 
-# My (Fun) Project Collection
 
+# (Almost) Research Projects
 
 <div class="row">
   <div class="column">
@@ -57,15 +57,18 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/posts/projects/faulty_model/">
+    <a href="/posts/projects/yarn_simulation/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
-        <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
-      </medium> 
-    </div>
-  </a>
+          &nbsp; &nbsp; &nbsp;<center> <medium> <b>(Crochet) Yarn Simulation</b>
+          <img align="center" src="/images/project/yarn_simulation.jpg" alt= "yarn" width="50%"" style="margin: 10px"> 
+        </medium></center> 
+      </div>
+    </a>
   </div>
 </div>
+
+
+# Arts Project
 
 <div class="row">
   <div class="column">
@@ -78,10 +81,10 @@ body {
     </a>
   </div>
   <div class="column">
-    <a href="/posts/projects/gratitude_log/">
+    <a href="/posts/projects/topology/">
       <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitude Log</b> &nbsp; &nbsp; 
-          <img align="center" src="/images/project/gratitude_log.jpg" alt= "gratitude" width="50%"" style="margin: 10px"> 
+        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Everything, Everywhere, Topology!</b>
+        <img align="center" src="/images/project/topology.jpg" alt= "topology" width="50%"" style="margin: 10px"> 
         </medium></center> 
       </div>
     </a>
@@ -111,28 +114,40 @@ body {
 
 <div class="row">
   <div class="column">
-  <a href="/posts/projects/topology/">
-    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>Everything, Everywhere, Topology!</b>
-        <img align="center" src="/images/project/topology.jpg" alt= "topology" width="50%"" style="margin: 10px"> 
-      </medium></center> 
-    </div>
+    <a href="/posts/projects/faulty_model/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+         &nbsp; &nbsp; &nbsp;<center> <medium> <b>Faulty Models Are Beautiful</b> &nbsp; &nbsp; 
+        <img align="center" src="/images/project/faulty_model.jpg" alt= "faulty_model" width="50%"" style="margin: 10px"> </center>
+      </medium> 
+      </div>
     </a>
   </div>
   <div class="column">
-  <a href="/posts/projects/yarn_simulation/">
-    <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
-        &nbsp; &nbsp; &nbsp;<center> <medium> <b>(Crochet) Yarn Simulation</b>
-        <img align="center" src="/images/project/yarn_simulation.jpg" alt= "yarn" width="50%"" style="margin: 10px"> 
-      </medium></center> 
-    </div>
-    </a>
+
   </div>
 </div>
 
 
-# Super Slow Pace Projects
+# Life Project
 
+<div class="row">
+  <div class="column">
+    <a href="/posts/projects/gratitude_log/">
+      <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
+          &nbsp; &nbsp; &nbsp;<center> <medium> <b>Gratitude Log</b> &nbsp; &nbsp; 
+          <img align="center" src="/images/project/gratitude_log.jpg" alt= "gratitude" width="50%"" style="margin: 10px"> 
+        </medium></center> 
+      </div>
+    </a>
+  </div>
+  <div class="column">
+
+  </div>
+</div>
+
+
+
+<!-- 
 <div class="row">
   <div class="column">
     <div id = "rcorners1" content="width=device-width, height=device-height, initial-scale=1">
@@ -171,4 +186,4 @@ body {
         </div>
     </a>
   </div>
-</div>
+</div> -->

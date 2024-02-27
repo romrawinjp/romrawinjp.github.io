@@ -6,6 +6,7 @@ description: "This chapter will talk about introduction"
 categories: ["math"]
 series: ["math-cs"]
 tags: ["math-cs"]
+draft: true
 ---
 
 # Introduction

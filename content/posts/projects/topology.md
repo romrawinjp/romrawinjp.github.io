@@ -3,10 +3,11 @@ title: "Everything, Everywhere, Topology!"
 author: Romrawin Chumpu
 layout: "post"
 date: "2024-02-3"
-tags: ["topology", "project"]
+tags: ["topology", "art-project"]
 env: "production"
-ShowWordCount: true
-tocopen: true
+draft: true
+ShowWordCount: false
+tocopen: false
 ShowShareButtons: false
 # analytics.google.SiteVerificationTag: "XYZabc"
 ---

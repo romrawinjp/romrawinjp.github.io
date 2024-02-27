@@ -4,6 +4,7 @@ author: Romrawin Chumpu
 layout: "post"
 tags: ["leisure", "work", "project", "code"]
 env: "production"
+draft: true
 ShowWordCount: true
 # tocopen: true
 ShowShareButtons: false
