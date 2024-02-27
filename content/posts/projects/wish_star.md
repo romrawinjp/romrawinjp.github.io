@@ -9,7 +9,7 @@ ShowWordCount: true
 ShowReadingTime: true
 # images: "/images/project/crochet/star_parts.jpg"
 # tocopen: true
-draft: true
+hiddenInHomeList: true
 ShowShareButtons: false
 analytics.google.SiteVerificationTag: "XYZabc"
 ---

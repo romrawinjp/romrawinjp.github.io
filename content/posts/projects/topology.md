@@ -5,7 +5,7 @@ layout: "post"
 date: "2024-02-3"
 tags: ["topology", "art-project"]
 env: "production"
-draft: true
+hiddenInHomeList: true
 ShowWordCount: false
 tocopen: false
 ShowShareButtons: false
