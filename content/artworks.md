@@ -57,7 +57,7 @@ where \(x\) and \(y\) are coordinate variables as René Descartes said.
 
 
 # Sketch
-Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for papers.
+Wandering around procreate and paper/pencil 📃. Started since August 2023 for procreate and life-time for paper.
 
 <div class="row">
   <div class="column">
@@ -105,7 +105,7 @@ After I knew lighting was hard, I realized this was one of my weaknesses. Learni
 
 ## Inktober 2023 (but Blender)
 
-It's ink! but in blender.  This is the first time I use grease pencil 😄. Here are the top three pieces I like so far.
+It's ink! but in blender. This is the first time I use grease pencil 😄. Here are the top three pieces I like so far.
 
 <div class="row">
   <div class="column">
@@ -125,7 +125,7 @@ It's ink! but in blender.  This is the first time I use grease pencil 😄. Here
 
 A fun (out-of-the-box) comic about my daily life here.
 
-<img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt">
+<!-- <img src="/images/artworks/comic_loykrathong.png" alt= "comic-lkt"> -->
 
 Glasses' Story
 <img src="/images/artworks/comic_glasses.png" alt= "comic-glass">
@@ -134,7 +134,7 @@ A compliment
 <img src="/images/artworks/comic_compliment.jpg" alt= "comic-compliment">
 
 
-# Infographic
+# Sketchnote
 
 This was inspired by the visualization after TEDx talks. I think every complicated topic can be easily understood with the help of some images. 
 
@@ -254,7 +254,7 @@ Bought an ipad app, Nomad Sculpt, as my imaginary reward in Jan 2024. Everything
 
 # Painting
 
-Picking up some brushes 🖌️ like Van Gogh! (or like yourself?) Started life-time for painting.
+Picking up some brushes! 🖌️ Started life-time for painting.
 
 ## Watercolor
 I almost forget how much I love to do watercolor since when I was a kid 😊. Glad I have time to do this. Understand how water flow is always mesmerizing, I should paint more often.
@@ -338,4 +338,4 @@ Someone once said that I always put some hidden message in my art. I usually don
 
 
 > **Acknowledgement** <br>
-> My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if... I don't wanna be famous.
+> My high school teacher once said, "How about giving up on research path? You're gonna be a famous artist." I don't believe it, but sometimes I was wondering... what if... I don't wanna be famous. I'm denying my fate! jk artist is all a part of me. I use my skills all the time, but in reality and physically, appearing in a normal human being, not in like what people imagine. 
