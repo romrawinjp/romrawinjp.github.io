@@ -52,9 +52,9 @@ $$
 {{< math.inline >}}
 where \(x\) and \(y\) are coordinate variables as René Descartes said.
 {{</ math.inline >}}
+<br>
 
-<br><br>
-**Enjoy my artworks? [☕ Just buy me some coffee.](https://www.buymeacoffee.com/romrawinjp)**
+**Enjoy my artworks?** [☕ Buy me a coffee.](https://www.buymeacoffee.com/romrawinjp)
 
 
 # Sketch
