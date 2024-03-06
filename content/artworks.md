@@ -53,9 +53,8 @@ $$
 where \(x\) and \(y\) are coordinate variables as René Descartes said.
 {{</ math.inline >}}
 
-<br>
-
-Enjoy my artworks? [☕ Just buy me some coffee!](https://www.buymeacoffee.com/romrawinjp)
+<br><br>
+**Enjoy my artworks? [☕ Just buy me some coffee.](https://www.buymeacoffee.com/romrawinjp)**
 
 
 # Sketch
