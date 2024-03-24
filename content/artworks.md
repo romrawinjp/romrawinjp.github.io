@@ -202,6 +202,14 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 
 `Nov 16, 2023` <a href="/posts/projects/crochet_pattern/"> My Invented Crochet Pattern </a> > <a href="/posts/projects/wish_star/"> ⭐ Disney Wish Star's Pattern </a> 
 
+`March 24, 2024` My first (successful/cringe-quote) tapestry crochet!
+<img src="/images/artworks/crochet_tapestry.jpg" alt= "tapestry">
+I was trying to do tapestry for a while, because I heard people say "Oh~, it's A LOT easier than your amigurumis. It's just a line connected to a line!" 
+
+But every time after line 2, I messed up. It's actually algorithemic ways than I think or I was just overthinking. So this time, I came up with sorting knots, hiding yarns between switching colors and having some algorithms line over line. These are just only satisfied my brain 😆
+
+But ok, I discovered my stubburn pattern here. I gave up too easily the first time. I made the decision that I couldn't do it, or maybe that is not for me. A part of it is because I couldn't see how amazing an outcome I could have in the next time if I decided not to give up. 
+
 # Papercraft
 
 My new hobby (again!?) since Dec 2023. 

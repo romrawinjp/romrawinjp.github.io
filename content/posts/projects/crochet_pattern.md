@@ -16,4 +16,4 @@ ShowShareButtons: false
 
 ![disney star](/images/project/crochet/small_star.jpg)
 
-Disney Wish Star's pattern click <a href="/projects/wish_star/"> here </a>!
+Disney Wish Star's pattern click <a href="/posts/projects/wish_star/"> here </a>!

@@ -44,9 +44,9 @@ languages:
                 - name: Artworks
                   url: artworks/
                   weight: 3
-                - name: Blog
-                  url: posts/
-                  weight: 4
+                # - name: Blog
+                #   url: posts/
+                #   weight: 4
                 - name: Project
                   url: project/
                   weight: 2
