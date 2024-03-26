@@ -28,3 +28,5 @@ As a little human in this dreadful world, thankfulness is one of the most precio
 > I am thankful for opportunities in my education, for a supportive environment, and for an exceptional society of genius friends. No one tells me to repay the scholars, but I promise I will be a little hand to foster the next generation of a good society until my last breath. -- Me to all opportunities I have received, life-time gratitude
 
 > `Feb 25, 2024` I heard people saying ___ these days. Even I couldn't accept that right now, but that means a lot to me. 
+
+> There is nothing else to do but to embrace where you find yourself. -- p. 105, Don't Worry. A book, borrowed from Ying (She handed me the book when I need it to read the most. How did she know that!?). This might be the time I needed the most in my life.
