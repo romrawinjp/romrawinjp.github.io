@@ -204,11 +204,11 @@ Started since Jan 2021. Imma like a grandma friend? 😄 I usually do crochet wh
 
 `Mar 24, 2024` My first (successful/cringe-quote) tapestry crochet!
 <img src="/images/artworks/crochet_tapestry.jpg" alt= "tapestry">
-I was trying to do tapestry for a while, because I heard people say "Oh~, it's A LOT easier than your amigurumis. It's just a line connected to a line!" 
+<!-- I was trying to do tapestry for a while, because I heard people say "Oh~, it's A LOT easier than your amigurumis. It's just a line connected to a line!"  -->
 
-But every time after line 2, I messed up. It's actually algorithemic ways than I think or I was just overthinking. So this time, I came up with sorting knots, hiding yarns between switching colors and having some algorithms line over line. These are just only satisfied my brain 😆
+<!-- But every time after line 2, I messed up. It's actually algorithemic ways than I think or I was just overthinking. So this time, I came up with sorting knots, hiding yarns between switching colors and having some algorithms line over line. These are just only satisfied my brain 😆 -->
 
-But ok, I discovered my stubburn pattern here. I gave up too easily at the first time. I made the decision that I couldn't do it, or maybe that is not for me. I build an imaginary wall and am always scared to break it. Because the young me couldn't see how amazing an outcome I could have next time if I decided not to give up. We would definitely do better next time. 
+<!-- But ok, I discovered my stubburn pattern here. I gave up too easily at the first time. I made the decision that I couldn't do it, or maybe that is not for me. I build an imaginary wall and am always scared to break it. Because the young me couldn't see how amazing an outcome I could have next time if I decided not to give up. We would definitely do better next time.  -->
 
 # Papercraft
 
