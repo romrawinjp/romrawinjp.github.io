@@ -29,4 +29,4 @@ As a little human in this dreadful world, thankfulness is one of the most precio
 
 > `Feb 25, 2024` I heard people saying ___ these days. Even I couldn't accept that right now, but that means a lot to me. 
 
-> There is nothing else to do but to embrace where you find yourself. -- p. 105, Don't Worry. A book, borrowed from Ying (She handed me the book when I need to read it the most. How did she know that!?). This might be the time I needed the most in my life.
+> There is nothing else to do but to embrace where you find yourself. -- p. 105, Don't Worry. A book, borrowed from Ying (She handed me the book when I need to read it the most. How did she know that!?). This might be the time I needed the most in my life to think and to find who I really am.
