@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://romrawinjp.github.io/sitemap.xml
