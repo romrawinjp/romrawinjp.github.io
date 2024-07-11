@@ -64,13 +64,14 @@
 }
 
 a {
-  color: #1772d0;
+  color: #0f0fc5;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #7ab114;
+  color: #ffffff;
+  background: linear-gradient(to right, #f672bb, #8810b4);
   text-decoration: none;
 }
 
