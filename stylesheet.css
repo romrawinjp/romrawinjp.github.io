@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #0f0fc5;
+  color: #5100b5;
   text-decoration: none;
 }
 
@@ -100,14 +100,15 @@ h2 {
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
+  color: #34005b;
   font-weight: 700;
 }
 
 .name {
-  padding-top: 20px;
+  padding-top: 32px;
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 25px;
 }
 
 .one {
