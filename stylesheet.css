@@ -73,6 +73,7 @@ a:hover {
   color: #ffffff;
   background: linear-gradient(to right, #f672bb, #8810b4);
   text-decoration: none;
+  border-radius: 5px;
 }
 
 body,
